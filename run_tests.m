@@ -8,7 +8,7 @@
 % Reference Case from AJT 2017 paper
 DriverScript
 
-case0.concentrations = out_anal;
+case0.con = out_anal;
 case0.ems = anal_soln;
 case0.nh_ch4_ems = anal_soln{1}(:,1);
 case0.sh_ch4_ems = anal_soln{1}(:,2);
@@ -28,7 +28,7 @@ DriverScript_case1
 
 
 % Give variables names 
-case1.concentrations = out_anal;
+case1.con = out_anal;
 case1.ems = anal_soln;
 case1.nh_ch4_ems = anal_soln{1}(:,1);
 case1.sh_ch4_ems = anal_soln{1}(:,2);
@@ -42,7 +42,7 @@ DriverScript_case2
 
 
 % Give variables names 
-case2.concentrations = out_anal;
+case2.con = out_anal;
 case2.ems = anal_soln;
 case2.nh_ch4_ems = anal_soln{1}(:,1);
 case2.sh_ch4_ems = anal_soln{1}(:,2);
@@ -63,7 +63,7 @@ DriverScript_case3
 
 
 % Give variables names 
-case3.concentrations = out_anal;
+case3.con = out_anal;
 case3.ems = anal_soln;
 case3.nh_ch4_ems = anal_soln{1}(:,1);
 case3.sh_ch4_ems = anal_soln{1}(:,2);
@@ -77,7 +77,7 @@ save('case3_test_tau0.mat')
 
 DriverScript_case4
 
-case4.concentrations = out_anal;
+case4.con = out_anal;
 case4.ems = anal_soln;
 case4.nh_ch4_ems = anal_soln{1}(:,1);
 case4.sh_ch4_ems = anal_soln{1}(:,2);
@@ -89,7 +89,7 @@ case4.sh_oh_ems = anal_soln{1}(:,12);
 save('case4_test_tau0.mat')
 
 DriverScript_case5
-case5.concentrations = out_anal;
+case5.con = out_anal;
 case5.ems = anal_soln;
 case5.nh_ch4_ems = anal_soln{1}(:,1);
 case5.sh_ch4_ems = anal_soln{1}(:,2);

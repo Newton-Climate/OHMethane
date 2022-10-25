@@ -56,11 +56,11 @@ addpath(sprintf('%s/inv/deterministic', utilDir));
 addpath(sprintf('%s/inv/stochastic',    utilDir));
 
 %%% Define the time period
-sYear                                                        = 1980;
-eYear                                                        = 2019;
+sYear                                                        = 1995;
+eYear                                                        = 2022;
 %eYear                                                       = 2100;
-tRes                                                         = 'year';     % Can be 'year' or 'month' (year preferred)
-tAvg                                                         = 'year';     % Smooth the observations
+tRes                                                         = 'month';     % Can be 'year' or 'month' (year preferred)
+tAvg                                                         = 'month';     % Smooth the observations
 St                                                           = getTime(sYear,eYear,tRes); % Time vector
 nT                                                           = length(St);
 
@@ -106,8 +106,8 @@ plot_prior                                                   = false;     % Plot
 plot_raw                                                     = false;    % Plot the raw observations?
 plot_old_cmaes                                               = false;    % Plot an old CMA-ES solution (false means run a new one)
 % General flags
-use_strat                                                    = true;     % Use a stratosphere?
-interactive_OH                                               = true;     % Allow OH feedbacks?
+use_strat                                                    = false;     % Use a stratosphere?
+interactive_OH                                               = false;     % Allow OH feedbacks?
 use_other_sinks                                              = false;     % Use non-OH sinks?
 % Linear inversion flags
 use_other_sinks                                              = false;     % Use non-OH sinks?
@@ -120,8 +120,8 @@ ignoreCO                                                     = true;     % keep 
 onlyMCF                                                      = false;    % Only invert for MCF emissions
 schaefer                                                     = false;    % Case that is most similar to Schaefer et al.
 % Flags for priors in inversions
-no_temporal_correlation                                      = true; % Run with no temporal correlation? Should be run with large_prior
-large_prior                                                  = true; % Run with large prior in emissions?
+no_temporal_correlation                                      = false; % Run with no temporal correlation? Should be run with large_prior
+large_prior                                                  = false; % Run with large prior in emissions?
 
 % MCF sensitivity test flags
 k_co_flag                                                    = false;     % Use k_CO that AJT derived
@@ -175,9 +175,9 @@ catch % Some data is missing
         try c2h6_obs                                         = getC2H6(dataDir,reread); catch c2h6_obs = NaN; end
     catch % Otherwise, set the observation structures to NaN
         fprintf(' * UNABLE TO READ OBSERVATIONS!\n');
-        ch4_obs                                              = NaN;
-        ch4c13_obs                                           = NaN;
-        ch4h2_obs                                            = NaN;
+        %ch4_obs                                              = NaN;
+        %ch4c13_obs                                           = NaN;
+        %ch4h2_obs                                            = NaN;
         mcf_obs                                              = NaN;
         n2o_obs                                              = NaN;
         c2h6_obs                                             = NaN;
@@ -195,6 +195,8 @@ end
 % - NH/SH C2H6   obs & err (ppt)
 % - NH/SH CO     obs & err (ppb)
 obs                                                          = makeObs(St,tAvg,ch4_obs,ch4c13_obs,mcf_obs,n2o_obs,c2h6_obs,co_obs,dataDir,reread);
+save('obs.mat')
+%obs = update_2021(obs, tRes)
 
 %%% AJT EDIT HERE (2019/05/02)
 
@@ -205,10 +207,10 @@ if use_Turner_Bootstrap
     obs                                                      = ajt_obs.out;
 end
 
-coYear                                                       = datenum(1991, 1, 1);
-ind                                                          = find(St<coYear);
-obs.nh_co(ind(1) : ind(end))                                 = nan;
-obs.sh_co(ind(1) : ind(end))                                 = nan;
+%coYear                                                       = datenum(1991, 1, 1);
+%ind                                                          = find(St<coYear);
+%obs.nh_co(ind(1) : ind(end))                                 = nan;
+%obs.sh_co(ind(1) : ind(end))                                 = nan;
 
 
 %
@@ -232,7 +234,7 @@ end
 
 %%% Diagnostics (check the raw data)
 if plot_raw
-    deseasonalize                                            = true;
+    deseasonalize                                            = false;
     plot_all_sites                                           = false;
     plotAllObs(St,obs,ch4_obs,   tAvg, 'ch4' ,sprintf('%s/%s/raw_%%s_%%s.%s',outDir,tRes,ftype),deseasonalize,plot_all_sites);
     plotAllObs(St,obs,ch4c13_obs,tAvg, 'd13C',sprintf('%s/%s/raw_%%s_%%s.%s',outDir,tRes,ftype),deseasonalize,plot_all_sites);
@@ -412,17 +414,17 @@ if do_deterministic
     
     
     %%% Plot the Jacobians
-    [jacobian_ems,jacobian_IC]                               = define_Jacobian( St, ems, IC, params, run_parallel );
+%    [jacobian_ems,jacobian_IC]                               = define_Jacobian( St, ems, IC, params, run_parallel );
     
     
-    plotJacobian(St,jacobian_ems,tRes,sprintf('%s/%s/jacobian_%%s.%s',outDir,tRes,ftype));
+%    plotJacobian(St,jacobian_ems,tRes,sprintf('%s/%s/jacobian_%%s.%s',outDir,tRes,ftype));
     
     %%% Try plotting the solution
     ems_anal                                                 = anal_soln{1};
     IC_anal                                                  = anal_soln{2};
     % Comment this out for now:
     out_anal                                                 = boxModel_wrapper(St,ems_anal,IC_anal,params);
-    plotNewObs(St,out_anal,obs,sprintf('%s/%s/anal_%%s.%s',outDir,tRes,ftype));
+%    plotNewObs(St,out_anal,obs,sprintf('%s/%s/anal_%%s.%s',outDir,tRes,ftype));
     %writeData(St,obs,out_anal,ems_anal,IC_anal,sprintf('%s/%s/anal_%%s.csv',outDir,tRes));
     %plotObs(St,out_anal,obs,sprintf('%s/%s/anal_%%s.%s',outDir,tRes,ftype));
     %plotDrivers(St,ems_anal,ems,sprintf('%s/%s/anal_%%s.%s',outDir,tRes,ftype),dataDir);

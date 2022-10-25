@@ -52,10 +52,10 @@ addpath(sprintf('%s/inv/deterministic', utilDir));
 addpath(sprintf('%s/inv/stochastic',    utilDir));
 
 %%% Define the time period
-sYear = 1980;
-eYear = 2017;
+sYear = 1995;
+eYear = 2022;
 %eYear = 2100;
-tRes  = 'year';     % Can be 'year' or 'month' (year preferred)
+tRes  = 'month';     % Can be 'year' or 'month' (year preferred)
 tAvg  = 'year';     % Smooth the observations
 St    = getTime(sYear,eYear,tRes); % Time vector
 nT    = length(St);
@@ -117,8 +117,8 @@ ignoreCO = false; % keep CO emissions fixed
 onlyMCF         = false;    % Only invert for MCF emissions
 schaefer        = false;    % Case that is most similar to Schaefer et al.
 % Flags for priors in inversions
-no_temporal_correlation = true; % Run with no temporal correlation? Should be run with large_prior
-large_prior = true; % Run with large prior in emissions? 
+no_temporal_correlation = false; % Run with no temporal correlation? Should be run with large_prior
+large_prior = false; % Run with large prior in emissions? 
 
 % MCF sensitivity test flags
 k_co_flag       = true;     % Use k_CO that AJT derived
@@ -207,10 +207,10 @@ if use_Turner_Bootstrap
     obs     = ajt_obs.out;
 
 % Get rid of CO data before 1990
-coYear = datenum(1991, 1, 1);
-ind = find(St<coYear);
-obs.nh_co(ind(1) : ind(end)) = nan;
-obs.sh_co(ind(1) : ind(end)) = nan;
+%coYear = datenum(1991, 1, 1);
+%ind = find(St<coYear);
+%obs.nh_co(ind(1) : ind(end)) = nan;
+%obs.sh_co(ind(1) : ind(end)) = nan;
 
 end
 
@@ -410,14 +410,14 @@ if do_deterministic
     %[jacobian_ems,jacobian_IC] = define_Jacobian( St, ems, IC, params, run_parallel );
 
 
-    plotJacobian(St,jacobian_ems,tRes,sprintf('%s/%s/jacobian_%%s.%s',outDir,tRes,ftype));
+%    plotJacobian(St,jacobian_ems,tRes,sprintf('%s/%s/jacobian_%%s.%s',outDir,tRes,ftype));
     
     %%% Try plotting the solution
     ems_anal = anal_soln{1};
     IC_anal  = anal_soln{2};
     % Comment this out for now:
     out_anal = boxModel_wrapper(St,ems_anal,IC_anal,params);
-    plotNewObs(St,out_anal,obs,sprintf('%s/%s/anal_%%s.%s',outDir,tRes,ftype));
+%    plotNewObs(St,out_anal,obs,sprintf('%s/%s/anal_%%s.%s',outDir,tRes,ftype));
     %writeData(St,obs,out_anal,ems_anal,IC_anal,sprintf('%s/%s/anal_%%s.csv',outDir,tRes));
     %plotObs(St,out_anal,obs,sprintf('%s/%s/anal_%%s.%s',outDir,tRes,ftype));
     %plotDrivers(St,ems_anal,ems,sprintf('%s/%s/anal_%%s.%s',outDir,tRes,ftype),dataDir);
