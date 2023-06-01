@@ -31,9 +31,9 @@ for k = 1:2
     sst = nan(size(t));
     for i = 1:length(t)
         ind    = Sind == Sind(i);
-        sst(i) = nanmean(yDetrend(ind));
+        sst(i) = mean(yDetrend(ind), "omitnan");
     end
-    Sbar      = nanmean(sst);
+    Sbar      = mean(sst, "omitnan");
     SeasCycle = sst - Sbar;
     % Step 4: Deseasonalize the time series
     yO = yO - SeasCycle;
