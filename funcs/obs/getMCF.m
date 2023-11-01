@@ -172,21 +172,27 @@ end
 dataDirU = sprintf('%sobs/mcf/AGAGE/',dataDir);
 
 %%% Define the site names, header lengths, and latitudes
-% Filename structure
-fNameS = '%s-gcmd.mon';
-sNames = { 'CGO', 'MHD', 'RPB', 'SMO', 'THD'};
-sLat   = [-40.68, 53.33, 13.17,-14.23, 41.05];
-nHDR   = [    16,    16,    16,    16,    16];
+% Filename structure for CH3CCl3 data
+fNameS = 'AGAGE-GCMD_%s_ch3ccl3_mon.txt';  % Updated pattern
+sNames = {'CGO', 'MHD', 'RPB', 'SMO', 'THD'};
+sLat   = [-40.68, 53.33, 13.17, -14.23, 41.05];
+nHDR   = [33, 33, 33, 33, 33];
 
 %%% Read the data
 for i = 1:length(sNames)
     % Current filename
-    fName = sprintf('%s%s',dataDirU,sprintf(fNameS,sNames{i}));
+    fName = fullfile(dataDirU, sprintf(fNameS, sNames{i}));
+    % Check if the file exists
+    if ~isfile(fName)
+        warning('File does not exist: %s', fName);
+        continue;
+    end
+
     % Load the data
-    dat   = importdata(fName,' ',nHDR(i));
+    dat   = importdata(fName, ' ', nHDR(i));
     dat   = dat.data;
-    tDat  = datenum(dat(:,3),dat(:,2),ones(size(dat(:,1))));
-    yDat  = dat(:,11);
+    tDat  = datenum(dat(:,2), dat(:,3), ones(size(dat(:,1))));
+    yDat  = dat(:,4);
     yDat(yDat == 0) = NaN;
     % Remove NaNs
     ind  = ~isnan(yDat) & ~isnan(tDat);
@@ -194,9 +200,9 @@ for i = 1:length(sNames)
         tDat = tDat(ind);
         yDat = yDat(ind);
         % Put the data in a structure
-        out.obs.(sprintf('%s_AGAGE',sNames{i})) = yDat;
-        out.tim.(sprintf('%s_AGAGE',sNames{i})) = tDat;
-        out.lat.(sprintf('%s_AGAGE',sNames{i})) = sLat(i);
+        out.obs.(sprintf('%s_AGAGE', sNames{i})) = yDat;
+        out.tim.(sprintf('%s_AGAGE', sNames{i})) = tDat;
+        out.lat.(sprintf('%s_AGAGE', sNames{i})) = sLat(i);
     end
 end
 
