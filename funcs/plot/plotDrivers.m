@@ -48,7 +48,7 @@ oh_offset = mean((mean([ems_post.nh_oh(ind),ems_post.sh_oh(ind)],2)-1)*100);
 %%% Turn 
 yrs          = datevec(St);
 xLims        = [datenum(yrs(1,1),1,1),datenum(yrs(end,1),1,1)]';
-yLims_ch4    = [ 0    : 200 :   600]';
+yLims_ch4    = [ 0    : 200 :   700]';
 yLims_ch4c13 = [-55.0 : 0.5 : -48.0]';
 yLims_d13C   = [-53.5 : 1.0 : -48.5]';
 yLims_mcf    = [    0 : 200 :   800]';

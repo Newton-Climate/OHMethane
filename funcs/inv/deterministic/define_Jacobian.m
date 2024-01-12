@@ -69,6 +69,7 @@ else % Serial
         for j = 1:nE
             ems_pert            = ems;
             ems_pert(i,j)       = ems(i,j) + delta.ems(j);
+
             out_plus            = assembleObs(boxModel_wrapper(St,ems_pert,IC,params));
             jacobian_ems(:,i,j) = (out_plus - out_base)./delta.ems(j);
         end

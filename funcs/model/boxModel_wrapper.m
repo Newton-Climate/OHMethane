@@ -71,7 +71,7 @@ F(:,18)			      = (F(:,18)./F(:,16)-1)*1000;
 
 %%% Make the output structure
 % Do we need to interpolate?
-if any(T ~		      = St)
+if any(T ~= St)
     [pindex,index,slope]      = lininterp1_ind(T,St);
     F			      = F(pindex,:) * (1 - slope) + slope * F(index,:);
 end

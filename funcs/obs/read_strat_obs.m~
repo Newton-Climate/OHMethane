@@ -1,0 +1,16 @@
+function data = readNetCDFFile(filename, variableNames)
+    % Open the NetCDF file
+    ncid = netcdf.open(filename, 'NC_NOWRITE');
+
+    % Initialize the data cell array
+    data = cell(1, numel(variableNames));
+
+    % Read the variable data
+    for i = 1:numel(variableNames)
+        varid = netcdf.inqVarID(ncid, variableNames{i});
+        data{i} = netcdf.getVar(ncid, varid);
+    end
+
+    % Close the NetCDF file
+    netcdf.close(ncid);
+end

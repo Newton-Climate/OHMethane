@@ -22,7 +22,8 @@
 function [ dy ]          = boxModel(t,y,St,S,tau_TS,kX_NH,kX_SH,params)
 
 %%% For the OH feedback and the stratosphere
-global interactive_OH use_strat fixedOH
+global interactive_OH use_strat fixedOH 
+global ignoreStratMCFExchange
 
 %%% Initialize dy for troposphere & stratosphere (strat is same as trop)
 % - Column 1:  12CH4 in the Northern Hemisphere
@@ -63,7 +64,7 @@ tau_NS_strat             = params.tau_NS_strat;
 % tau_ST                 = tau_TS/((p_surface-p_tropopause)/(p_tropopause-p_stratopause))
 % where m_fac            = (p_surface-p_tropopause)/(p_tropopause-p_stratopause)
 %                        = 5.7047
-tau_ST                   = tau_TS / 5.7047;
+tau_ST                   = tau_TS / 10; %5.7047;
 
 %%% Is OH simulated or prescribed?
 if ~interactive_OH && ~fixedOH
@@ -103,8 +104,15 @@ dy(2)                    = S(2)  + (y(1) - y(2))/tau_NS + (y(16)- y(2))/tau_TS -
 dy(3)                    = S(3)  + (y(4) - y(3))/tau_NS + (y(17)- y(3))/tau_TS - y(3)*(k_13ch4_NH+k_ch4_other);  % NH
 dy(4)                    = S(4)  + (y(3) - y(4))/tau_NS + (y(18)- y(4))/tau_TS - y(4)*(k_13ch4_SH+k_ch4_other);  % SH
 % MCF
+if all([ignoreStratMCFExchange, use_strat])
+dy(5)                    = S(5)  + (y(6) - y(5))/tau_NS + (y(19)- y(5))/(1.0e4*tau_TS) - y(5)*k_mcf_NH;                  % NH
+dy(6)                    = S(6)  + (y(5) - y(6))/tau_NS + (y(20)- y(6))/(1.0e4*tau_TS) - y(6)*k_mcf_SH;                  % SH
+
+else
 dy(5)                    = S(5)  + (y(6) - y(5))/tau_NS + (y(19)- y(5))/tau_TS - y(5)*k_mcf_NH;                  % NH
-dy(6)                    = S(6)  + (y(5) - y(6))/tau_NS + (y(20)- y(6))/tau_TS - y(6)*k_mcf_SH;                  % SH
+dy(6)                    = S(6)  + (y(5) - y(6))/tau_NS + (y(20)- y(6))/tau_TS - y(6)*k_mcf_SH;                  
+end
+% SH
 % N2O
 dy(7)                    = S(7)  + (y(8) - y(7))/tau_NS + (y(21)- y(7))/tau_TS;                                  % NH (no loss in troposphere)
 dy(8)                    = S(8)  + (y(7) - y(8))/tau_NS + (y(22)- y(8))/tau_TS;                                  % SH (no loss in troposphere)
@@ -130,8 +138,14 @@ if use_strat
     dy(17)               = (y(18)-y(17))/tau_NS_strat + (y(3) -y(17))/tau_ST - y(17)*k_ch4_strat_NH;  % NH
     dy(18)               = (y(17)-y(18))/tau_NS_strat + (y(4) -y(18))/tau_ST - y(18)*k_ch4_strat_SH;  % SH
     % MCF
+if all([ignoreStratMCFExchange, use_strat])
+    dy(19)               = (y(20)-y(19))/tau_NS_strat + (y(5) -y(19))/(1.0e4*tau_ST) - y(19)*k_mcf_strat;     % NH
+    dy(20)               = (y(19)-y(20))/tau_NS_strat + (y(6) -y(20))/(1.0e4*tau_ST) - y(20)*k_mcf_strat;     % SH
+else
     dy(19)               = (y(20)-y(19))/tau_NS_strat + (y(5) -y(19))/tau_ST - y(19)*k_mcf_strat;     % NH
     dy(20)               = (y(19)-y(20))/tau_NS_strat + (y(6) -y(20))/tau_ST - y(20)*k_mcf_strat;     % SH
+end
+
     % N2O
     dy(21)               = (y(22)-y(21))/tau_NS_strat + (y(7) -y(21))/tau_ST - y(21)*k_n2o_NH;        % NH
     dy(22)               = (y(21)-y(22))/tau_NS_strat + (y(8) -y(22))/tau_ST - y(22)*k_n2o_SH;        % SH

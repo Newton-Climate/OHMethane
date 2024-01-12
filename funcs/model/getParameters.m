@@ -23,7 +23,8 @@ global use_other_sinks
 DaysToS               = 60 * 60 * 24;         % Days to Seconds
 YrToDay               = 365.25;               % Years to Days
 % Masses
-m                     = 5.15e21;              % Rough: Total mass of atmosphere in g
+%m                     = 5.15e21;              % Rough: Total mass of atmosphere in g
+m                     = 5.15e21;              % Rough: Total mass of troposphere in g
 n_air                 = 2.69e19;              % Rough: number density of air (molec/cm3)
 m_air                 = 28.8;                 % Average molar mass of the atmosphere in g/mol (mostly N2 and O2)
 m_ch4                 = 16;                   % Molar mass of CH4
@@ -115,10 +116,10 @@ sh_oh                 = (gmOH/n_air)*1d9;              % ppb
 nh_co                 = 95;                            % ppb
 sh_co                 = 67;                            % ppb
 % Stratosphere
-nh_12ch4_S            = 1570;                        % ppb
-sh_12ch4_S            = 1515;                        % ppb
-nh_13ch4_S            = nh_12ch4 * (1 - 47.5/1000);  % ppb
-sh_13ch4_S            = sh_12ch4 * (1 - 47.3/1000);  % ppb
+nh_12ch4_S            = 1400; %1570;                        % ppb
+sh_12ch4_S            = 1400; %1515;                        % ppb
+nh_13ch4_S            = nh_12ch4_S * (1 - 47.5/1000);  % ppb
+sh_13ch4_S            = sh_12ch4_S * (1 - 47.3/1000);  % ppb
 nh_mcf_S              = 30;                          % ppt
 sh_mcf_S              = 20;                          % ppt
 nh_n2o_S              = 302.0;                       % ppb

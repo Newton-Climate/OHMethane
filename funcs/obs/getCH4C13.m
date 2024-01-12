@@ -62,7 +62,7 @@ dataDirU = sprintf('%sobs/ch4c13/INSTAAR/month/',dataDir);
 
 %%% Define the site names, header lengths, and latitudes
 % Filename structure
-fNameS = 'ch4c13_%s_surface-flask_1_sil_month.txt';
+fNameS = 'ch4c13_%s_surface-flask_7_sil_month.txt'
 % Make the site list with: "ls month/ch4c13_*_month.txt | cut -d'_' -f2 > site_list.csv"
 fid = fopen(sprintf('%s/../site_list.csv',dataDirU));
 dat = textscan(fid,'%s %f','delimiter',',');

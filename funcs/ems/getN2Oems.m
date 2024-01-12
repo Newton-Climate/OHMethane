@@ -23,8 +23,8 @@ fprintf('   * N2O\n');
 
 %%% Which emissions do we want to use?
 edgar        = false;
-const_ems    = false;
-lin_increase = true;
+const_ems    = true;
+lin_increase = false;
 if edgar
     % Read in EDGAR
     fname       = sprintf('%s/ems/n2o/%s',dataDir,'EDGARv42FT2012_N2O.xls');

@@ -31,7 +31,7 @@ function [ soln, K_ems, K_IC, reldiff, absdiff, matr]    = invert_methane( St, o
 %%% Define tolerances
 reltol                                                   = 1e-6;
 abstol                                                   = 1e-6;
-kmax                                                     = 15;
+kmax                                                     = 5;
 k                                                        = 1;
 iter                                                     = true;
 reldiff                                                  = nan(kmax,1);
@@ -68,6 +68,7 @@ while iter
     % Update solution
     ems_i                                                = soln{1};
     IC_i                                                 = soln{2};
+
     
     chi2o                                                = LM_param.chi2;
     % Get new solution
@@ -84,11 +85,11 @@ while iter
     absdiff(k)                                           = sum([absdiff_ems;absdiff_IC]);
     reldiff(k)                                           = rms([reldiff_ems;reldiff_IC]);
     
-    if (kmax <                                           = k) % Check convergence
+    if (kmax <= k) % Check convergence
         iter                                             = false;
         %elseif (10*LM_param.chi2 < (numel(ems_p)+numel(IC_p)))
         %    iter                                        = false;
-    elseif LM_param.chi2 ~                               = chi2o % Did we accept the previous solution?
+    elseif LM_param.chi2 ~= chi2o % Did we accept the previous solution?
         if (reldiff(k) < reltol) || (absdiff(k) < abstol)
             iter                                         = false;
         end
@@ -105,7 +106,8 @@ function [ out, LM_param, matr ]                         = update_solution( St, 
 %%% Alternate cases to run
 global fixedCH4 fixedOH onlyCH4 onlyMCF schaefer use_strat ignoreMCF ignoreCO
 global fitKX interactive_OH no_temporal_correlation
-global large_prior
+global large_prior fit_strat_exchange
+global use_strat_N2O
 
 if onlyCH4
     obs.nh_ch4c13(:)                                     = NaN;
@@ -183,10 +185,10 @@ K                                                        = K(indGood,:);
 Sa_ch4                                                   =    (500)^2*ones(nT,1);
 Sa_ch4c13                                                =    10^2*ones(nT,1);
 % Sa_mcf_nh                                              = max([.2*ems_p(:,5),1.5*ones(nT,1)],[],2).^2;  % <-- AJT (2019/05/01): MCF emissions are in Gg/yr, not Tg/yr
-%Sa_mcf_nh                                               = max([.02*ems_p(:,5),0.15*ones(nT,1)],[],2).^2;
-% Sa_mcf_sh                                              =   0.15^2*ones(nT,1);
-Sa_mcf_nh                                                = max([1.5*ones(size(ems_p(:,5))),.2*ems_p(:,5)],[],2).^2;
-Sa_mcf_sh                                                =   0.5^2*ones(nT,1);
+Sa_mcf_nh                                               = max([.02*ems_p(:,5),0.15*ones(nT,1)],[],2).^2;
+ Sa_mcf_sh                                              =   0.15^2*ones(nT,1);
+%Sa_mcf_nh                                                = max([1.5*ones(size(ems_p(:,5))),.2*ems_p(:,5)],[],2).^2;
+%Sa_mcf_sh                                                =   0.5^2*ones(nT,1);
 Sa_n2o                                                   =   2.0^2*ones(nT,1);
 Sa_c2h6                                                  =  5000^2*ones(nT,1);
 % Sa_oh                                                  =  250^2*ones(nT,1);
@@ -209,6 +211,7 @@ if large_prior
     Sa_oh                                                =  (10*315)^2*ones(nT,1);
     Sa_co                                                =   800^2*ones(nT,1);
     Sa_ch4c13                                            =    100^2*ones(nT,1);
+    Sa_n2o                                            =    8^2*ones(nT,1);
 
 
 else
@@ -222,10 +225,17 @@ else
     tau_tau                                              = 0; % yr
 end
 
+% are we fitting for the strat-trop exchange time?
+if use_strat && ~fit_strat_exchange
+    Sa_tau                                                   =   eps*ones(nT,1);
+else
+    Sa_tau                                                   =   0.2^2*ones(nT,1);
+end
 
-Sa_tau                                                   =   3.0^2*ones(nT,1);
-Sa_IC                                                    =    [30,30,10,10,15,15,5,5,100,100,...
-    30,30,10,10,15,15,5,5,100,100].^2;
+
+
+%Sa_IC                                                    =    [30,30,10,10,15,15,5,5,100,100,...
+%    30,30,10,10,15,15,5,5,100,100].^2;
 
 %%% AJT: Use 10% uncertainty for OH concentration (like Turner et al.) for
 % non-interactive OH
@@ -239,7 +249,7 @@ if ~interactive_OH && ~fixedOH
 end
 
 
-Sa_IC                                                    = (eps*params.IC).^2; % fix IC to original inputs
+Sa_IC                                                    = (0.2*params.IC).^2; % fix IC to original inputs
 
 %%% Alternate cases
 if fixedCH4
@@ -294,7 +304,7 @@ end
 
 Sa_ems                                                   = [Sa_ch4,Sa_ch4,Sa_ch4c13,Sa_ch4c13,Sa_mcf_nh,Sa_mcf_sh,...
     Sa_n2o,Sa_n2o,Sa_c2h6,  Sa_c2h6,  Sa_oh,    Sa_oh,...
-    Sa_co, 0.07*Sa_co, Sa_tau, Sa_kx_NH, Sa_kx_SH];
+    Sa_co, 0.1*Sa_co, Sa_tau, Sa_kx_NH, Sa_kx_SH];
 Sa                                                       = diag(assembleStateVector(Sa_ems,Sa_IC));
 
 tau_ch4                                                  = 2;
@@ -312,7 +322,15 @@ Sa                                                       = fillDiagonalsAnal(Sa,
 %%% Construct the observational error covariance matrix
 So                                                       = [obs.nh_ch4_err;obs.sh_ch4_err;obs.nh_ch4c13_err;obs.sh_ch4c13_err;obs.nh_mcf_err;obs.sh_mcf_err;...
     obs.nh_n2o_err;obs.sh_n2o_err;obs.nh_c2h6_err;  obs.sh_c2h6_err;obs.nh_co_err;obs.sh_co_err].^2;
+
+if use_strat_N2O
+    disp('Using N2O strat')
+    So                                                       = [So; obs.nh_n2o_err.^2; obs.sh_n2o_err.^2];
+end
+
+
 So                                                       = diag(So(indGood));
+
 
 %%% Get inverse covariance matrices
 if any(tau > 0)

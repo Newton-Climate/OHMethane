@@ -37,7 +37,7 @@ add_error = true;
 %%% Set the axes limits 
 yrs           = datevec(St);
 xLims         = [datenum(yrs(1,1),1,1),datenum(yrs(end,1),1,1)]';
-yLims_ch4     = [ 1500 : 100 :  1900]';
+yLims_ch4     = [ 1500 : 100 :  2000]';
 yLims_ch4c13  = [-48.0 : .20 : -47.0]';
 yLims_mcf     = [    0 :  50 :   200]';
 yLims_Rch4    = [  -10 :   2 :    10]';

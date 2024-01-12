@@ -62,9 +62,15 @@ dataDirU = sprintf('%sobs/n2o/NOAA/combined/',dataDir);
 fName = 'GMD_global_N2O.txt';
 nHDR  = 85;
 % Specify the site names and latitudes
-sNames = {'alt','brw','nwr','kum','mlo','smo','cgo','psa','spo','mhd','thd','ush','sum'};
-sLat   = [ 82.5, 71.3,40.05, 19.5, 19.5, 14.3,-40.7,-64.6,  -90,  53,   41, -54.8, 72.6];
-sCol   = [    9,   13,   19,   21,   23,   25,   27,   31,   33,  15,   17,    29,   11];
+sNames = {'alt','brw','nwr','kum','mlo','smo','cgo','psa','spo','mhd','thd','sum'};
+sLat   = [ 82.5, 71.3,40.05, 19.5, 19.5, 14.3,-40.7,-64.6,  -90,  53,   41, 72.6];
+ sCol   = [    9,   13,   19,   21,   23,   25,   27,   29,   31,  15,   17,   11];
+%sCol = [9, 13, 17, 19, 21, 23, 25, 27, 29, 31, 33, 35];
+
+%sNames = {'alt', 'brw', 'mhd', 'thd', 'nwr', 'kum', 'mlo', 'smo', 'cgo', 'psa', 'spo'};
+%sLat = [82.5, 71.3, 53, 41, 40.052, 19.5, 19.5, -14.3, -40.7, -64.6, -90];
+%sCols = [8, 12, 16, 20, 24, 28, 32, 36, 26, 30, 40];
+
 
 %%% Load the data
 dat   = importdata(sprintf('%s%s',dataDirU,fName),' ',nHDR);

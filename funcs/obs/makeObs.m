@@ -315,8 +315,8 @@ end
 % NN:  Get rid of CO before 1991
 coYear                                          = datenum(1991, 1, 1);
 ind                                             = find(St<coYear);
-oDat_NH(ind(1) : ind(end))                      = nan;
-oDat_SH(ind(1) : ind(end))                      = nan;
+%oDat_NH(ind(1) : ind(end))                      = nan;
+%oDat_SH(ind(1) : ind(end))                      = nan;
 
 
 
@@ -369,7 +369,15 @@ for i                                           = 1:length(sNames);
     lat                                         = obs.lat.(sNames{i});
     tDat                                        = obs.tim.(sNames{i});
     yDat                                        = obs.obs.(sNames{i});
+    % Check if all elements of yDat are NaNs
+    if all(isnan(yDat))
+        fprintf('Skipping station: %s (All data are NaNs)\n', sNames{i});
+        fprintf(sNames(i))
+        continue; % Skip the rest of the loop if yDat contains only NaNs
+    end
+
     % Remove the seasonal cycle
+%        fprintf('Reading  station: %s \n', sNames{i})
     yDat_noSeas                                 = DeseasonalizeData(tDat,yDat,fDays);
     % Throw out NaNs
     ind                                         = ~isnan(tDat) & ~isnan(yDat_noSeas);
