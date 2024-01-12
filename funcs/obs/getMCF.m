@@ -62,9 +62,9 @@ dataDirU = sprintf('%sobs/mcf/NOAA/combined/',dataDir);
 fName = 'HATS_global_MC.txt';
 nHDR  = 85;
 % Specify the site names and latitudes
-sNames = {'alt','brw','nwr','kum','mlo','smo','cgo','psa','spo','mhd','thd','ush','sum'};
-sLat   = [ 82.5, 71.3,40.05, 19.5, 19.5, 14.3,-40.7,-64.6,  -90,  53,   41, -54.8, 72.6];
-sCol   = [    9,   13,   19,   21,   23,   25,   27,   31,   33,  15,   17,    29,   11];
+sNames = {'alt', 'sum', 'brw', 'mhd', 'thd', 'nwr', 'kum', 'mlo', 'smo', 'cgo', 'psa', 'spo'};
+sLat   = [82.5,   72.6,   71.3,   53,    41,    40.052, 19.5,  19.5,  -14.3, -40.7, -64.6, -90];
+sCol   = [  9,     11,    13,     15,    17,    19,     21,    23,    25,    27,    29,    31];
 
 %%% Load the data
 dat   = importdata(sprintf('%s%s',dataDirU,fName),' ',nHDR);
@@ -106,7 +106,7 @@ nHDR   = [     6,     6,     6,     6,     6];
 %%% Read the data
 for i = 1:length(sNames)
     % Current filename
-    fName = sprintf('%s%s',dataDirU,sprintf(fNameS,sNames{i}));
+    fName = sprintf('%s%s',dataDirU,sprintf(fNameS,sNames{i}))
     % Load the data
     dat   = importdata(fName,' ',nHDR(i));
     dat   = dat.data;
