@@ -1,22 +1,22 @@
-% CH4 concentrations (you might adjust these based on data or starting assumptions)
 
-load('case5_H2O_strat_real_inversion.mat')
-strat_conc = out_anal.nh_ch4_strat;  % ppb (for illustration)
-trop_conc = out_anal.nh_ch4;  % ppb (for illustration)
 
-% Exchange timescale (you'll have to make an informed estimate or find data for this)
-tau_exchange = ems_anal(:,15); % year (just a placeholder value)
+load('model_outputs/case5_H2O_strat_real_inversion.mat')
+strat_conc = out_anal.nh_ch4_strat;  % ppb (
+trop_conc = out_anal.nh_ch4;  % ppb (
+
+% Exchange timescale 
+tau_exchange = ems_anal(:,15); % year (
 
 % Lifetime of methane in the stratosphere
 tau_lifetime_strat = 7; % years
 
 % Simulation time step
-dt = 0.01; % year (for example, representing about 3.65 days)
+dt = 0.01; % year (
 
 % Stratosphere values
 P_strat = 100e2; % converting hPa to Pa
 T_strat = 253; % K
-% Volume calculation for simplicity - this is an illustrative value
+% Volume calculation 
 radius_earth = 6371e3; % m
 height_strat = 8e3; % considering stratosphere from 17km to 25km
 V_strat = pi * height_strat * (radius_earth^2 + (radius_earth + height_strat)^2 + radius_earth * (radius_earth + height_strat));

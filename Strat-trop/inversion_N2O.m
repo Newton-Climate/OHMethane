@@ -195,7 +195,7 @@ end
 % - NH/SH N2O    obs & err (ppb)
 % - NH/SH C2H6   obs & err (ppt)
 % - NH/SH CO     obs & err (ppb)
-obs = makeObs(St,tAvg,ch4_obs,ch4c13_obs,mcf_obs,n2o_obs,c2h6_obs,co_obs,dataDir,reread);
+%obs = makeObs(St,tAvg,ch4_obs,ch4c13_obs,mcf_obs,n2o_obs,c2h6_obs,co_obs,dataDir,reread);
 obs = readN2OStrat(fullfile(dataDir, 'obs/N2O_strat/N2O_lowerstrat_obs.nc'), St, obs);
 a = readStratObs(fullfile(dataDir, 'obs/N2O_strat/N2O_lowerstrat_obs.nc'), St, obs);
 %
