@@ -19,6 +19,11 @@ function obs = readN2OStrat(file_path, St, obs)
     
     % Extract time from the netCDF file
     n2o_time = datenum(data_vars.time) + datenum(2004,1,1);
+
+    if mean(diff(St)) > 40
+        [n2o_obs, n2o_time] = computeAnnualAverage)
+    end
+
     
     % Find the indices of the time range in the netCDF file
     n2o_ind1 = find(n2o_time >= St(1), 1, 'first');
