@@ -1,4 +1,5 @@
 # NOAA files
+*.nc
 ###########
 *.png
 *.mat
