@@ -1,0 +1,209 @@
+# number_of_header_lines: 70
+# comment:  
+# comment:  ************ USE OF GML DATA ****************
+# comment:  
+# comment: These data are made freely available to the public and the
+# comment: scientific community in the belief that their wide dissemination
+# comment: will lead to greater understanding and new scientific insights.
+# comment: The availability of these data does not constitute publication
+# comment: of the data.  NOAA relies on the ethics and integrity of the user to
+# comment: ensure that GML receives fair credit for their work.  If the data 
+# comment: are obtained for potential use in a publication or presentation, 
+# comment: GML should be informed at the outset of the nature of this work.  
+# comment: If the GML data are essential to the work, or if an important 
+# comment: result or conclusion depends on the GML data, co-authorship
+# comment: may be appropriate.  This should be discussed at an early stage in
+# comment: the work.  Manuscripts using the GML data should be sent to GML
+# comment: for review before they are submitted for publication so we can
+# comment: ensure that the quality and limitations of the data are accurately
+# comment: represented.
+# comment: Please see accompanying README file, if available, for citation text.
+# comment:  
+# comment: Every effort is made to produce the most accurate and precise
+# comment: measurements possible.  However, we reserve the right to make
+# comment: corrections to the data based on recalibration of standard gases
+# comment: or for other reasons deemed scientifically justified.
+# comment: 
+# comment: We are not responsible for results and conclusions based on use
+# comment: of these data without regard to this warning.
+# comment: 
+# contact_parameter: CO CCGG (Individual Flasks)
+# contact_name: Gabrielle Petron
+# contact_telephone: (720) 295-0145
+# contact_email: Gabrielle.Petron@noaa.gov
+# comment: 
+# comment:  ************ COLLABORATORS ***************
+# comment: 
+# comment: NOAA thanks the following collaborators without
+# comment: whom these measurements would not be possible.
+# comment: 
+# collaborator_name: Kazakh Scientific Institute of Environmental
+# collaborator_name: Monitoring and Climate
+# comment: 
+# comment:  ************ RECIPROCITY AGREEMENT ***************
+# comment: 
+# comment: Use of these data implies an agreement to reciprocate.
+# comment: Laboratories making similar measurements agree to make their
+# comment: own data available to the general public and to the scientific
+# comment: community in an equally complete and easily accessible form.
+# comment: Modelers are encouraged to make available to the community,
+# comment: upon request, their own tools used in the interpretation
+# comment: of the GML data, namely well documented model code, transport
+# comment: fields, modeled mole fractions, and additional information 
+# comment: necessary for other scientists to repeat the work and to run 
+# comment: modified versions. Model availability includes collaborative 
+# comment: support for new users of the models.
+# comment:
+# comment:  ************ DATA DESCRIPTION ***************
+# comment:
+# description_site-code: kzd
+# description_project-abbr: ccg_surface
+# description_strategy-abbr: flask
+# description_analysis-constraints: flag:..%
+# description_creation-time: 2022-07-28 12:39:27
+# comment:
+# comment:  ************ DATA DOCUMENTATION ***************
+# comment:
+# comment: Please refer to the species-specific README file in the
+# comment: appropriate directory folder at https://gml.noaa.gov/aftp/data/trace_gases/.
+# comment:
+# data_fields: site year month value
+KZD 1997 10   178.26
+KZD 1997 11   221.65
+KZD 1997 12   233.93
+KZD 1998  1   212.02
+KZD 1998  2   206.91
+KZD 1998  3   207.43
+KZD 1998  4   182.53
+KZD 1998  5   153.04
+KZD 1998  6   142.05
+KZD 1998  7   146.17
+KZD 1998  8   153.77
+KZD 1998  9   163.16
+KZD 1998 10   180.74
+KZD 1998 11   201.93
+KZD 1998 12   209.66
+KZD 1999  1   208.98
+KZD 1999  2   204.93
+KZD 1999  3   191.63
+KZD 1999  4   172.68
+KZD 1999  5   150.10
+KZD 1999  6   125.71
+KZD 1999  7   114.48
+KZD 1999  8   116.94
+KZD 1999  9   119.23
+KZD 1999 10   131.04
+KZD 1999 11   156.01
+KZD 1999 12   177.09
+KZD 2000  1   202.08
+KZD 2000  2   212.67
+KZD 2000  3   190.26
+KZD 2000  4   157.87
+KZD 2000  5   140.49
+KZD 2000  6   128.45
+KZD 2000  7   120.41
+KZD 2000  8   119.11
+KZD 2000  9   113.15
+KZD 2000 10   114.58
+KZD 2000 11   137.18
+KZD 2000 12   159.29
+KZD 2001  1   171.97
+KZD 2001  2   178.98
+KZD 2001  3   174.17
+KZD 2001  4   159.05
+KZD 2001  5   143.77
+KZD 2001  6   127.50
+KZD 2001  7   120.17
+KZD 2001  8   127.42
+KZD 2001  9   122.62
+KZD 2001 10   118.65
+KZD 2001 11   145.93
+KZD 2001 12   191.73
+KZD 2002  1   208.25
+KZD 2002  2   189.80
+KZD 2002  3   161.40
+KZD 2002  4   143.36
+KZD 2002  5   133.79
+KZD 2002  6   132.55
+KZD 2002  7   143.78
+KZD 2002  8   153.62
+KZD 2002  9   147.52
+KZD 2002 10   131.53
+KZD 2002 11   133.08
+KZD 2002 12   157.43
+KZD 2003  1   184.67
+KZD 2003  2   197.27
+KZD 2003  3   182.89
+KZD 2003  4   151.63
+KZD 2003  5   137.59
+KZD 2003  6   134.38
+KZD 2003  7   132.29
+KZD 2003  8   140.45
+KZD 2003  9   148.35
+KZD 2003 10   148.46
+KZD 2003 11   155.39
+KZD 2003 12   174.02
+KZD 2004  1   191.99
+KZD 2004  2   194.46
+KZD 2004  3   176.22
+KZD 2004  4   160.78
+KZD 2004  5   151.75
+KZD 2004  6   139.19
+KZD 2004  7   127.96
+KZD 2004  8   122.96
+KZD 2004  9   117.58
+KZD 2004 10   117.50
+KZD 2005  3   197.01
+KZD 2005  4   177.00
+KZD 2005  5   158.82
+KZD 2005  6   147.47
+KZD 2005  7   134.43
+KZD 2005  8   126.55
+KZD 2005  9   129.55
+KZD 2005 10   138.27
+KZD 2005 11   153.54
+KZD 2005 12   178.94
+KZD 2006  1   208.33
+KZD 2006  2   212.92
+KZD 2006  3   190.02
+KZD 2006  4   157.97
+KZD 2006  5   138.62
+KZD 2006  6   136.58
+KZD 2006  7   146.47
+KZD 2006  8   148.92
+KZD 2006  9   137.17
+KZD 2006 10   130.89
+KZD 2006 11   141.98
+KZD 2006 12   164.71
+KZD 2007  1   197.52
+KZD 2007  2   218.29
+KZD 2007  3   205.89
+KZD 2007  4   169.32
+KZD 2007  5   147.46
+KZD 2007  6   138.40
+KZD 2007  7   131.17
+KZD 2007  8   133.70
+KZD 2007  9   131.80
+KZD 2007 10   121.40
+KZD 2007 11   129.58
+KZD 2007 12   173.17
+KZD 2008  1   218.36
+KZD 2008  2   222.82
+KZD 2008  3   191.99
+KZD 2008  4   158.37
+KZD 2008  5   140.46
+KZD 2008  6   131.72
+KZD 2008  7   128.84
+KZD 2008  8   127.09
+KZD 2008  9   121.30
+KZD 2008 10   122.34
+KZD 2008 11   159.66
+KZD 2008 12   210.10
+KZD 2009  1   214.71
+KZD 2009  2   187.44
+KZD 2009  3   162.66
+KZD 2009  4   146.96
+KZD 2009  5   131.26
+KZD 2009  6   121.40
+KZD 2009  7   121.59
+KZD 2009  8   124.33

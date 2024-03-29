@@ -1,0 +1,127 @@
+# number_of_header_lines: 69
+# comment:  
+# comment:  ************ USE OF GML DATA ****************
+# comment:  
+# comment: These data are made freely available to the public and the
+# comment: scientific community in the belief that their wide dissemination
+# comment: will lead to greater understanding and new scientific insights.
+# comment: The availability of these data does not constitute publication
+# comment: of the data.  NOAA relies on the ethics and integrity of the user to
+# comment: ensure that GML receives fair credit for their work.  If the data 
+# comment: are obtained for potential use in a publication or presentation, 
+# comment: GML should be informed at the outset of the nature of this work.  
+# comment: If the GML data are essential to the work, or if an important 
+# comment: result or conclusion depends on the GML data, co-authorship
+# comment: may be appropriate.  This should be discussed at an early stage in
+# comment: the work.  Manuscripts using the GML data should be sent to GML
+# comment: for review before they are submitted for publication so we can
+# comment: ensure that the quality and limitations of the data are accurately
+# comment: represented.
+# comment: Please see accompanying README file, if available, for citation text.
+# comment:  
+# comment: Every effort is made to produce the most accurate and precise
+# comment: measurements possible.  However, we reserve the right to make
+# comment: corrections to the data based on recalibration of standard gases
+# comment: or for other reasons deemed scientifically justified.
+# comment: 
+# comment: We are not responsible for results and conclusions based on use
+# comment: of these data without regard to this warning.
+# comment: 
+# contact_parameter: CO CCGG (Individual Flasks)
+# contact_name: Gabrielle Petron
+# contact_telephone: (720) 295-0145
+# contact_email: Gabrielle.Petron@noaa.gov
+# comment: 
+# comment:  ************ COLLABORATORS ***************
+# comment: 
+# comment: NOAA thanks the following collaborators without
+# comment: whom these measurements would not be possible.
+# comment: 
+# collaborator_name: Kenya Meteorological Department [KMD]
+# comment: 
+# comment:  ************ RECIPROCITY AGREEMENT ***************
+# comment: 
+# comment: Use of these data implies an agreement to reciprocate.
+# comment: Laboratories making similar measurements agree to make their
+# comment: own data available to the general public and to the scientific
+# comment: community in an equally complete and easily accessible form.
+# comment: Modelers are encouraged to make available to the community,
+# comment: upon request, their own tools used in the interpretation
+# comment: of the GML data, namely well documented model code, transport
+# comment: fields, modeled mole fractions, and additional information 
+# comment: necessary for other scientists to repeat the work and to run 
+# comment: modified versions. Model availability includes collaborative 
+# comment: support for new users of the models.
+# comment:
+# comment:  ************ DATA DESCRIPTION ***************
+# comment:
+# description_site-code: mkn
+# description_project-abbr: ccg_surface
+# description_strategy-abbr: flask
+# description_analysis-constraints: flag:..%
+# description_creation-time: 2022-07-28 12:39:36
+# comment:
+# comment:  ************ DATA DOCUMENTATION ***************
+# comment:
+# comment: Please refer to the species-specific README file in the
+# comment: appropriate directory folder at https://gml.noaa.gov/aftp/data/trace_gases/.
+# comment:
+# data_fields: site year month value
+MKN 2003 12   113.65
+MKN 2004  1   118.03
+MKN 2004  2   128.65
+MKN 2004  3   123.55
+MKN 2004  4    96.63
+MKN 2004  5    87.45
+MKN 2004  6    99.25
+MKN 2004  7   110.02
+MKN 2004  8   118.45
+MKN 2004  9   113.79
+MKN 2004 10    92.78
+MKN 2005  2   110.84
+MKN 2005  3   116.06
+MKN 2005  4    99.08
+MKN 2005  5    92.34
+MKN 2005  6   105.12
+MKN 2005  7   109.55
+MKN 2005  8   105.76
+MKN 2005 12   107.97
+MKN 2006  1   110.31
+MKN 2006  2   118.42
+MKN 2006  3   109.65
+MKN 2006  4    84.63
+MKN 2006  5    80.05
+MKN 2007 12    93.86
+MKN 2008 10    88.76
+MKN 2008 11    93.04
+MKN 2008 12   104.18
+MKN 2009  1   109.52
+MKN 2009  2   108.51
+MKN 2009  3    95.28
+MKN 2009  4    80.38
+MKN 2009  5    86.19
+MKN 2009  6   102.92
+MKN 2009  7   108.97
+MKN 2009  8   110.51
+MKN 2009  9   109.12
+MKN 2009 10   100.39
+MKN 2009 11    97.19
+MKN 2009 12   101.57
+MKN 2010  1   113.37
+MKN 2010  2   129.90
+MKN 2010  3   123.42
+MKN 2010  4    91.52
+MKN 2010  5    86.18
+MKN 2010  6   108.39
+MKN 2010  7   119.95
+MKN 2010  8   121.31
+MKN 2010  9   117.39
+MKN 2010 10   106.68
+MKN 2010 11   105.40
+MKN 2010 12   111.74
+MKN 2011  1   112.46
+MKN 2011  2   114.38
+MKN 2011  3   107.44
+MKN 2011  4    84.23
+MKN 2011  5    80.56
+MKN 2011  6    97.45

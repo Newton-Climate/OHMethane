@@ -1,0 +1,208 @@
+# number_of_header_lines: 69
+# comment:  
+# comment:  ************ USE OF GML DATA ****************
+# comment:  
+# comment: These data are made freely available to the public and the
+# comment: scientific community in the belief that their wide dissemination
+# comment: will lead to greater understanding and new scientific insights.
+# comment: The availability of these data does not constitute publication
+# comment: of the data.  NOAA relies on the ethics and integrity of the user to
+# comment: ensure that GML receives fair credit for their work.  If the data 
+# comment: are obtained for potential use in a publication or presentation, 
+# comment: GML should be informed at the outset of the nature of this work.  
+# comment: If the GML data are essential to the work, or if an important 
+# comment: result or conclusion depends on the GML data, co-authorship
+# comment: may be appropriate.  This should be discussed at an early stage in
+# comment: the work.  Manuscripts using the GML data should be sent to GML
+# comment: for review before they are submitted for publication so we can
+# comment: ensure that the quality and limitations of the data are accurately
+# comment: represented.
+# comment: Please see accompanying README file, if available, for citation text.
+# comment:  
+# comment: Every effort is made to produce the most accurate and precise
+# comment: measurements possible.  However, we reserve the right to make
+# comment: corrections to the data based on recalibration of standard gases
+# comment: or for other reasons deemed scientifically justified.
+# comment: 
+# comment: We are not responsible for results and conclusions based on use
+# comment: of these data without regard to this warning.
+# comment: 
+# contact_parameter: CO CCGG (Individual Flasks)
+# contact_name: Gabrielle Petron
+# contact_telephone: (720) 295-0145
+# contact_email: Gabrielle.Petron@noaa.gov
+# comment: 
+# comment:  ************ COLLABORATORS ***************
+# comment: 
+# comment: NOAA thanks the following collaborators without
+# comment: whom these measurements would not be possible.
+# comment: 
+# collaborator_name: National Central University, Taiwan [NCU]
+# comment: 
+# comment:  ************ RECIPROCITY AGREEMENT ***************
+# comment: 
+# comment: Use of these data implies an agreement to reciprocate.
+# comment: Laboratories making similar measurements agree to make their
+# comment: own data available to the general public and to the scientific
+# comment: community in an equally complete and easily accessible form.
+# comment: Modelers are encouraged to make available to the community,
+# comment: upon request, their own tools used in the interpretation
+# comment: of the GML data, namely well documented model code, transport
+# comment: fields, modeled mole fractions, and additional information 
+# comment: necessary for other scientists to repeat the work and to run 
+# comment: modified versions. Model availability includes collaborative 
+# comment: support for new users of the models.
+# comment:
+# comment:  ************ DATA DESCRIPTION ***************
+# comment:
+# description_site-code: dsi
+# description_project-abbr: ccg_surface
+# description_strategy-abbr: flask
+# description_analysis-constraints: flag:..%
+# description_creation-time: 2022-07-28 12:39:11
+# comment:
+# comment:  ************ DATA DOCUMENTATION ***************
+# comment:
+# comment: Please refer to the species-specific README file in the
+# comment: appropriate directory folder at https://gml.noaa.gov/aftp/data/trace_gases/.
+# comment:
+# data_fields: site year month value
+DSI 2010  3   227.36
+DSI 2010  4   217.06
+DSI 2010  5   165.27
+DSI 2010  6   109.89
+DSI 2010  7    86.42
+DSI 2010  8    78.92
+DSI 2010  9   118.59
+DSI 2010 10   209.26
+DSI 2010 11   234.79
+DSI 2010 12   235.35
+DSI 2011  1   290.31
+DSI 2011  2   312.22
+DSI 2011  3   285.96
+DSI 2011  4   228.75
+DSI 2011  5   140.47
+DSI 2011  6    91.61
+DSI 2011  7    91.61
+DSI 2011  8    92.70
+DSI 2011  9   129.85
+DSI 2011 10   179.63
+DSI 2011 11   184.60
+DSI 2011 12   224.28
+DSI 2012  1   289.49
+DSI 2012  2   267.51
+DSI 2012  4   171.05
+DSI 2012  5   171.04
+DSI 2012  6   149.23
+DSI 2012  7   114.87
+DSI 2012  8   108.05
+DSI 2012  9   141.79
+DSI 2012 10   178.51
+DSI 2012 11   225.86
+DSI 2012 12   265.00
+DSI 2013  1   231.53
+DSI 2013  2   181.99
+DSI 2013  3   214.41
+DSI 2013  4   230.99
+DSI 2013  5   141.71
+DSI 2013  6    84.86
+DSI 2013  7    92.38
+DSI 2013  8   103.69
+DSI 2013  9   137.48
+DSI 2013 10   175.98
+DSI 2013 11   199.69
+DSI 2013 12   233.82
+DSI 2014  1   247.83
+DSI 2014  2   227.72
+DSI 2014  3   231.49
+DSI 2014  4   224.94
+DSI 2014  5   148.75
+DSI 2014  6    85.81
+DSI 2014  7    98.28
+DSI 2014  8   148.28
+DSI 2014  9   187.29
+DSI 2014 10   180.15
+DSI 2014 11   179.95
+DSI 2014 12   236.69
+DSI 2015  1   277.78
+DSI 2015  2   243.76
+DSI 2015  3   219.89
+DSI 2015  4   208.59
+DSI 2015  5   154.00
+DSI 2015  6   115.39
+DSI 2015  7   120.75
+DSI 2015  8   123.37
+DSI 2015  9   154.15
+DSI 2015 10   192.88
+DSI 2015 11   198.43
+DSI 2015 12   241.32
+DSI 2016  1   297.31
+DSI 2016  2   261.92
+DSI 2016  3   207.04
+DSI 2016  4   185.51
+DSI 2016  5   151.64
+DSI 2016  6   109.17
+DSI 2016  7    97.69
+DSI 2016  8   123.54
+DSI 2016 11   184.60
+DSI 2016 12   204.44
+DSI 2017  1   220.34
+DSI 2017  2   206.59
+DSI 2017  3   198.69
+DSI 2017  4   175.88
+DSI 2017  5   117.75
+DSI 2017  6    78.28
+DSI 2017  7    83.50
+DSI 2017  8    90.72
+DSI 2017  9   111.00
+DSI 2017 10   143.36
+DSI 2017 11   165.41
+DSI 2017 12   205.58
+DSI 2018  1   227.88
+DSI 2018  2   197.17
+DSI 2018  3   183.43
+DSI 2018  4   186.40
+DSI 2018  5   133.60
+DSI 2018  6    81.37
+DSI 2018  7    91.19
+DSI 2018  8   115.68
+DSI 2018  9   162.23
+DSI 2018 10   194.49
+DSI 2018 11   181.06
+DSI 2018 12   203.63
+DSI 2019  1   237.01
+DSI 2019  2   207.19
+DSI 2019  3   182.56
+DSI 2019  4   193.49
+DSI 2019  5   144.56
+DSI 2019  6    97.24
+DSI 2019  7    96.25
+DSI 2019  8    96.43
+DSI 2019  9   135.84
+DSI 2019 10   188.86
+DSI 2019 11   180.36
+DSI 2019 12   172.80
+DSI 2020  1   217.35
+DSI 2020  2   226.87
+DSI 2020  3   216.20
+DSI 2020  4   206.41
+DSI 2020  5   143.50
+DSI 2020  6    79.70
+DSI 2020  7    78.83
+DSI 2020  8    88.59
+DSI 2020  9   109.38
+DSI 2020 10   150.48
+DSI 2020 11   174.54
+DSI 2020 12   206.65
+DSI 2021  1   245.78
+DSI 2021  2   230.63
+DSI 2021  3   201.78
+DSI 2021  4   171.64
+DSI 2021  5   110.73
+DSI 2021  6    84.68
+DSI 2021  7   103.80
+DSI 2021  8    90.31
+DSI 2021  9    84.76
+DSI 2021 10   139.97
+DSI 2021 11   186.35
+DSI 2021 12   219.18

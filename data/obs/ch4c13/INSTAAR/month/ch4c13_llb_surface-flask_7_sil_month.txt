@@ -1,0 +1,115 @@
+# number_of_header_lines: 54
+# comment:  
+# comment:  ************ USE OF GML DATA ****************
+# comment:  
+# comment: These data are made freely available to the public and the scientific
+# comment: community in the belief that their wide dissemination will lead to
+# comment: greater understanding and new scientific insights. To ensure that GML
+# comment: receives fair credit for their work please include relevant citation
+# comment: text in publications. We encourage users to contact the data providers,
+# comment: who can provide detailed information about the measurements and
+# comment: scientific insight.  In cases where the data are central to a
+# comment: publication, coauthorship for data providers may be appropriate.
+# comment: 
+# comment: 
+# comment: Please see accompanying README file, if available, for citation text.
+# comment:  
+# comment: Every effort is made to produce the most accurate and precise
+# comment: measurements possible.  However, we reserve the right to make
+# comment: corrections to the data based on recalibration of standard gases
+# comment: or for other reasons deemed scientifically justified.
+# comment: 
+# comment: We are not responsible for results and conclusions based on use
+# comment: of these data without regard to this warning.
+# comment: 
+# contact_parameter: CH4C13 SIL (Individual Flasks)
+# contact_name: Sylvia Englund Michel
+# contact_telephone: (303) 492-5495
+# contact_email: Sylvia.Englund@colorado.edu
+# comment: 
+# comment:  ************ COLLABORATORS ***************
+# comment: 
+# comment: NOAA thanks the following collaborators without
+# comment: whom these measurements would not be possible.
+# comment: 
+# collaborator_name: Environment Canada [EC]
+# collaborator_url: http://www.msc-smc.ec.gc.ca/aqrb/index_e.cfm
+# comment: 
+# comment:  ************ RECIPROCITY AGREEMENT ***************
+# comment: 
+# comment:
+# comment:  ************ DATA DESCRIPTION ***************
+# comment:
+# description_site-code: llb
+# description_project-abbr: ccg_surface
+# description_strategy-abbr: flask
+# description_analysis-constraints: flag:..%
+# description_creation-time: 2023-09-21 15:03:45
+# comment:
+# comment:  ************ DATA DOCUMENTATION ***************
+# comment:
+# comment: Please refer to the species-specific README file in the
+# comment: appropriate directory folder at https://gml.noaa.gov/aftp/data/trace_gases/.
+# comment:
+# data_fields: site year month value
+LLB 2008  1  -48.388
+LLB 2008  2  -48.251
+LLB 2008  3  -47.847
+LLB 2008  4  -47.305
+LLB 2008  5  -46.969
+LLB 2008  6  -46.975
+LLB 2008  7  -47.207
+LLB 2008  8  -47.447
+LLB 2008  9  -47.563
+LLB 2008 10  -47.633
+LLB 2008 11  -47.757
+LLB 2008 12  -47.968
+LLB 2009  1  -48.143
+LLB 2009  2  -48.139
+LLB 2009  3  -47.954
+LLB 2009  4  -47.643
+LLB 2009  5  -47.404
+LLB 2009  6  -47.347
+LLB 2009  7  -47.423
+LLB 2009  8  -47.558
+LLB 2009  9  -47.722
+LLB 2009 10  -47.932
+LLB 2009 11  -48.129
+LLB 2009 12  -48.219
+LLB 2010  1  -48.051
+LLB 2010  2  -47.688
+LLB 2010  3  -47.236
+LLB 2010  4  -46.965
+LLB 2010  5  -46.976
+LLB 2010  6  -47.205
+LLB 2010  7  -47.497
+LLB 2010  8  -47.696
+LLB 2010  9  -47.787
+LLB 2010 10  -47.754
+LLB 2010 11  -47.660
+LLB 2010 12  -47.582
+LLB 2011  1  -47.601
+LLB 2011  2  -47.687
+LLB 2011  3  -47.736
+LLB 2011  4  -47.659
+LLB 2011  5  -47.528
+LLB 2011  6  -47.456
+LLB 2011  7  -47.514
+LLB 2011  8  -47.633
+LLB 2011  9  -47.743
+LLB 2011 10  -47.859
+LLB 2011 11  -48.018
+LLB 2011 12  -48.065
+LLB 2012  1  -47.862
+LLB 2012  2  -47.446
+LLB 2012  3  -47.154
+LLB 2012  4  -47.188
+LLB 2012  5  -47.436
+LLB 2012  6  -47.652
+LLB 2012  7  -47.752
+LLB 2012  8  -47.850
+LLB 2012  9  -47.964
+LLB 2012 10  -48.050
+LLB 2012 11  -48.142
+LLB 2012 12  -48.292
+LLB 2013  1  -48.460

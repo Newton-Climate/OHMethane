@@ -1,0 +1,217 @@
+# number_of_header_lines: 70
+# comment:  
+# comment:  ************ USE OF GML DATA ****************
+# comment:  
+# comment: These data are made freely available to the public and the
+# comment: scientific community in the belief that their wide dissemination
+# comment: will lead to greater understanding and new scientific insights.
+# comment: The availability of these data does not constitute publication
+# comment: of the data.  NOAA relies on the ethics and integrity of the user to
+# comment: ensure that GML receives fair credit for their work.  If the data 
+# comment: are obtained for potential use in a publication or presentation, 
+# comment: GML should be informed at the outset of the nature of this work.  
+# comment: If the GML data are essential to the work, or if an important 
+# comment: result or conclusion depends on the GML data, co-authorship
+# comment: may be appropriate.  This should be discussed at an early stage in
+# comment: the work.  Manuscripts using the GML data should be sent to GML
+# comment: for review before they are submitted for publication so we can
+# comment: ensure that the quality and limitations of the data are accurately
+# comment: represented.
+# comment: Please see accompanying README file, if available, for citation text.
+# comment:  
+# comment: Every effort is made to produce the most accurate and precise
+# comment: measurements possible.  However, we reserve the right to make
+# comment: corrections to the data based on recalibration of standard gases
+# comment: or for other reasons deemed scientifically justified.
+# comment: 
+# comment: We are not responsible for results and conclusions based on use
+# comment: of these data without regard to this warning.
+# comment: 
+# contact_parameter: CO CCGG (Individual Flasks)
+# contact_name: Gabrielle Petron
+# contact_telephone: (720) 295-0145
+# contact_email: Gabrielle.Petron@noaa.gov
+# comment: 
+# comment:  ************ COLLABORATORS ***************
+# comment: 
+# comment: NOAA thanks the following collaborators without
+# comment: whom these measurements would not be possible.
+# comment: 
+# collaborator_name: Centro de Investigacion de la Baja Atmosfera,
+# collaborator_name: Univ. of Valladolid [CIBA]
+# comment: 
+# comment:  ************ RECIPROCITY AGREEMENT ***************
+# comment: 
+# comment: Use of these data implies an agreement to reciprocate.
+# comment: Laboratories making similar measurements agree to make their
+# comment: own data available to the general public and to the scientific
+# comment: community in an equally complete and easily accessible form.
+# comment: Modelers are encouraged to make available to the community,
+# comment: upon request, their own tools used in the interpretation
+# comment: of the GML data, namely well documented model code, transport
+# comment: fields, modeled mole fractions, and additional information 
+# comment: necessary for other scientists to repeat the work and to run 
+# comment: modified versions. Model availability includes collaborative 
+# comment: support for new users of the models.
+# comment:
+# comment:  ************ DATA DESCRIPTION ***************
+# comment:
+# description_site-code: cib
+# description_project-abbr: ccg_surface
+# description_strategy-abbr: flask
+# description_analysis-constraints: flag:..%
+# description_creation-time: 2022-07-28 12:39:07
+# comment:
+# comment:  ************ DATA DOCUMENTATION ***************
+# comment:
+# comment: Please refer to the species-specific README file in the
+# comment: appropriate directory folder at https://gml.noaa.gov/aftp/data/trace_gases/.
+# comment:
+# data_fields: site year month value
+CIB 2009  5   127.03
+CIB 2009  6   106.52
+CIB 2009  7    98.18
+CIB 2009  8   111.66
+CIB 2009  9   120.00
+CIB 2009 10   114.52
+CIB 2009 11   116.23
+CIB 2009 12   122.37
+CIB 2010  1   128.07
+CIB 2010  2   142.68
+CIB 2010  3   157.26
+CIB 2010  4   149.12
+CIB 2010  5   129.77
+CIB 2010  6   115.18
+CIB 2010  7   112.26
+CIB 2010  8   115.17
+CIB 2010  9   115.75
+CIB 2010 10   117.77
+CIB 2010 11   128.28
+CIB 2010 12   141.25
+CIB 2011  1   151.18
+CIB 2011  2   157.45
+CIB 2011  3   152.24
+CIB 2011  4   136.23
+CIB 2011  5   120.89
+CIB 2011  6   112.07
+CIB 2011  7   109.07
+CIB 2011  8   106.60
+CIB 2011  9   103.02
+CIB 2011 10   106.97
+CIB 2011 11   122.04
+CIB 2011 12   129.69
+CIB 2012  1   128.71
+CIB 2012  2   135.94
+CIB 2012  3   143.60
+CIB 2012  4   141.27
+CIB 2012  5   124.63
+CIB 2012  6   106.52
+CIB 2012  7   113.77
+CIB 2012  8   133.92
+CIB 2012  9   134.00
+CIB 2012 10   124.74
+CIB 2012 11   126.54
+CIB 2012 12   130.78
+CIB 2013  1   138.03
+CIB 2013  2   150.18
+CIB 2013  3   153.79
+CIB 2013  4   145.58
+CIB 2013  5   128.47
+CIB 2013  6   112.71
+CIB 2013  7   111.81
+CIB 2013  8   116.89
+CIB 2013  9   107.03
+CIB 2013 10   100.12
+CIB 2013 11   114.57
+CIB 2013 12   125.32
+CIB 2014  1   129.20
+CIB 2014  2   138.72
+CIB 2014  3   142.36
+CIB 2014  4   134.78
+CIB 2014  5   124.38
+CIB 2014  6   111.95
+CIB 2014  7   108.22
+CIB 2014  8   116.74
+CIB 2014  9   112.27
+CIB 2014 10   106.36
+CIB 2014 11   118.51
+CIB 2014 12   132.82
+CIB 2015  1   138.27
+CIB 2015  2   146.36
+CIB 2015  3   150.92
+CIB 2015  4   139.88
+CIB 2015  5   126.69
+CIB 2015  6   120.67
+CIB 2015  7   120.53
+CIB 2015  8   120.17
+CIB 2015  9   117.49
+CIB 2015 10   113.32
+CIB 2015 11   115.87
+CIB 2015 12   132.42
+CIB 2016  1   146.31
+CIB 2016  2   145.90
+CIB 2016  3   142.73
+CIB 2016  4   138.83
+CIB 2016  5   124.35
+CIB 2016  6   109.10
+CIB 2016  7   110.50
+CIB 2016  8   116.98
+CIB 2016  9   110.99
+CIB 2016 10   109.32
+CIB 2016 11   119.78
+CIB 2016 12   122.62
+CIB 2017  1   121.03
+CIB 2017  2   130.12
+CIB 2017  3   136.70
+CIB 2017  4   131.35
+CIB 2017  5   119.04
+CIB 2017  6   109.51
+CIB 2017  7   107.50
+CIB 2017  8   108.76
+CIB 2017  9   104.36
+CIB 2017 10   106.23
+CIB 2017 11   117.91
+CIB 2017 12   119.37
+CIB 2018  1   119.89
+CIB 2018  2   134.75
+CIB 2018  3   143.40
+CIB 2018  4   135.55
+CIB 2018  5   118.32
+CIB 2018  6   107.74
+CIB 2018  7   116.01
+CIB 2018  8   129.20
+CIB 2018  9   125.38
+CIB 2018 10   115.07
+CIB 2018 11   116.75
+CIB 2018 12   122.14
+CIB 2019  1   127.38
+CIB 2019  2   136.53
+CIB 2019  3   141.19
+CIB 2019  4   130.75
+CIB 2019  5   111.24
+CIB 2019  6   102.72
+CIB 2019  7   111.17
+CIB 2019  8   120.68
+CIB 2019  9   114.34
+CIB 2019 10   107.66
+CIB 2019 11   125.08
+CIB 2019 12   147.31
+CIB 2020  1   146.56
+CIB 2020  2   136.86
+CIB 2020  6   113.97
+CIB 2020  9   111.79
+CIB 2020 10   109.89
+CIB 2020 11   127.83
+CIB 2020 12   149.87
+CIB 2021  1   153.74
+CIB 2021  2   145.76
+CIB 2021  3   137.25
+CIB 2021  4   133.06
+CIB 2021  5   123.34
+CIB 2021  6   107.44
+CIB 2021  7   118.58
+CIB 2021  8   146.31
+CIB 2021  9   143.78
+CIB 2021 10   126.43
+CIB 2021 11   115.28
+CIB 2021 12   110.56

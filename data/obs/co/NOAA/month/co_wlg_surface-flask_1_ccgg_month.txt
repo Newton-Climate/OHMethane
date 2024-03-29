@@ -1,0 +1,452 @@
+# number_of_header_lines: 86
+# comment:  
+# comment:  ************ USE OF GML DATA ****************
+# comment:  
+# comment: These data are made freely available to the public and the
+# comment: scientific community in the belief that their wide dissemination
+# comment: will lead to greater understanding and new scientific insights.
+# comment: The availability of these data does not constitute publication
+# comment: of the data.  NOAA relies on the ethics and integrity of the user to
+# comment: ensure that GML receives fair credit for their work.  If the data 
+# comment: are obtained for potential use in a publication or presentation, 
+# comment: GML should be informed at the outset of the nature of this work.  
+# comment: If the GML data are essential to the work, or if an important 
+# comment: result or conclusion depends on the GML data, co-authorship
+# comment: may be appropriate.  This should be discussed at an early stage in
+# comment: the work.  Manuscripts using the GML data should be sent to GML
+# comment: for review before they are submitted for publication so we can
+# comment: ensure that the quality and limitations of the data are accurately
+# comment: represented.
+# comment: Please see accompanying README file, if available, for citation text.
+# comment:  
+# comment: Every effort is made to produce the most accurate and precise
+# comment: measurements possible.  However, we reserve the right to make
+# comment: corrections to the data based on recalibration of standard gases
+# comment: or for other reasons deemed scientifically justified.
+# comment: 
+# comment: We are not responsible for results and conclusions based on use
+# comment: of these data without regard to this warning.
+# comment: 
+# contact_parameter: CO CCGG (Individual Flasks)
+# contact_name: Gabrielle Petron
+# contact_telephone: (720) 295-0145
+# contact_email: Gabrielle.Petron@noaa.gov
+# comment: 
+# comment:  ************ COLLABORATORS ***************
+# comment: 
+# comment: NOAA thanks the following collaborators without
+# comment: whom these measurements would not be possible.
+# comment: 
+# collaborator_name: Chinese Academy of Meteorological Sciences
+# collaborator_name: (CAMS) and Qinghai Meteorological Bureau
+# collaborator_name: (QMB), China Meteorological Administration
+# collaborator_name: (CMA) [CMA]
+# collaborator_url: http://www.cma.gov.cn/english/
+# collaborator_comment: Lingxi ZHOU, Ph.D., Prof.
+# collaborator_comment: 
+# collaborator_comment: PI for Greenhouse Gases & Related Tracers
+# collaborator_comment: Chinese Academy of Meteorological Sciences
+# collaborator_comment: (CAMS)
+# collaborator_comment: China Meteorological Administration (CMA)
+# collaborator_comment: 
+# collaborator_comment: 46 Zhongguancun Nandajie
+# collaborator_comment: Beijing 100081, China
+# collaborator_comment: Tel:     86-10-5899-5279 (o)
+# collaborator_comment: Fax:     86-10-6217-6414 (o)
+# collaborator_comment: E-mail:zhoulx@cams.cma.gov.cn
+# collaborator_comment: zhoulx2007@gmail.com
+# comment: 
+# comment:  ************ RECIPROCITY AGREEMENT ***************
+# comment: 
+# comment: Use of these data implies an agreement to reciprocate.
+# comment: Laboratories making similar measurements agree to make their
+# comment: own data available to the general public and to the scientific
+# comment: community in an equally complete and easily accessible form.
+# comment: Modelers are encouraged to make available to the community,
+# comment: upon request, their own tools used in the interpretation
+# comment: of the GML data, namely well documented model code, transport
+# comment: fields, modeled mole fractions, and additional information 
+# comment: necessary for other scientists to repeat the work and to run 
+# comment: modified versions. Model availability includes collaborative 
+# comment: support for new users of the models.
+# comment:
+# comment:  ************ DATA DESCRIPTION ***************
+# comment:
+# description_site-code: wlg
+# description_project-abbr: ccg_surface
+# description_strategy-abbr: flask
+# description_analysis-constraints: flag:..%
+# description_creation-time: 2022-07-28 12:40:28
+# comment:
+# comment:  ************ DATA DOCUMENTATION ***************
+# comment:
+# comment: Please refer to the species-specific README file in the
+# comment: appropriate directory folder at https://gml.noaa.gov/aftp/data/trace_gases/.
+# comment:
+# data_fields: site year month value
+WLG 1991  7   128.40
+WLG 1991  8   122.93
+WLG 1991  9   124.19
+WLG 1991 10   123.32
+WLG 1991 11   126.17
+WLG 1991 12   128.53
+WLG 1992  1   131.30
+WLG 1992  2   144.77
+WLG 1992  3   165.92
+WLG 1992  4   180.23
+WLG 1992  5   172.48
+WLG 1992  6   140.42
+WLG 1992  7   117.95
+WLG 1992  8   119.90
+WLG 1992  9   122.54
+WLG 1992 10   113.21
+WLG 1992 11   107.88
+WLG 1992 12   114.20
+WLG 1993  1   126.83
+WLG 1993  2   137.99
+WLG 1993  3   138.93
+WLG 1993  4   132.08
+WLG 1993  5   122.36
+WLG 1993  6   116.61
+WLG 1993  7   118.54
+WLG 1993  8   122.03
+WLG 1993  9   118.34
+WLG 1993 10   112.93
+WLG 1993 11   109.54
+WLG 1993 12   109.15
+WLG 1994  1   131.37
+WLG 1994  2   171.19
+WLG 1994  3   183.38
+WLG 1994  4   169.85
+WLG 1994  5   155.05
+WLG 1994  6   132.51
+WLG 1994  7   102.75
+WLG 1994  8   106.85
+WLG 1994  9   127.66
+WLG 1994 10   123.17
+WLG 1994 11   113.55
+WLG 1994 12   133.98
+WLG 1995  1   162.77
+WLG 1995  2   166.03
+WLG 1995  3   157.81
+WLG 1995  4   156.43
+WLG 1995  5   155.24
+WLG 1995  6   138.59
+WLG 1995  7   116.29
+WLG 1995  8   115.38
+WLG 1995  9   117.08
+WLG 1995 10   105.36
+WLG 1995 11   105.76
+WLG 1995 12   119.40
+WLG 1996  1   123.48
+WLG 1996  2   122.82
+WLG 1996  3   132.86
+WLG 1996  4   154.74
+WLG 1996  5   161.40
+WLG 1996  6   137.85
+WLG 1996  7   121.94
+WLG 1996  8   129.94
+WLG 1996  9   122.28
+WLG 1996 10   100.22
+WLG 1996 11    97.47
+WLG 1996 12   102.44
+WLG 1997  1   111.39
+WLG 1997  2   138.08
+WLG 1997  3   163.67
+WLG 1997  4   157.12
+WLG 1997  5   137.98
+WLG 1997  6   120.11
+WLG 1997  7   106.88
+WLG 1997  8   102.55
+WLG 1997  9    99.03
+WLG 1997 10    96.24
+WLG 1997 11   108.78
+WLG 1997 12   127.61
+WLG 1998  1   135.79
+WLG 1998  2   140.49
+WLG 1998  3   144.35
+WLG 1998  4   143.46
+WLG 1998  5   138.31
+WLG 1998  6   125.90
+WLG 1998  7   115.02
+WLG 1998  8   122.57
+WLG 1998  9   134.13
+WLG 1998 10   122.23
+WLG 1998 11   109.79
+WLG 1998 12   125.54
+WLG 1999  1   141.02
+WLG 1999  2   137.47
+WLG 1999  3   135.87
+WLG 1999  4   144.65
+WLG 1999  5   148.93
+WLG 1999  6   140.35
+WLG 1999  7   135.33
+WLG 1999  8   134.33
+WLG 1999  9   126.41
+WLG 1999 10   115.54
+WLG 1999 11   110.82
+WLG 1999 12   109.87
+WLG 2000  1   119.19
+WLG 2000  2   145.94
+WLG 2000  3   160.92
+WLG 2000  4   153.28
+WLG 2000  5   145.95
+WLG 2000  6   136.90
+WLG 2000  7   119.89
+WLG 2000  8   117.70
+WLG 2000  9   114.68
+WLG 2000 10    98.63
+WLG 2000 11    98.89
+WLG 2000 12   107.71
+WLG 2001  1   111.55
+WLG 2001  2   132.74
+WLG 2001  3   159.08
+WLG 2001  4   159.07
+WLG 2001  5   145.11
+WLG 2001  6   138.84
+WLG 2001  7   136.34
+WLG 2001  8   139.46
+WLG 2001  9   138.01
+WLG 2001 10   126.91
+WLG 2001 11   119.59
+WLG 2001 12   123.69
+WLG 2002  1   135.66
+WLG 2002  2   140.87
+WLG 2002  3   135.81
+WLG 2002  4   129.15
+WLG 2002  5   129.51
+WLG 2002  6   129.65
+WLG 2002  7   117.86
+WLG 2002  8   111.77
+WLG 2002  9   121.25
+WLG 2002 10   124.29
+WLG 2002 11   120.46
+WLG 2002 12   123.65
+WLG 2003  1   131.51
+WLG 2003  2   138.88
+WLG 2003  3   136.61
+WLG 2003  4   130.60
+WLG 2003  5   139.50
+WLG 2003  6   146.13
+WLG 2003  7   140.15
+WLG 2003  8   147.13
+WLG 2003  9   152.34
+WLG 2003 10   135.20
+WLG 2003 11   114.81
+WLG 2003 12   113.35
+WLG 2004  1   121.83
+WLG 2004  2   134.53
+WLG 2004  3   150.23
+WLG 2004  4   159.56
+WLG 2004  5   150.58
+WLG 2004  6   132.62
+WLG 2004  7   133.70
+WLG 2004  8   143.82
+WLG 2004  9   134.95
+WLG 2004 10   124.98
+WLG 2004 11   128.40
+WLG 2004 12   123.52
+WLG 2005  1   116.41
+WLG 2005  2   134.57
+WLG 2005  3   160.18
+WLG 2005  4   169.46
+WLG 2005  5   167.86
+WLG 2005  6   167.56
+WLG 2005  7   154.33
+WLG 2005  8   131.87
+WLG 2005  9   121.20
+WLG 2005 10   115.25
+WLG 2005 11   111.58
+WLG 2005 12   116.45
+WLG 2006  1   122.66
+WLG 2006  2   128.19
+WLG 2006  3   136.18
+WLG 2006  4   139.60
+WLG 2006  5   137.59
+WLG 2006  6   134.17
+WLG 2006  7   134.18
+WLG 2006  8   140.88
+WLG 2006  9   132.54
+WLG 2006 10   107.76
+WLG 2006 11   103.63
+WLG 2006 12   117.67
+WLG 2007  1   124.19
+WLG 2007  2   127.80
+WLG 2007  3   137.46
+WLG 2007  4   151.66
+WLG 2007  5   150.69
+WLG 2007  6   130.59
+WLG 2007  7   119.68
+WLG 2007  8   131.16
+WLG 2007  9   129.80
+WLG 2007 10   113.60
+WLG 2007 11   112.05
+WLG 2007 12   125.02
+WLG 2008  1   133.85
+WLG 2008  2   134.73
+WLG 2008  3   136.53
+WLG 2008  4   144.06
+WLG 2008  5   147.93
+WLG 2008  6   137.96
+WLG 2008  7   127.12
+WLG 2008  8   130.19
+WLG 2008  9   128.90
+WLG 2008 10   115.48
+WLG 2008 11   104.05
+WLG 2008 12   101.38
+WLG 2009  1   103.53
+WLG 2009  2   111.45
+WLG 2009  3   117.16
+WLG 2009  4   115.05
+WLG 2009  5   122.86
+WLG 2009  6   134.95
+WLG 2009  7   134.10
+WLG 2009  8   135.86
+WLG 2009  9   145.81
+WLG 2009 10   140.73
+WLG 2009 11   120.58
+WLG 2009 12   108.26
+WLG 2010  1   109.71
+WLG 2010  2   117.74
+WLG 2010  3   126.47
+WLG 2010  4   133.94
+WLG 2010  5   137.65
+WLG 2010  6   141.16
+WLG 2010  7   150.60
+WLG 2010  8   150.53
+WLG 2010  9   123.31
+WLG 2010 10    94.74
+WLG 2010 11    93.18
+WLG 2010 12   104.95
+WLG 2011  1   112.45
+WLG 2011  2   119.13
+WLG 2011  3   127.23
+WLG 2011  4   129.48
+WLG 2011  5   126.92
+WLG 2011  6   125.32
+WLG 2011  7   126.90
+WLG 2011  8   127.71
+WLG 2011  9   115.01
+WLG 2011 10    99.96
+WLG 2011 11   107.13
+WLG 2011 12   116.43
+WLG 2012  1   128.08
+WLG 2012  2   156.37
+WLG 2012  3   164.72
+WLG 2012  4   144.64
+WLG 2012  5   133.78
+WLG 2012  6   127.32
+WLG 2012  7   117.87
+WLG 2012  8   130.66
+WLG 2012  9   140.19
+WLG 2012 10   121.00
+WLG 2012 11   105.17
+WLG 2012 12   104.86
+WLG 2013  1   110.97
+WLG 2013  2   121.01
+WLG 2013  3   131.40
+WLG 2013  4   133.62
+WLG 2013  5   131.74
+WLG 2013  6   124.95
+WLG 2013  7   120.08
+WLG 2013  8   128.37
+WLG 2013  9   130.47
+WLG 2013 10   109.53
+WLG 2013 11    98.61
+WLG 2013 12   107.82
+WLG 2014  1   112.19
+WLG 2014  2   113.51
+WLG 2014  3   124.92
+WLG 2014  4   134.82
+WLG 2014  5   135.30
+WLG 2014  6   123.39
+WLG 2014  7   108.73
+WLG 2014  8   112.13
+WLG 2014  9   114.86
+WLG 2014 10   102.95
+WLG 2014 11    99.19
+WLG 2014 12   108.43
+WLG 2015  1   110.12
+WLG 2015  2   108.53
+WLG 2015  3   114.96
+WLG 2015  4   125.45
+WLG 2015  5   125.86
+WLG 2015  6   120.03
+WLG 2015  7   131.74
+WLG 2015  8   152.33
+WLG 2015  9   138.42
+WLG 2015 10   111.42
+WLG 2015 11   112.63
+WLG 2015 12   127.26
+WLG 2016  1   127.56
+WLG 2016  2   131.63
+WLG 2016  3   140.75
+WLG 2016  4   140.64
+WLG 2016  5   134.90
+WLG 2016  6   138.26
+WLG 2016  7   148.61
+WLG 2016  8   144.87
+WLG 2016  9   122.91
+WLG 2016 10   111.06
+WLG 2016 11   120.89
+WLG 2016 12   119.26
+WLG 2017  1   108.52
+WLG 2017  2   112.57
+WLG 2017  3   121.93
+WLG 2017  4   129.43
+WLG 2017  5   129.89
+WLG 2017  6   117.22
+WLG 2017  7   108.56
+WLG 2017  8   119.35
+WLG 2017  9   121.93
+WLG 2017 10   104.53
+WLG 2017 11    94.50
+WLG 2017 12   101.43
+WLG 2018  1   108.31
+WLG 2018  2   113.19
+WLG 2018  3   119.80
+WLG 2018  4   127.83
+WLG 2018  5   134.26
+WLG 2018  6   133.86
+WLG 2018  7   130.80
+WLG 2018  8   131.22
+WLG 2018  9   122.21
+WLG 2018 10   103.13
+WLG 2018 11    95.13
+WLG 2018 12    99.32
+WLG 2019  1   103.62
+WLG 2019  2   106.07
+WLG 2019  3   111.14
+WLG 2019  4   119.00
+WLG 2019  5   123.59
+WLG 2019  6   118.38
+WLG 2019  7   118.83
+WLG 2019  8   132.93
+WLG 2019  9   133.81
+WLG 2019 10   114.62
+WLG 2019 11   106.42
+WLG 2019 12   110.64
+WLG 2020  1   114.84
+WLG 2020  2   121.76
+WLG 2020  3   132.54
+WLG 2020  4   134.85
+WLG 2020  5   129.75
+WLG 2020  6   121.98
+WLG 2020  7   114.23
+WLG 2020  8   124.80
+WLG 2020  9   153.44
+WLG 2020 10   160.50
+WLG 2020 11   136.85
+WLG 2020 12   112.84
+WLG 2021  1   110.83
+WLG 2021  2   124.87
+WLG 2021  3   137.15
+WLG 2021  4   139.05
+WLG 2021  5   131.41
+WLG 2021  6   124.06
+WLG 2021  7   125.63
+WLG 2021  8   136.02
+WLG 2021  9   143.33
+WLG 2021 10   136.74
+WLG 2021 11   119.94
+WLG 2021 12   109.13

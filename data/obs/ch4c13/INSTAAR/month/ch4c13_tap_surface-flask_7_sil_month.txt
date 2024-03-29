@@ -1,0 +1,309 @@
+# number_of_header_lines: 55
+# comment:  
+# comment:  ************ USE OF GML DATA ****************
+# comment:  
+# comment: These data are made freely available to the public and the scientific
+# comment: community in the belief that their wide dissemination will lead to
+# comment: greater understanding and new scientific insights. To ensure that GML
+# comment: receives fair credit for their work please include relevant citation
+# comment: text in publications. We encourage users to contact the data providers,
+# comment: who can provide detailed information about the measurements and
+# comment: scientific insight.  In cases where the data are central to a
+# comment: publication, coauthorship for data providers may be appropriate.
+# comment: 
+# comment: 
+# comment: Please see accompanying README file, if available, for citation text.
+# comment:  
+# comment: Every effort is made to produce the most accurate and precise
+# comment: measurements possible.  However, we reserve the right to make
+# comment: corrections to the data based on recalibration of standard gases
+# comment: or for other reasons deemed scientifically justified.
+# comment: 
+# comment: We are not responsible for results and conclusions based on use
+# comment: of these data without regard to this warning.
+# comment: 
+# contact_parameter: CH4C13 SIL (Individual Flasks)
+# contact_name: Sylvia Englund Michel
+# contact_telephone: (303) 492-5495
+# contact_email: Sylvia.Englund@colorado.edu
+# comment: 
+# comment:  ************ COLLABORATORS ***************
+# comment: 
+# comment: NOAA thanks the following collaborators without
+# comment: whom these measurements would not be possible.
+# comment: 
+# collaborator_name: Korea Centre for Atmospheric Environment
+# collaborator_name: Research  [KCAER]
+# collaborator_url: http://www.kcaer.re.kr/v2/about/
+# comment: 
+# comment:  ************ RECIPROCITY AGREEMENT ***************
+# comment: 
+# comment:
+# comment:  ************ DATA DESCRIPTION ***************
+# comment:
+# description_site-code: tap
+# description_project-abbr: ccg_surface
+# description_strategy-abbr: flask
+# description_analysis-constraints: flag:..%
+# description_creation-time: 2023-09-21 15:03:52
+# comment:
+# comment:  ************ DATA DOCUMENTATION ***************
+# comment:
+# comment: Please refer to the species-specific README file in the
+# comment: appropriate directory folder at https://gml.noaa.gov/aftp/data/trace_gases/.
+# comment:
+# data_fields: site year month value
+TAP 2000  9  -47.511
+TAP 2000 10  -47.442
+TAP 2000 11  -47.336
+TAP 2000 12  -47.291
+TAP 2001  1  -47.308
+TAP 2001  2  -47.318
+TAP 2001  3  -47.249
+TAP 2001  4  -47.093
+TAP 2001  5  -46.963
+TAP 2002  3  -47.208
+TAP 2002  4  -47.167
+TAP 2002  5  -47.150
+TAP 2002  6  -47.169
+TAP 2002  7  -47.205
+TAP 2002  8  -47.234
+TAP 2002  9  -47.263
+TAP 2002 10  -47.299
+TAP 2002 11  -47.322
+TAP 2002 12  -47.319
+TAP 2003  1  -47.289
+TAP 2003  2  -47.255
+TAP 2003  3  -47.226
+TAP 2003  4  -47.219
+TAP 2003  5  -47.235
+TAP 2003  6  -47.273
+TAP 2003  7  -47.315
+TAP 2003  8  -47.343
+TAP 2003  9  -47.347
+TAP 2003 10  -47.318
+TAP 2003 11  -47.271
+TAP 2003 12  -47.228
+TAP 2004  1  -47.218
+TAP 2004  2  -47.226
+TAP 2004  3  -47.222
+TAP 2004  4  -47.216
+TAP 2004  5  -47.268
+TAP 2004  6  -47.390
+TAP 2004  7  -47.505
+TAP 2004  8  -47.559
+TAP 2004  9  -47.523
+TAP 2004 10  -47.450
+TAP 2004 11  -47.368
+TAP 2004 12  -47.304
+TAP 2005  1  -47.257
+TAP 2005  2  -47.223
+TAP 2005  3  -47.208
+TAP 2005  4  -47.221
+TAP 2005  5  -47.278
+TAP 2005  6  -47.350
+TAP 2005  7  -47.382
+TAP 2005  8  -47.356
+TAP 2006  2  -47.226
+TAP 2006  3  -47.178
+TAP 2006  4  -47.116
+TAP 2006  5  -47.110
+TAP 2006  6  -47.228
+TAP 2006  7  -47.443
+TAP 2006  8  -47.635
+TAP 2006  9  -47.700
+TAP 2006 10  -47.622
+TAP 2006 11  -47.446
+TAP 2006 12  -47.284
+TAP 2007  1  -47.179
+TAP 2007  2  -47.160
+TAP 2007  3  -47.179
+TAP 2007  4  -47.194
+TAP 2007  5  -47.202
+TAP 2007  6  -47.224
+TAP 2007  7  -47.284
+TAP 2007  8  -47.371
+TAP 2007  9  -47.445
+TAP 2007 10  -47.483
+TAP 2007 11  -47.459
+TAP 2007 12  -47.401
+TAP 2008  1  -47.355
+TAP 2008  2  -47.305
+TAP 2008  3  -47.174
+TAP 2008  4  -46.975
+TAP 2008  5  -46.846
+TAP 2008  6  -46.896
+TAP 2008  7  -47.134
+TAP 2008  8  -47.378
+TAP 2008  9  -47.524
+TAP 2008 10  -47.515
+TAP 2008 11  -47.447
+TAP 2008 12  -47.397
+TAP 2009  1  -47.383
+TAP 2009  2  -47.358
+TAP 2009  3  -47.284
+TAP 2009  4  -47.211
+TAP 2009  5  -47.221
+TAP 2009  6  -47.352
+TAP 2009  7  -47.543
+TAP 2009  8  -47.669
+TAP 2009  9  -47.660
+TAP 2009 10  -47.556
+TAP 2009 11  -47.431
+TAP 2009 12  -47.372
+TAP 2010  1  -47.379
+TAP 2010  2  -47.395
+TAP 2010  3  -47.404
+TAP 2010  4  -47.434
+TAP 2010  5  -47.535
+TAP 2010  6  -47.687
+TAP 2010  7  -47.819
+TAP 2010  8  -47.905
+TAP 2010  9  -47.896
+TAP 2010 10  -47.797
+TAP 2010 11  -47.634
+TAP 2010 12  -47.503
+TAP 2011  1  -47.458
+TAP 2011  2  -47.434
+TAP 2011  3  -47.363
+TAP 2011  4  -47.290
+TAP 2011  5  -47.385
+TAP 2011  6  -47.731
+TAP 2011  7  -48.086
+TAP 2011  8  -48.212
+TAP 2011  9  -47.978
+TAP 2011 10  -47.619
+TAP 2011 11  -47.417
+TAP 2011 12  -47.403
+TAP 2012  1  -47.431
+TAP 2012  2  -47.411
+TAP 2012  3  -47.362
+TAP 2012  4  -47.308
+TAP 2012  5  -47.264
+TAP 2012  6  -47.250
+TAP 2012  7  -47.304
+TAP 2012  8  -47.434
+TAP 2012  9  -47.555
+TAP 2012 10  -47.605
+TAP 2012 11  -47.548
+TAP 2012 12  -47.446
+TAP 2013  1  -47.380
+TAP 2013  2  -47.366
+TAP 2013  3  -47.362
+TAP 2013  4  -47.342
+TAP 2013  5  -47.314
+TAP 2013  6  -47.315
+TAP 2013  7  -47.379
+TAP 2013  8  -47.497
+TAP 2013  9  -47.593
+TAP 2013 10  -47.595
+TAP 2013 11  -47.537
+TAP 2013 12  -47.522
+TAP 2014  1  -47.590
+TAP 2014  2  -47.627
+TAP 2014  3  -47.524
+TAP 2014  4  -47.347
+TAP 2014  5  -47.285
+TAP 2014  6  -47.399
+TAP 2014  7  -47.579
+TAP 2014  8  -47.666
+TAP 2014  9  -47.649
+TAP 2014 10  -47.586
+TAP 2014 11  -47.549
+TAP 2014 12  -47.537
+TAP 2015  1  -47.529
+TAP 2015  2  -47.505
+TAP 2015  3  -47.459
+TAP 2015  4  -47.423
+TAP 2015  5  -47.436
+TAP 2015  6  -47.522
+TAP 2015  7  -47.662
+TAP 2015  8  -47.793
+TAP 2015  9  -47.837
+TAP 2015 10  -47.772
+TAP 2015 11  -47.639
+TAP 2015 12  -47.538
+TAP 2016  1  -47.512
+TAP 2016  2  -47.513
+TAP 2016  3  -47.489
+TAP 2016  4  -47.441
+TAP 2016  5  -47.405
+TAP 2016  6  -47.438
+TAP 2016  7  -47.540
+TAP 2016  8  -47.681
+TAP 2016  9  -47.755
+TAP 2016 10  -47.696
+TAP 2016 11  -47.562
+TAP 2016 12  -47.468
+TAP 2017  1  -47.449
+TAP 2017  2  -47.475
+TAP 2017  3  -47.474
+TAP 2017  4  -47.440
+TAP 2017  5  -47.419
+TAP 2017  6  -47.471
+TAP 2017  7  -47.589
+TAP 2017  8  -47.704
+TAP 2017  9  -47.766
+TAP 2017 10  -47.791
+TAP 2017 11  -47.785
+TAP 2017 12  -47.746
+TAP 2018  1  -47.659
+TAP 2018  2  -47.564
+TAP 2018  3  -47.517
+TAP 2018  4  -47.515
+TAP 2018  5  -47.524
+TAP 2018  6  -47.521
+TAP 2018  7  -47.551
+TAP 2018  8  -47.657
+TAP 2018  9  -47.777
+TAP 2018 10  -47.824
+TAP 2018 11  -47.750
+TAP 2018 12  -47.632
+TAP 2019  1  -47.556
+TAP 2019  2  -47.521
+TAP 2019  3  -47.489
+TAP 2019  4  -47.477
+TAP 2019  5  -47.535
+TAP 2019  6  -47.653
+TAP 2019  7  -47.808
+TAP 2019  8  -47.930
+TAP 2019  9  -47.985
+TAP 2019 10  -47.965
+TAP 2019 11  -47.892
+TAP 2019 12  -47.779
+TAP 2020  1  -47.679
+TAP 2020  2  -47.634
+TAP 2020  3  -47.645
+TAP 2020  4  -47.682
+TAP 2020  5  -47.684
+TAP 2020  6  -47.644
+TAP 2020  7  -47.644
+TAP 2020  8  -47.776
+TAP 2020  9  -47.969
+TAP 2020 10  -48.058
+TAP 2020 11  -47.993
+TAP 2020 12  -47.857
+TAP 2021  1  -47.780
+TAP 2021  2  -47.760
+TAP 2021  3  -47.731
+TAP 2021  4  -47.671
+TAP 2021  5  -47.669
+TAP 2021  6  -47.806
+TAP 2021  7  -48.017
+TAP 2021  8  -48.190
+TAP 2021  9  -48.181
+TAP 2021 10  -48.040
+TAP 2021 11  -47.880
+TAP 2021 12  -47.818
+TAP 2022  1  -47.846
+TAP 2022  2  -47.881
+TAP 2022  3  -47.875
+TAP 2022  4  -47.831
+TAP 2022  5  -47.763
+TAP 2022  6  -47.726
+TAP 2022  7  -47.768
+TAP 2022  8  -47.908
+TAP 2022  9  -48.075
+TAP 2022 10  -48.161
+TAP 2022 11  -48.132
+TAP 2022 12  -48.045

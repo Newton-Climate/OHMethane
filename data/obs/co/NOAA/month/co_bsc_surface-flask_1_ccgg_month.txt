@@ -1,0 +1,276 @@
+# number_of_header_lines: 69
+# comment:  
+# comment:  ************ USE OF GML DATA ****************
+# comment:  
+# comment: These data are made freely available to the public and the
+# comment: scientific community in the belief that their wide dissemination
+# comment: will lead to greater understanding and new scientific insights.
+# comment: The availability of these data does not constitute publication
+# comment: of the data.  NOAA relies on the ethics and integrity of the user to
+# comment: ensure that GML receives fair credit for their work.  If the data 
+# comment: are obtained for potential use in a publication or presentation, 
+# comment: GML should be informed at the outset of the nature of this work.  
+# comment: If the GML data are essential to the work, or if an important 
+# comment: result or conclusion depends on the GML data, co-authorship
+# comment: may be appropriate.  This should be discussed at an early stage in
+# comment: the work.  Manuscripts using the GML data should be sent to GML
+# comment: for review before they are submitted for publication so we can
+# comment: ensure that the quality and limitations of the data are accurately
+# comment: represented.
+# comment: Please see accompanying README file, if available, for citation text.
+# comment:  
+# comment: Every effort is made to produce the most accurate and precise
+# comment: measurements possible.  However, we reserve the right to make
+# comment: corrections to the data based on recalibration of standard gases
+# comment: or for other reasons deemed scientifically justified.
+# comment: 
+# comment: We are not responsible for results and conclusions based on use
+# comment: of these data without regard to this warning.
+# comment: 
+# contact_parameter: CO CCGG (Individual Flasks)
+# contact_name: Gabrielle Petron
+# contact_telephone: (720) 295-0145
+# contact_email: Gabrielle.Petron@noaa.gov
+# comment: 
+# comment:  ************ COLLABORATORS ***************
+# comment: 
+# comment: NOAA thanks the following collaborators without
+# comment: whom these measurements would not be possible.
+# comment: 
+# collaborator_name: Romanian Marine Research Institute [RMRI]
+# comment: 
+# comment:  ************ RECIPROCITY AGREEMENT ***************
+# comment: 
+# comment: Use of these data implies an agreement to reciprocate.
+# comment: Laboratories making similar measurements agree to make their
+# comment: own data available to the general public and to the scientific
+# comment: community in an equally complete and easily accessible form.
+# comment: Modelers are encouraged to make available to the community,
+# comment: upon request, their own tools used in the interpretation
+# comment: of the GML data, namely well documented model code, transport
+# comment: fields, modeled mole fractions, and additional information 
+# comment: necessary for other scientists to repeat the work and to run 
+# comment: modified versions. Model availability includes collaborative 
+# comment: support for new users of the models.
+# comment:
+# comment:  ************ DATA DESCRIPTION ***************
+# comment:
+# description_site-code: bsc
+# description_project-abbr: ccg_surface
+# description_strategy-abbr: flask
+# description_analysis-constraints: flag:..%
+# description_creation-time: 2022-07-28 12:39:01
+# comment:
+# comment:  ************ DATA DOCUMENTATION ***************
+# comment:
+# comment: Please refer to the species-specific README file in the
+# comment: appropriate directory folder at https://gml.noaa.gov/aftp/data/trace_gases/.
+# comment:
+# data_fields: site year month value
+BSC 1994 10   157.07
+BSC 1994 11   173.86
+BSC 1994 12   217.05
+BSC 1995  1   233.70
+BSC 1995  2   223.27
+BSC 1995  3   228.16
+BSC 1995  4   218.82
+BSC 1995  5   173.85
+BSC 1995  6   164.68
+BSC 1995  7   183.17
+BSC 1995  8   178.10
+BSC 1995  9   169.20
+BSC 1995 10   189.09
+BSC 1995 11   235.68
+BSC 1995 12   296.76
+BSC 1996  1   358.41
+BSC 1996  2   380.33
+BSC 1996  3   343.33
+BSC 1996  4   274.70
+BSC 1996  5   205.17
+BSC 1996  6   172.09
+BSC 1996  7   170.58
+BSC 1996  8   187.22
+BSC 1996  9   222.38
+BSC 1996 10   255.04
+BSC 1996 11   277.26
+BSC 1996 12   323.44
+BSC 1997  1   350.22
+BSC 1997  2   299.96
+BSC 1997  3   248.90
+BSC 1997  4   212.40
+BSC 1997  5   174.23
+BSC 1997  6   168.47
+BSC 1997  7   183.11
+BSC 1997  8   186.03
+BSC 1997  9   197.57
+BSC 1997 10   219.89
+BSC 1997 11   253.82
+BSC 1997 12   295.84
+BSC 1998  1   273.47
+BSC 1998  2   224.60
+BSC 1998  3   228.78
+BSC 1998  4   246.12
+BSC 1998  5   218.85
+BSC 1998  6   197.15
+BSC 1998  7   187.61
+BSC 1998  8   174.31
+BSC 1998  9   181.92
+BSC 1998 10   225.30
+BSC 1998 11   283.69
+BSC 1998 12   324.53
+BSC 1999  1   320.83
+BSC 1999  2   309.33
+BSC 1999  3   283.01
+BSC 1999  4   218.92
+BSC 1999  5   172.40
+BSC 1999  6   177.52
+BSC 1999  7   192.56
+BSC 1999  8   183.90
+BSC 1999  9   177.95
+BSC 1999 10   179.64
+BSC 1999 11   193.84
+BSC 1999 12   233.99
+BSC 2000  1   244.50
+BSC 2000  2   226.88
+BSC 2000  3   236.82
+BSC 2000  4   234.45
+BSC 2000  5   180.77
+BSC 2000  6   145.42
+BSC 2000  7   150.46
+BSC 2000  8   160.55
+BSC 2000  9   171.81
+BSC 2000 10   212.53
+BSC 2000 11   298.29
+BSC 2000 12   352.80
+BSC 2001  1   318.25
+BSC 2001  2   263.14
+BSC 2001  3   240.67
+BSC 2001  4   213.80
+BSC 2001  5   169.32
+BSC 2001  6   156.98
+BSC 2001  7   171.73
+BSC 2001  8   171.43
+BSC 2001  9   176.28
+BSC 2001 10   222.54
+BSC 2001 11   272.60
+BSC 2001 12   295.70
+BSC 2002  1   293.42
+BSC 2002  2   271.82
+BSC 2002  3   259.93
+BSC 2002  4   234.69
+BSC 2002  5   171.24
+BSC 2002  6   147.29
+BSC 2002  7   192.33
+BSC 2002  8   239.78
+BSC 2002  9   258.64
+BSC 2002 10   246.30
+BSC 2002 11   228.46
+BSC 2002 12   240.84
+BSC 2003  1   264.87
+BSC 2003  2   277.90
+BSC 2003  3   274.05
+BSC 2003  4   230.46
+BSC 2003  5   177.66
+BSC 2003  6   171.40
+BSC 2003  7   186.16
+BSC 2003  8   184.66
+BSC 2003  9   180.87
+BSC 2003 10   179.94
+BSC 2003 11   179.56
+BSC 2003 12   207.60
+BSC 2004  1   266.97
+BSC 2004  2   316.74
+BSC 2004  3   338.71
+BSC 2004  4   301.54
+BSC 2004  5   224.01
+BSC 2004  6   169.22
+BSC 2004  7   179.33
+BSC 2004  8   208.06
+BSC 2004  9   221.14
+BSC 2004 10   200.47
+BSC 2004 11   196.72
+BSC 2004 12   256.72
+BSC 2005  1   307.88
+BSC 2005  2   303.98
+BSC 2005  3   293.90
+BSC 2005  4   271.53
+BSC 2005  5   225.30
+BSC 2005  6   185.26
+BSC 2005  7   161.60
+BSC 2005  8   160.75
+BSC 2005  9   189.48
+BSC 2005 10   208.29
+BSC 2005 11   277.47
+BSC 2005 12   434.69
+BSC 2006  1   518.69
+BSC 2006  2   474.71
+BSC 2006  3   372.30
+BSC 2006  4   294.91
+BSC 2006  5   270.97
+BSC 2006  6   265.14
+BSC 2006  7   210.87
+BSC 2006  8   149.65
+BSC 2006  9   172.60
+BSC 2006 10   225.86
+BSC 2006 11   285.20
+BSC 2006 12   365.98
+BSC 2007  1   389.76
+BSC 2007  2   309.99
+BSC 2007  3   232.49
+BSC 2007  4   198.29
+BSC 2007  5   182.14
+BSC 2007  6   193.07
+BSC 2007  7   219.95
+BSC 2007  8   208.70
+BSC 2007  9   168.52
+BSC 2007 10   190.69
+BSC 2007 11   284.71
+BSC 2007 12   340.88
+BSC 2008  1   299.04
+BSC 2008  2   234.56
+BSC 2008  3   229.84
+BSC 2008  4   227.87
+BSC 2008  5   187.98
+BSC 2008  6   158.87
+BSC 2008  7   146.71
+BSC 2008  8   136.87
+BSC 2008  9   150.27
+BSC 2008 10   196.28
+BSC 2008 11   242.88
+BSC 2008 12   276.75
+BSC 2009  1   296.43
+BSC 2009  2   311.06
+BSC 2009  3   320.20
+BSC 2009  4   269.84
+BSC 2009  5   172.94
+BSC 2009  6   129.47
+BSC 2009  7   144.20
+BSC 2009  8   169.65
+BSC 2009  9   177.10
+BSC 2009 10   170.29
+BSC 2009 11   195.14
+BSC 2009 12   298.00
+BSC 2010  1   395.78
+BSC 2010  2   382.70
+BSC 2010  3   288.26
+BSC 2010  4   204.50
+BSC 2010  5   157.66
+BSC 2010  6   141.49
+BSC 2010  7   161.75
+BSC 2010  8   180.64
+BSC 2010  9   186.65
+BSC 2010 10   185.36
+BSC 2010 11   189.66
+BSC 2010 12   222.48
+BSC 2011  1   269.55
+BSC 2011  2   285.89
+BSC 2011  3   255.93
+BSC 2011  4   198.00
+BSC 2011  5   158.67
+BSC 2011  6   155.67
+BSC 2011  7   159.69
+BSC 2011  8   136.34
+BSC 2011  9   136.27
+BSC 2011 10   169.95
+BSC 2011 11   200.68
+BSC 2011 12   231.35

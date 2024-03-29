@@ -1,0 +1,434 @@
+# number_of_header_lines: 70
+# comment:  
+# comment:  ************ USE OF GML DATA ****************
+# comment:  
+# comment: These data are made freely available to the public and the
+# comment: scientific community in the belief that their wide dissemination
+# comment: will lead to greater understanding and new scientific insights.
+# comment: The availability of these data does not constitute publication
+# comment: of the data.  NOAA relies on the ethics and integrity of the user to
+# comment: ensure that GML receives fair credit for their work.  If the data 
+# comment: are obtained for potential use in a publication or presentation, 
+# comment: GML should be informed at the outset of the nature of this work.  
+# comment: If the GML data are essential to the work, or if an important 
+# comment: result or conclusion depends on the GML data, co-authorship
+# comment: may be appropriate.  This should be discussed at an early stage in
+# comment: the work.  Manuscripts using the GML data should be sent to GML
+# comment: for review before they are submitted for publication so we can
+# comment: ensure that the quality and limitations of the data are accurately
+# comment: represented.
+# comment: Please see accompanying README file, if available, for citation text.
+# comment:  
+# comment: Every effort is made to produce the most accurate and precise
+# comment: measurements possible.  However, we reserve the right to make
+# comment: corrections to the data based on recalibration of standard gases
+# comment: or for other reasons deemed scientifically justified.
+# comment: 
+# comment: We are not responsible for results and conclusions based on use
+# comment: of these data without regard to this warning.
+# comment: 
+# contact_parameter: CO CCGG (Individual Flasks)
+# contact_name: Gabrielle Petron
+# contact_telephone: (720) 295-0145
+# contact_email: Gabrielle.Petron@noaa.gov
+# comment: 
+# comment:  ************ COLLABORATORS ***************
+# comment: 
+# comment: NOAA thanks the following collaborators without
+# comment: whom these measurements would not be possible.
+# comment: 
+# collaborator_name: NOAA Atlantic Oceanographic and Meteorological
+# collaborator_name: Laboratory [AOML]
+# comment: 
+# comment:  ************ RECIPROCITY AGREEMENT ***************
+# comment: 
+# comment: Use of these data implies an agreement to reciprocate.
+# comment: Laboratories making similar measurements agree to make their
+# comment: own data available to the general public and to the scientific
+# comment: community in an equally complete and easily accessible form.
+# comment: Modelers are encouraged to make available to the community,
+# comment: upon request, their own tools used in the interpretation
+# comment: of the GML data, namely well documented model code, transport
+# comment: fields, modeled mole fractions, and additional information 
+# comment: necessary for other scientists to repeat the work and to run 
+# comment: modified versions. Model availability includes collaborative 
+# comment: support for new users of the models.
+# comment:
+# comment:  ************ DATA DESCRIPTION ***************
+# comment:
+# description_site-code: key
+# description_project-abbr: ccg_surface
+# description_strategy-abbr: flask
+# description_analysis-constraints: flag:..%
+# description_creation-time: 2022-07-28 12:39:22
+# comment:
+# comment:  ************ DATA DOCUMENTATION ***************
+# comment:
+# comment: Please refer to the species-specific README file in the
+# comment: appropriate directory folder at https://gml.noaa.gov/aftp/data/trace_gases/.
+# comment:
+# data_fields: site year month value
+KEY 1991  6   131.37
+KEY 1991  7   124.99
+KEY 1991  8   113.45
+KEY 1991  9   106.28
+KEY 1991 10   108.78
+KEY 1991 11   119.05
+KEY 1991 12   136.86
+KEY 1992  1   152.43
+KEY 1992  2   153.48
+KEY 1992  3   156.31
+KEY 1992  4   162.65
+KEY 1992  5   141.50
+KEY 1992  6    99.08
+KEY 1992  7    81.59
+KEY 1992  8    86.50
+KEY 1992  9   101.71
+KEY 1992 10   122.59
+KEY 1992 11   128.25
+KEY 1992 12   124.11
+KEY 1993  1   134.08
+KEY 1993  2   154.25
+KEY 1993  3   170.90
+KEY 1993  4   161.99
+KEY 1993  5   125.11
+KEY 1993  6    84.58
+KEY 1993  7    73.62
+KEY 1993  8    77.16
+KEY 1993  9    80.49
+KEY 1993 10    89.00
+KEY 1993 11   101.70
+KEY 1993 12   117.98
+KEY 1994  1   131.55
+KEY 1994  2   129.84
+KEY 1994  3   125.73
+KEY 1994  4   137.36
+KEY 1994  5   129.47
+KEY 1994  6    97.91
+KEY 1994  7    83.16
+KEY 1994  8    82.65
+KEY 1994  9    86.66
+KEY 1994 10    96.91
+KEY 1994 11   106.34
+KEY 1994 12   124.02
+KEY 1995  1   160.95
+KEY 1995  2   176.91
+KEY 1995  3   165.93
+KEY 1995  4   156.38
+KEY 1995  5   135.81
+KEY 1995  6   102.87
+KEY 1995  7    92.47
+KEY 1995  8    94.66
+KEY 1995  9    97.37
+KEY 1995 10   116.99
+KEY 1995 11   130.34
+KEY 1995 12   128.43
+KEY 1996  1   139.26
+KEY 1996  2   151.77
+KEY 1996  3   152.57
+KEY 1996  4   151.35
+KEY 1996  5   131.93
+KEY 1996  6    98.66
+KEY 1996  7    82.12
+KEY 1996  8    87.66
+KEY 1996  9    92.43
+KEY 1996 10   106.09
+KEY 1996 11   126.04
+KEY 1996 12   130.78
+KEY 1997  1   132.59
+KEY 1997  2   142.29
+KEY 1997  3   151.07
+KEY 1997  4   150.38
+KEY 1997  5   135.74
+KEY 1997  6   115.22
+KEY 1997  7    90.31
+KEY 1997  8    72.36
+KEY 1997  9    84.78
+KEY 1997 10   116.53
+KEY 1997 11   140.41
+KEY 1997 12   169.36
+KEY 1998  1   188.61
+KEY 1998  2   174.62
+KEY 1998  3   150.72
+KEY 1998  4   145.85
+KEY 1998  5   146.88
+KEY 1998  6   139.50
+KEY 1998  7   120.80
+KEY 1998  8   102.81
+KEY 1998  9   105.78
+KEY 1998 10   123.95
+KEY 1998 11   125.68
+KEY 1998 12   124.58
+KEY 1999  1   145.51
+KEY 1999  2   161.99
+KEY 1999  3   155.67
+KEY 1999  4   139.65
+KEY 1999  5   118.98
+KEY 1999  6    91.72
+KEY 1999  7    81.27
+KEY 1999  8    82.31
+KEY 1999  9    84.08
+KEY 1999 10    95.03
+KEY 1999 11   105.23
+KEY 1999 12   111.33
+KEY 2000  1   126.91
+KEY 2000  2   135.89
+KEY 2000  3   134.08
+KEY 2000  4   141.11
+KEY 2000  5   131.75
+KEY 2000  6    97.68
+KEY 2000  7    80.02
+KEY 2000  8    78.44
+KEY 2000  9    84.45
+KEY 2000 10   101.39
+KEY 2000 11   110.77
+KEY 2000 12   109.98
+KEY 2001  1   113.03
+KEY 2001  2   115.71
+KEY 2001  3   122.02
+KEY 2001  4   132.11
+KEY 2001  5   121.62
+KEY 2001  6    92.90
+KEY 2001  7    75.72
+KEY 2001  8    72.64
+KEY 2001  9    83.23
+KEY 2001 10   105.83
+KEY 2001 11   118.39
+KEY 2001 12   120.39
+KEY 2002  1   125.30
+KEY 2002  2   131.66
+KEY 2002  3   136.34
+KEY 2002  4   130.27
+KEY 2002  5   106.26
+KEY 2002  6    88.53
+KEY 2002  7    84.85
+KEY 2002  8    82.06
+KEY 2002  9    84.83
+KEY 2002 10    98.24
+KEY 2002 11   113.21
+KEY 2002 12   141.99
+KEY 2003  1   163.23
+KEY 2003  2   157.29
+KEY 2003  3   161.94
+KEY 2003  4   174.59
+KEY 2003  5   142.26
+KEY 2003  6    95.90
+KEY 2003  7    79.53
+KEY 2003  8    87.56
+KEY 2003  9   100.46
+KEY 2003 10   120.06
+KEY 2003 11   134.75
+KEY 2003 12   138.45
+KEY 2004  1   138.63
+KEY 2004  2   143.33
+KEY 2004  3   153.72
+KEY 2004  4   151.22
+KEY 2004  5   121.99
+KEY 2004  6    92.49
+KEY 2004  7    91.53
+KEY 2004  8    89.01
+KEY 2004  9    86.52
+KEY 2004 10   100.64
+KEY 2004 11   107.99
+KEY 2004 12   110.63
+KEY 2005  1   134.64
+KEY 2005  2   159.09
+KEY 2005  3   160.75
+KEY 2005  4   151.00
+KEY 2005  5   125.92
+KEY 2005  6    93.72
+KEY 2005  7    91.15
+KEY 2005  8   101.98
+KEY 2005  9    99.25
+KEY 2005 10   103.87
+KEY 2005 11   116.72
+KEY 2005 12   120.42
+KEY 2006  1   142.64
+KEY 2006  2   180.81
+KEY 2006  6    92.72
+KEY 2006  7    81.55
+KEY 2006  8    79.43
+KEY 2006  9    86.93
+KEY 2006 10   101.52
+KEY 2006 11   106.50
+KEY 2006 12   110.27
+KEY 2007  1   126.30
+KEY 2007  2   143.44
+KEY 2007  3   151.70
+KEY 2007  4   148.04
+KEY 2007  5   126.06
+KEY 2007  6   102.90
+KEY 2007  7    92.46
+KEY 2007  8    87.50
+KEY 2007  9    88.80
+KEY 2007 10    93.14
+KEY 2007 11    97.34
+KEY 2007 12   117.61
+KEY 2008  1   144.80
+KEY 2008  2   140.18
+KEY 2008  3   130.50
+KEY 2008  4   139.36
+KEY 2008  5   128.02
+KEY 2008  6   100.76
+KEY 2008  7    94.23
+KEY 2008  8    92.48
+KEY 2008  9    81.56
+KEY 2008 10    90.21
+KEY 2008 11   102.93
+KEY 2008 12   106.55
+KEY 2009  1   117.94
+KEY 2009  2   134.48
+KEY 2009  3   146.26
+KEY 2009  4   140.73
+KEY 2009  5   115.74
+KEY 2009  6    89.55
+KEY 2009  7    83.02
+KEY 2009  8    86.59
+KEY 2009  9    93.78
+KEY 2009 10    96.70
+KEY 2009 11    98.93
+KEY 2009 12   124.52
+KEY 2010  1   152.34
+KEY 2010  2   146.53
+KEY 2010  3   138.10
+KEY 2010  4   150.39
+KEY 2010  5   141.56
+KEY 2010  6   103.39
+KEY 2010  7    85.38
+KEY 2010  8    96.83
+KEY 2010  9   107.86
+KEY 2010 10   110.97
+KEY 2010 11   113.63
+KEY 2010 12   121.78
+KEY 2011  1   132.54
+KEY 2011  2   136.95
+KEY 2011  3   137.83
+KEY 2011  4   143.86
+KEY 2011  5   133.67
+KEY 2011  6   104.64
+KEY 2011  7    89.56
+KEY 2011  8    86.41
+KEY 2011  9    86.00
+KEY 2011 10    95.01
+KEY 2011 11   108.19
+KEY 2011 12   111.49
+KEY 2012  1   109.16
+KEY 2012  2   115.78
+KEY 2012  3   133.56
+KEY 2012  4   138.02
+KEY 2012  5   109.94
+KEY 2012  6    85.49
+KEY 2012  7    85.04
+KEY 2012  8    85.62
+KEY 2012  9    90.29
+KEY 2012 10   106.22
+KEY 2012 11   111.45
+KEY 2012 12   105.80
+KEY 2013  1   111.91
+KEY 2013  2   128.11
+KEY 2013  3   136.43
+KEY 2013  4   130.07
+KEY 2013  5   106.64
+KEY 2013  6    87.16
+KEY 2013  7    84.02
+KEY 2013  8    85.12
+KEY 2013  9    84.64
+KEY 2013 10    91.48
+KEY 2013 11    99.01
+KEY 2013 12   109.70
+KEY 2014  1   124.95
+KEY 2014  2   132.56
+KEY 2014  3   142.57
+KEY 2014  4   150.54
+KEY 2014  5   126.49
+KEY 2014  6    94.41
+KEY 2014  7    81.87
+KEY 2014  8    77.69
+KEY 2014  9    77.62
+KEY 2014 10    92.99
+KEY 2014 11   102.00
+KEY 2014 12   104.22
+KEY 2015  1   116.77
+KEY 2015  2   122.25
+KEY 2015  3   120.03
+KEY 2015  4   123.97
+KEY 2015  5   111.73
+KEY 2015  6    87.39
+KEY 2015  7    86.87
+KEY 2015  8    90.85
+KEY 2015  9    86.04
+KEY 2015 10    90.43
+KEY 2015 11    97.43
+KEY 2015 12   107.43
+KEY 2016  1   127.26
+KEY 2016  2   138.53
+KEY 2016  3   139.81
+KEY 2016  4   138.38
+KEY 2016  5   119.95
+KEY 2016  6    91.14
+KEY 2016  7    79.40
+KEY 2016  8    80.76
+KEY 2016  9    87.97
+KEY 2016 10   100.77
+KEY 2016 11   113.42
+KEY 2016 12   121.09
+KEY 2017  1   124.36
+KEY 2017  2   117.91
+KEY 2017  3   115.25
+KEY 2017  4   118.34
+KEY 2017  5   103.52
+KEY 2017  6    77.53
+KEY 2017  7    70.59
+KEY 2017  8    73.55
+KEY 2017  9    74.15
+KEY 2017 10    82.15
+KEY 2017 11    98.08
+KEY 2017 12   111.04
+KEY 2018  1   117.34
+KEY 2018  2   118.15
+KEY 2018  3   123.20
+KEY 2018  4   125.34
+KEY 2018  5   110.05
+KEY 2018  6    98.00
+KEY 2018  7   103.20
+KEY 2018  8    99.37
+KEY 2018  9    88.56
+KEY 2018 10    88.49
+KEY 2018 11    97.53
+KEY 2018 12   106.45
+KEY 2019  1   111.22
+KEY 2019  2   110.67
+KEY 2019  3   115.99
+KEY 2019  4   129.00
+KEY 2019  5   130.65
+KEY 2019  6   114.20
+KEY 2019  7    93.25
+KEY 2019  8    84.48
+KEY 2019  9    84.72
+KEY 2019 10    90.23
+KEY 2019 11    95.84
+KEY 2019 12   101.54
+KEY 2020  1   113.10
+KEY 2020  2   120.32
+KEY 2020  3   127.95
+KEY 2020  4   137.77
+KEY 2020  5   124.86
+KEY 2020  6    92.78
+KEY 2020  7    77.97
+KEY 2020  8    78.17
+KEY 2020  9    84.94
+KEY 2020 10    97.76
+KEY 2020 11   102.33
+KEY 2020 12   108.45
+KEY 2021  1   123.90
+KEY 2021  2   125.37
+KEY 2021  3   119.23
+KEY 2021  4   123.47
+KEY 2021  5   113.88
+KEY 2021  6    89.06
+KEY 2021  7    87.72
+KEY 2021  8    99.61
+KEY 2021  9   102.13
+KEY 2021 10   107.62
+KEY 2021 11   117.70
+KEY 2021 12   123.98

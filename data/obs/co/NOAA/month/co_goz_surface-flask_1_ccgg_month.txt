@@ -1,0 +1,110 @@
+# number_of_header_lines: 69
+# comment:  
+# comment:  ************ USE OF GML DATA ****************
+# comment:  
+# comment: These data are made freely available to the public and the
+# comment: scientific community in the belief that their wide dissemination
+# comment: will lead to greater understanding and new scientific insights.
+# comment: The availability of these data does not constitute publication
+# comment: of the data.  NOAA relies on the ethics and integrity of the user to
+# comment: ensure that GML receives fair credit for their work.  If the data 
+# comment: are obtained for potential use in a publication or presentation, 
+# comment: GML should be informed at the outset of the nature of this work.  
+# comment: If the GML data are essential to the work, or if an important 
+# comment: result or conclusion depends on the GML data, co-authorship
+# comment: may be appropriate.  This should be discussed at an early stage in
+# comment: the work.  Manuscripts using the GML data should be sent to GML
+# comment: for review before they are submitted for publication so we can
+# comment: ensure that the quality and limitations of the data are accurately
+# comment: represented.
+# comment: Please see accompanying README file, if available, for citation text.
+# comment:  
+# comment: Every effort is made to produce the most accurate and precise
+# comment: measurements possible.  However, we reserve the right to make
+# comment: corrections to the data based on recalibration of standard gases
+# comment: or for other reasons deemed scientifically justified.
+# comment: 
+# comment: We are not responsible for results and conclusions based on use
+# comment: of these data without regard to this warning.
+# comment: 
+# contact_parameter: CO CCGG (Individual Flasks)
+# contact_name: Gabrielle Petron
+# contact_telephone: (720) 295-0145
+# contact_email: Gabrielle.Petron@noaa.gov
+# comment: 
+# comment:  ************ COLLABORATORS ***************
+# comment: 
+# comment: NOAA thanks the following collaborators without
+# comment: whom these measurements would not be possible.
+# comment: 
+# collaborator_name: Ministry of Foreign Affairs and Environment
+# comment: 
+# comment:  ************ RECIPROCITY AGREEMENT ***************
+# comment: 
+# comment: Use of these data implies an agreement to reciprocate.
+# comment: Laboratories making similar measurements agree to make their
+# comment: own data available to the general public and to the scientific
+# comment: community in an equally complete and easily accessible form.
+# comment: Modelers are encouraged to make available to the community,
+# comment: upon request, their own tools used in the interpretation
+# comment: of the GML data, namely well documented model code, transport
+# comment: fields, modeled mole fractions, and additional information 
+# comment: necessary for other scientists to repeat the work and to run 
+# comment: modified versions. Model availability includes collaborative 
+# comment: support for new users of the models.
+# comment:
+# comment:  ************ DATA DESCRIPTION ***************
+# comment:
+# description_site-code: goz
+# description_project-abbr: ccg_surface
+# description_strategy-abbr: flask
+# description_analysis-constraints: flag:..%
+# description_creation-time: 2022-07-28 12:39:15
+# comment:
+# comment:  ************ DATA DOCUMENTATION ***************
+# comment:
+# comment: Please refer to the species-specific README file in the
+# comment: appropriate directory folder at https://gml.noaa.gov/aftp/data/trace_gases/.
+# comment:
+# data_fields: site year month value
+GOZ 1993 10   136.04
+GOZ 1993 11   140.91
+GOZ 1993 12   164.08
+GOZ 1994  1   178.12
+GOZ 1994  2   182.79
+GOZ 1994  3   195.37
+GOZ 1994  4   195.33
+GOZ 1994  5   176.92
+GOZ 1994  6   174.04
+GOZ 1994  7   174.64
+GOZ 1994  8   160.40
+GOZ 1994  9   152.56
+GOZ 1994 10   150.70
+GOZ 1994 11   157.12
+GOZ 1994 12   187.31
+GOZ 1995  1   215.61
+GOZ 1995  2   206.34
+GOZ 1995  3   192.17
+GOZ 1995  4   190.52
+GOZ 1995  5   182.97
+GOZ 1995  6   166.31
+GOZ 1995  7   142.86
+GOZ 1995  8   118.77
+GOZ 1995  9   124.58
+GOZ 1995 10   147.08
+GOZ 1995 11   141.66
+GOZ 1995 12   133.72
+GOZ 1996  1   157.03
+GOZ 1996  2   184.18
+GOZ 1996  3   189.74
+GOZ 1996  4   181.55
+GOZ 1996  5   171.40
+GOZ 1996  6   170.68
+GOZ 1996  7   168.67
+GOZ 1996  8   152.68
+GOZ 1996  9   142.61
+GOZ 1996 10   143.70
+GOZ 1996 11   134.32
+GOZ 1996 12   122.63
+GOZ 1997  1   136.32
+GOZ 1997  2   163.72

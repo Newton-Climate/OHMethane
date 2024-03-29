@@ -1,0 +1,139 @@
+# number_of_header_lines: 54
+# comment:  
+# comment:  ************ USE OF GML DATA ****************
+# comment:  
+# comment: These data are made freely available to the public and the scientific
+# comment: community in the belief that their wide dissemination will lead to
+# comment: greater understanding and new scientific insights. To ensure that GML
+# comment: receives fair credit for their work please include relevant citation
+# comment: text in publications. We encourage users to contact the data providers,
+# comment: who can provide detailed information about the measurements and
+# comment: scientific insight.  In cases where the data are central to a
+# comment: publication, coauthorship for data providers may be appropriate.
+# comment: 
+# comment: 
+# comment: Please see accompanying README file, if available, for citation text.
+# comment:  
+# comment: Every effort is made to produce the most accurate and precise
+# comment: measurements possible.  However, we reserve the right to make
+# comment: corrections to the data based on recalibration of standard gases
+# comment: or for other reasons deemed scientifically justified.
+# comment: 
+# comment: We are not responsible for results and conclusions based on use
+# comment: of these data without regard to this warning.
+# comment: 
+# contact_parameter: CH4C13 SIL (Individual Flasks)
+# contact_name: Sylvia Englund Michel
+# contact_telephone: (303) 492-5495
+# contact_email: Sylvia.Englund@colorado.edu
+# comment: 
+# comment:  ************ COLLABORATORS ***************
+# comment: 
+# comment: NOAA thanks the following collaborators without
+# comment: whom these measurements would not be possible.
+# comment: 
+# collaborator_name: U.S. Fish and Wildlife Service [USFWS]
+# collaborator_url: http://midway.fws.gov
+# comment: 
+# comment:  ************ RECIPROCITY AGREEMENT ***************
+# comment: 
+# comment:
+# comment:  ************ DATA DESCRIPTION ***************
+# comment:
+# description_site-code: mid
+# description_project-abbr: ccg_surface
+# description_strategy-abbr: flask
+# description_analysis-constraints: flag:..%
+# description_creation-time: 2023-09-21 15:03:46
+# comment:
+# comment:  ************ DATA DOCUMENTATION ***************
+# comment:
+# comment: Please refer to the species-specific README file in the
+# comment: appropriate directory folder at https://gml.noaa.gov/aftp/data/trace_gases/.
+# comment:
+# data_fields: site year month value
+MID 2015 12  -47.518
+MID 2016  1  -47.482
+MID 2016  2  -47.439
+MID 2016  3  -47.387
+MID 2016  4  -47.328
+MID 2016  5  -47.274
+MID 2016  6  -47.228
+MID 2016  7  -47.224
+MID 2016  8  -47.294
+MID 2016  9  -47.422
+MID 2016 10  -47.533
+MID 2016 11  -47.581
+MID 2016 12  -47.543
+MID 2017  1  -47.477
+MID 2017  2  -47.432
+MID 2017  3  -47.416
+MID 2017  4  -47.403
+MID 2017  5  -47.359
+MID 2017  6  -47.301
+MID 2017  7  -47.290
+MID 2017  8  -47.367
+MID 2017  9  -47.511
+MID 2017 10  -47.628
+MID 2017 11  -47.671
+MID 2017 12  -47.613
+MID 2018  1  -47.514
+MID 2018  2  -47.456
+MID 2018  3  -47.459
+MID 2018  4  -47.472
+MID 2018  5  -47.441
+MID 2018  6  -47.378
+MID 2018  7  -47.359
+MID 2018  8  -47.424
+MID 2018  9  -47.521
+MID 2018 10  -47.571
+MID 2018 11  -47.566
+MID 2018 12  -47.556
+MID 2019  1  -47.556
+MID 2019  2  -47.544
+MID 2019  3  -47.501
+MID 2019  4  -47.435
+MID 2019  5  -47.362
+MID 2019  6  -47.328
+MID 2019  7  -47.392
+MID 2019  8  -47.568
+MID 2019  9  -47.760
+MID 2019 10  -47.878
+MID 2019 11  -47.827
+MID 2019 12  -47.684
+MID 2020  1  -47.546
+MID 2020  2  -47.491
+MID 2020  3  -47.486
+MID 2020  4  -47.474
+MID 2020  5  -47.442
+MID 2020  6  -47.423
+MID 2020  7  -47.459
+MID 2020  8  -47.570
+MID 2020  9  -47.717
+MID 2020 10  -47.815
+MID 2020 11  -47.814
+MID 2020 12  -47.739
+MID 2021  1  -47.665
+MID 2021  2  -47.641
+MID 2021  3  -47.641
+MID 2021  4  -47.620
+MID 2021  5  -47.573
+MID 2021  6  -47.527
+MID 2021  7  -47.535
+MID 2021  8  -47.600
+MID 2021  9  -47.703
+MID 2021 10  -47.790
+MID 2021 11  -47.828
+MID 2021 12  -47.825
+MID 2022  1  -47.796
+MID 2022  2  -47.772
+MID 2022  3  -47.753
+MID 2022  4  -47.721
+MID 2022  5  -47.663
+MID 2022  6  -47.592
+MID 2022  7  -47.574
+MID 2022  8  -47.657
+MID 2022  9  -47.804
+MID 2022 10  -47.919
+MID 2022 11  -47.968
+MID 2022 12  -47.936

@@ -1,0 +1,201 @@
+# number_of_header_lines: 55
+# comment:  
+# comment:  ************ USE OF GML DATA ****************
+# comment:  
+# comment: These data are made freely available to the public and the scientific
+# comment: community in the belief that their wide dissemination will lead to
+# comment: greater understanding and new scientific insights. To ensure that GML
+# comment: receives fair credit for their work please include relevant citation
+# comment: text in publications. We encourage users to contact the data providers,
+# comment: who can provide detailed information about the measurements and
+# comment: scientific insight.  In cases where the data are central to a
+# comment: publication, coauthorship for data providers may be appropriate.
+# comment: 
+# comment: 
+# comment: Please see accompanying README file, if available, for citation text.
+# comment:  
+# comment: Every effort is made to produce the most accurate and precise
+# comment: measurements possible.  However, we reserve the right to make
+# comment: corrections to the data based on recalibration of standard gases
+# comment: or for other reasons deemed scientifically justified.
+# comment: 
+# comment: We are not responsible for results and conclusions based on use
+# comment: of these data without regard to this warning.
+# comment: 
+# contact_parameter: CH4C13 SIL (Individual Flasks)
+# contact_name: Sylvia Englund Michel
+# contact_telephone: (303) 492-5495
+# contact_email: Sylvia.Englund@colorado.edu
+# comment: 
+# comment:  ************ COLLABORATORS ***************
+# comment: 
+# comment: NOAA thanks the following collaborators without
+# comment: whom these measurements would not be possible.
+# comment: 
+# collaborator_name: National Science Foundation Office of Polar
+# collaborator_name: Programs [NSF]
+# collaborator_url: http://www.nsf.gov/dir/index.jsp?org=OPP
+# comment: 
+# comment:  ************ RECIPROCITY AGREEMENT ***************
+# comment: 
+# comment:
+# comment:  ************ DATA DESCRIPTION ***************
+# comment:
+# description_site-code: sum
+# description_project-abbr: ccg_surface
+# description_strategy-abbr: flask
+# description_analysis-constraints: flag:..%
+# description_creation-time: 2023-09-21 15:03:51
+# comment:
+# comment:  ************ DATA DOCUMENTATION ***************
+# comment:
+# comment: Please refer to the species-specific README file in the
+# comment: appropriate directory folder at https://gml.noaa.gov/aftp/data/trace_gases/.
+# comment:
+# data_fields: site year month value
+SUM 2010  4  -47.249
+SUM 2010  5  -47.233
+SUM 2010  6  -47.250
+SUM 2010  7  -47.327
+SUM 2010  8  -47.428
+SUM 2010  9  -47.501
+SUM 2010 10  -47.516
+SUM 2010 11  -47.484
+SUM 2010 12  -47.431
+SUM 2011  1  -47.395
+SUM 2011  2  -47.383
+SUM 2011  3  -47.390
+SUM 2011  4  -47.387
+SUM 2011  5  -47.359
+SUM 2011  6  -47.348
+SUM 2011  7  -47.409
+SUM 2011  8  -47.560
+SUM 2011  9  -47.704
+SUM 2011 10  -47.737
+SUM 2011 11  -47.657
+SUM 2011 12  -47.547
+SUM 2012  1  -47.486
+SUM 2012  2  -47.460
+SUM 2012  3  -47.420
+SUM 2012  4  -47.347
+SUM 2012  5  -47.267
+SUM 2012  6  -47.248
+SUM 2012  7  -47.331
+SUM 2012  8  -47.481
+SUM 2012  9  -47.611
+SUM 2012 10  -47.675
+SUM 2012 11  -47.639
+SUM 2012 12  -47.562
+SUM 2013  5  -47.377
+SUM 2013  6  -47.377
+SUM 2013  7  -47.433
+SUM 2013  8  -47.526
+SUM 2013  9  -47.593
+SUM 2013 10  -47.606
+SUM 2013 11  -47.562
+SUM 2013 12  -47.517
+SUM 2014  1  -47.514
+SUM 2014  2  -47.535
+SUM 2014  3  -47.527
+SUM 2014  4  -47.448
+SUM 2014  5  -47.336
+SUM 2014  6  -47.289
+SUM 2014  7  -47.350
+SUM 2014  8  -47.486
+SUM 2014  9  -47.593
+SUM 2014 10  -47.607
+SUM 2014 11  -47.549
+SUM 2014 12  -47.466
+SUM 2015  1  -47.413
+SUM 2015  2  -47.406
+SUM 2015  3  -47.417
+SUM 2015  4  -47.411
+SUM 2015  5  -47.391
+SUM 2015  6  -47.401
+SUM 2015  7  -47.483
+SUM 2015  8  -47.600
+SUM 2015  9  -47.701
+SUM 2015 10  -47.725
+SUM 2015 11  -47.694
+SUM 2015 12  -47.647
+SUM 2016  1  -47.610
+SUM 2016  2  -47.571
+SUM 2016  3  -47.508
+SUM 2016  4  -47.438
+SUM 2016  5  -47.405
+SUM 2016  6  -47.442
+SUM 2016  7  -47.539
+SUM 2016  8  -47.675
+SUM 2016  9  -47.772
+SUM 2016 10  -47.789
+SUM 2016 11  -47.741
+SUM 2016 12  -47.672
+SUM 2017  1  -47.623
+SUM 2017  2  -47.594
+SUM 2017  3  -47.559
+SUM 2017  4  -47.501
+SUM 2017  5  -47.442
+SUM 2017  6  -47.446
+SUM 2017  7  -47.534
+SUM 2017  8  -47.683
+SUM 2017  9  -47.798
+SUM 2017 10  -47.815
+SUM 2017 11  -47.762
+SUM 2017 12  -47.701
+SUM 2018  1  -47.656
+SUM 2018  2  -47.635
+SUM 2018  3  -47.612
+SUM 2018  4  -47.562
+SUM 2018  5  -47.475
+SUM 2018  6  -47.399
+SUM 2018  7  -47.401
+SUM 2018  8  -47.485
+SUM 2018  9  -47.577
+SUM 2018 10  -47.621
+SUM 2018 11  -47.597
+SUM 2018 12  -47.563
+SUM 2019  1  -47.545
+SUM 2019  5  -47.491
+SUM 2019  6  -47.559
+SUM 2019  7  -47.622
+SUM 2019  8  -47.641
+SUM 2019  9  -47.630
+SUM 2019 10  -47.601
+SUM 2019 11  -47.553
+SUM 2019 12  -47.496
+SUM 2020  1  -47.456
+SUM 2020  2  -47.447
+SUM 2020  3  -47.458
+SUM 2020  4  -47.487
+SUM 2020  5  -47.541
+SUM 2020  6  -47.645
+SUM 2020  7  -47.779
+SUM 2020  8  -47.899
+SUM 2020  9  -47.994
+SUM 2020 10  -48.021
+SUM 2020 11  -47.984
+SUM 2020 12  -47.903
+SUM 2021  1  -47.823
+SUM 2021  2  -47.768
+SUM 2021  3  -47.722
+SUM 2021  4  -47.684
+SUM 2021  5  -47.667
+SUM 2021  6  -47.693
+SUM 2021  7  -47.775
+SUM 2021  8  -47.887
+SUM 2021  9  -47.972
+SUM 2021 10  -47.990
+SUM 2021 11  -47.953
+SUM 2021 12  -47.900
+SUM 2022  1  -47.864
+SUM 2022  2  -47.836
+SUM 2022  3  -47.800
+SUM 2022  4  -47.760
+SUM 2022  5  -47.747
+SUM 2022  6  -47.785
+SUM 2022  7  -47.866
+SUM 2022  8  -47.975
+SUM 2022  9  -48.055
+SUM 2022 10  -48.070
+SUM 2022 11  -48.033
+SUM 2022 12  -47.984

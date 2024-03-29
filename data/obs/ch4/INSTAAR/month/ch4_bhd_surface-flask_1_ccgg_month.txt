@@ -1,0 +1,311 @@
+# number_of_header_lines: 54
+# comment:  
+# comment:  ************ USE OF GML DATA ****************
+# comment:  
+# comment: These data are made freely available to the public and the scientific
+# comment: community in the belief that their wide dissemination will lead to
+# comment: greater understanding and new scientific insights. To ensure that GML
+# comment: receives fair credit for their work please include relevant citation
+# comment: text in publications. We encourage users to contact the data providers,
+# comment: who can provide detailed information about the measurements and
+# comment: scientific insight.  In cases where the data are central to a
+# comment: publication, coauthorship for data providers may be appropriate.
+# comment: 
+# comment: 
+# comment: Please see accompanying README file, if available, for citation text.
+# comment:  
+# comment: Every effort is made to produce the most accurate and precise
+# comment: measurements possible.  However, we reserve the right to make
+# comment: corrections to the data based on recalibration of standard gases
+# comment: or for other reasons deemed scientifically justified.
+# comment: 
+# comment: We are not responsible for results and conclusions based on use
+# comment: of these data without regard to this warning.
+# comment: 
+# contact_parameter: CH4 CCGG (Individual Flasks)
+# contact_name: Xin Lan
+# contact_telephone: (999) 999-9999
+# contact_email: xin.lan@noaa.gov
+# comment: 
+# comment:  ************ COLLABORATORS ***************
+# comment: 
+# comment: NOAA thanks the following collaborators without
+# comment: whom these measurements would not be possible.
+# comment: 
+# collaborator_name: National Institute of Water and Atmospheric
+# collaborator_name: Research [NIWA]
+# comment: 
+# comment:  ************ RECIPROCITY AGREEMENT ***************
+# comment: 
+# comment:
+# comment:  ************ DATA DESCRIPTION ***************
+# comment:
+# description_site-code: bhd
+# description_project-abbr: ccg_surface
+# description_strategy-abbr: flask
+# description_analysis-constraints: flag:..%
+# description_creation-time: 2023-08-28 15:09:38
+# comment:
+# comment:  ************ DATA DOCUMENTATION ***************
+# comment:
+# comment: Please refer to the species-specific README file in the
+# comment: appropriate directory folder at https://gml.noaa.gov/aftp/data/trace_gases/.
+# comment:
+# data_fields: site year month value
+BHD 1999 10  1741.50
+BHD 1999 11  1736.50
+BHD 1999 12  1727.23
+BHD 2000  1  1717.55
+BHD 2000  2  1712.52
+BHD 2000  3  1712.56
+BHD 2000  4  1717.15
+BHD 2000  5  1723.15
+BHD 2000  6  1730.62
+BHD 2000  7  1739.07
+BHD 2000  8  1744.85
+BHD 2000  9  1745.27
+BHD 2000 10  1742.78
+BHD 2000 11  1737.06
+BHD 2000 12  1727.31
+BHD 2001  1  1717.32
+BHD 2001  2  1710.86
+BHD 2001  3  1711.64
+BHD 2001  4  1717.47
+BHD 2001  5  1723.47
+BHD 2001  6  1730.55
+BHD 2001  7  1737.46
+BHD 2001  8  1742.42
+BHD 2001  9  1743.56
+BHD 2001 10  1741.60
+BHD 2001 11  1736.46
+BHD 2001 12  1725.46
+BHD 2002  1  1713.49
+BHD 2002  2  1709.73
+BHD 2002  3  1714.77
+BHD 2002  4  1721.72
+BHD 2002  5  1728.07
+BHD 2002  6  1736.26
+BHD 2002  7  1741.36
+BHD 2002  8  1744.67
+BHD 2002  9  1745.96
+BHD 2002 10  1743.16
+BHD 2002 11  1737.19
+BHD 2002 12  1728.77
+BHD 2003  1  1718.97
+BHD 2003  2  1712.19
+BHD 2003  3  1711.01
+BHD 2003  4  1717.39
+BHD 2003  5  1725.95
+BHD 2003  6  1731.29
+BHD 2003  7  1741.05
+BHD 2003  8  1746.80
+BHD 2003  9  1746.78
+BHD 2003 10  1746.19
+BHD 2003 11  1741.84
+BHD 2003 12  1733.73
+BHD 2004  1  1722.25
+BHD 2004  2  1714.25
+BHD 2004  3  1712.60
+BHD 2004  4  1717.44
+BHD 2004  5  1726.18
+BHD 2004  6  1732.38
+BHD 2004  7  1737.93
+BHD 2004  8  1744.11
+BHD 2004  9  1748.62
+BHD 2004 10  1746.32
+BHD 2004 11  1738.28
+BHD 2004 12  1727.55
+BHD 2005  1  1715.03
+BHD 2005  2  1709.59
+BHD 2005  3  1712.66
+BHD 2005  4  1718.84
+BHD 2005  5  1724.74
+BHD 2005  6  1728.35
+BHD 2005  7  1737.39
+BHD 2005  8  1748.26
+BHD 2005  9  1746.68
+BHD 2005 10  1740.19
+BHD 2005 11  1736.95
+BHD 2005 12  1728.08
+BHD 2006  1  1719.51
+BHD 2006  2  1716.25
+BHD 2006  3  1715.45
+BHD 2006  4  1722.13
+BHD 2006  5  1727.00
+BHD 2006  6  1730.29
+BHD 2006  7  1739.95
+BHD 2006  8  1744.95
+BHD 2006  9  1743.84
+BHD 2006 10  1740.99
+BHD 2006 11  1735.78
+BHD 2006 12  1732.15
+BHD 2007  1  1725.18
+BHD 2007  2  1715.92
+BHD 2007  3  1715.00
+BHD 2007  4  1723.18
+BHD 2007  5  1735.14
+BHD 2007  6  1741.18
+BHD 2007  7  1743.50
+BHD 2007  8  1750.98
+BHD 2007  9  1753.05
+BHD 2007 10  1749.23
+BHD 2007 11  1745.99
+BHD 2007 12  1739.86
+BHD 2008  1  1728.88
+BHD 2008  2  1722.10
+BHD 2008  3  1725.47
+BHD 2008  4  1734.15
+BHD 2008  5  1742.51
+BHD 2008  6  1750.65
+BHD 2008  7  1758.32
+BHD 2008  8  1758.82
+BHD 2008  9  1759.45
+BHD 2008 10  1760.28
+BHD 2008 11  1753.44
+BHD 2008 12  1744.97
+BHD 2009  1  1734.41
+BHD 2009  2  1728.48
+BHD 2009  3  1728.52
+BHD 2009  4  1731.83
+BHD 2009  5  1743.44
+BHD 2009  6  1752.17
+BHD 2009  7  1756.31
+BHD 2009  8  1759.42
+BHD 2009  9  1760.52
+BHD 2009 10  1760.68
+BHD 2010  3  1731.20
+BHD 2010  4  1739.59
+BHD 2010  5  1750.85
+BHD 2010  6  1755.20
+BHD 2010  7  1765.85
+BHD 2010  8  1773.71
+BHD 2010  9  1768.57
+BHD 2010 10  1766.64
+BHD 2010 11  1765.27
+BHD 2010 12  1755.37
+BHD 2011  1  1743.75
+BHD 2011  2  1740.33
+BHD 2011  3  1745.43
+BHD 2011  4  1750.94
+BHD 2011  5  1756.18
+BHD 2011  6  1767.05
+BHD 2011  7  1771.72
+BHD 2011  8  1772.56
+BHD 2011  9  1773.83
+BHD 2011 10  1770.80
+BHD 2011 11  1766.20
+BHD 2011 12  1758.56
+BHD 2012  1  1750.21
+BHD 2012  2  1747.11
+BHD 2012  3  1746.82
+BHD 2012  4  1748.73
+BHD 2012  5  1757.15
+BHD 2012  6  1767.00
+BHD 2012  7  1771.93
+BHD 2012  8  1776.14
+BHD 2012  9  1781.17
+BHD 2012 10  1782.48
+BHD 2012 11  1775.95
+BHD 2012 12  1764.57
+BHD 2013  1  1754.09
+BHD 2013  2  1748.46
+BHD 2013  3  1752.07
+BHD 2013  4  1760.62
+BHD 2013  5  1766.60
+BHD 2013  6  1772.41
+BHD 2013  7  1781.87
+BHD 2013  8  1787.82
+BHD 2013  9  1785.44
+BHD 2013 10  1781.83
+BHD 2013 11  1776.74
+BHD 2013 12  1769.69
+BHD 2014  1  1760.42
+BHD 2014  2  1755.38
+BHD 2014  3  1759.79
+BHD 2014  4  1766.17
+BHD 2014  5  1772.16
+BHD 2014  6  1782.90
+BHD 2014  7  1791.74
+BHD 2014  8  1793.65
+BHD 2014  9  1793.99
+BHD 2014 10  1793.35
+BHD 2014 11  1789.02
+BHD 2014 12  1781.10
+BHD 2015  1  1770.90
+BHD 2015  2  1765.90
+BHD 2015  3  1769.57
+BHD 2015  4  1776.85
+BHD 2015  5  1781.97
+BHD 2015  6  1788.75
+BHD 2015  7  1800.17
+BHD 2015  8  1806.04
+BHD 2015  9  1805.22
+BHD 2015 10  1802.46
+BHD 2015 11  1797.96
+BHD 2015 12  1790.02
+BHD 2016  1  1780.86
+BHD 2016  2  1776.20
+BHD 2016  3  1777.13
+BHD 2016  4  1783.83
+BHD 2016  5  1792.04
+BHD 2016  6  1800.31
+BHD 2016  7  1805.15
+BHD 2016  8  1806.98
+BHD 2016  9  1808.89
+BHD 2017  2  1779.48
+BHD 2017  3  1782.36
+BHD 2017  4  1789.77
+BHD 2017  5  1794.06
+BHD 2017  6  1799.87
+BHD 2017  7  1809.03
+BHD 2017  8  1819.28
+BHD 2017  9  1822.43
+BHD 2017 10  1817.99
+BHD 2017 11  1811.41
+BHD 2017 12  1801.85
+BHD 2018  1  1794.17
+BHD 2018  2  1792.14
+BHD 2018  3  1793.79
+BHD 2018  4  1802.46
+BHD 2018  5  1810.20
+BHD 2018  6  1813.62
+BHD 2018  7  1825.09
+BHD 2018  8  1835.45
+BHD 2018  9  1833.91
+BHD 2018 10  1830.54
+BHD 2018 11  1822.64
+BHD 2018 12  1812.96
+BHD 2019  1  1804.23
+BHD 2019  2  1797.16
+BHD 2019  3  1799.31
+BHD 2019  4  1809.41
+BHD 2019  5  1818.59
+BHD 2019  6  1823.24
+BHD 2019  7  1828.26
+BHD 2019  8  1834.15
+BHD 2019  9  1835.93
+BHD 2019 10  1834.44
+BHD 2019 11  1830.66
+BHD 2019 12  1822.19
+BHD 2020  1  1811.81
+BHD 2020  2  1806.61
+BHD 2020  3  1808.29
+BHD 2020  4  1815.22
+BHD 2020  5  1822.10
+BHD 2020  6  1827.97
+BHD 2020  7  1836.24
+BHD 2020  8  1841.23
+BHD 2020  9  1842.24
+BHD 2020 10  1842.32
+BHD 2020 11  1838.83
+BHD 2020 12  1831.39
+BHD 2021  1  1822.01
+BHD 2021  2  1816.38
+BHD 2021  3  1818.28
+BHD 2022  3  1837.94
+BHD 2022  4  1848.22
+BHD 2022  8  1879.57
+BHD 2022  9  1880.17
+BHD 2022 10  1878.92
+BHD 2022 11  1875.09
+BHD 2022 12  1865.95

@@ -1,0 +1,160 @@
+# number_of_header_lines: 54
+# comment:  
+# comment:  ************ USE OF GML DATA ****************
+# comment:  
+# comment: These data are made freely available to the public and the scientific
+# comment: community in the belief that their wide dissemination will lead to
+# comment: greater understanding and new scientific insights. To ensure that GML
+# comment: receives fair credit for their work please include relevant citation
+# comment: text in publications. We encourage users to contact the data providers,
+# comment: who can provide detailed information about the measurements and
+# comment: scientific insight.  In cases where the data are central to a
+# comment: publication, coauthorship for data providers may be appropriate.
+# comment: 
+# comment: 
+# comment: Please see accompanying README file, if available, for citation text.
+# comment:  
+# comment: Every effort is made to produce the most accurate and precise
+# comment: measurements possible.  However, we reserve the right to make
+# comment: corrections to the data based on recalibration of standard gases
+# comment: or for other reasons deemed scientifically justified.
+# comment: 
+# comment: We are not responsible for results and conclusions based on use
+# comment: of these data without regard to this warning.
+# comment: 
+# contact_parameter: CH4 CCGG (Individual Flasks)
+# contact_name: Xin Lan
+# contact_telephone: (999) 999-9999
+# contact_email: xin.lan@noaa.gov
+# comment: 
+# comment:  ************ COLLABORATORS ***************
+# comment: 
+# comment: NOAA thanks the following collaborators without
+# comment: whom these measurements would not be possible.
+# comment: 
+# collaborator_name: Korea Global Atmosphere Watch Center, Korea
+# collaborator_name: Meteorological Administration [KMA]
+# comment: 
+# comment:  ************ RECIPROCITY AGREEMENT ***************
+# comment: 
+# comment:
+# comment:  ************ DATA DESCRIPTION ***************
+# comment:
+# description_site-code: amy
+# description_project-abbr: ccg_surface
+# description_strategy-abbr: flask
+# description_analysis-constraints: flag:..%
+# description_creation-time: 2023-08-28 15:09:33
+# comment:
+# comment:  ************ DATA DOCUMENTATION ***************
+# comment:
+# comment: Please refer to the species-specific README file in the
+# comment: appropriate directory folder at https://gml.noaa.gov/aftp/data/trace_gases/.
+# comment:
+# data_fields: site year month value
+AMY 2013 12  1939.49
+AMY 2014  1  1944.78
+AMY 2014  2  1938.94
+AMY 2014  3  1945.38
+AMY 2014  4  1937.44
+AMY 2014  5  1947.26
+AMY 2014  6  1973.39
+AMY 2014  7  1937.35
+AMY 2014  8  1944.33
+AMY 2014  9  1977.76
+AMY 2014 10  1960.35
+AMY 2014 11  1957.96
+AMY 2014 12  1976.41
+AMY 2015  1  1972.90
+AMY 2015  2  1972.07
+AMY 2015  3  1967.49
+AMY 2015  4  1935.10
+AMY 2015  5  1945.91
+AMY 2015  6  1959.77
+AMY 2015  7  1922.69
+AMY 2015  8  1960.42
+AMY 2015  9  1988.76
+AMY 2015 10  1925.14
+AMY 2015 11  1928.34
+AMY 2015 12  1977.92
+AMY 2016  1  1990.05
+AMY 2016  2  1984.26
+AMY 2016  3  1976.44
+AMY 2016  4  1972.88
+AMY 2016  5  1988.50
+AMY 2016  6  1948.17
+AMY 2016  7  1887.46
+AMY 2016  8  1933.06
+AMY 2016  9  1982.57
+AMY 2016 10  1968.47
+AMY 2016 11  1960.81
+AMY 2016 12  1969.83
+AMY 2017  1  1977.22
+AMY 2017  2  1980.04
+AMY 2017  3  1964.47
+AMY 2017  4  1955.33
+AMY 2017  5  1959.65
+AMY 2017  6  1928.90
+AMY 2017  7  1911.37
+AMY 2017  8  1932.25
+AMY 2017  9  1968.51
+AMY 2017 10  1968.06
+AMY 2017 11  1956.20
+AMY 2017 12  1962.67
+AMY 2018  1  1958.69
+AMY 2018  2  1966.13
+AMY 2018  3  1963.90
+AMY 2018  4  1935.41
+AMY 2018  5  1943.85
+AMY 2018  6  1951.89
+AMY 2018  7  1895.51
+AMY 2018  8  1915.87
+AMY 2018  9  1979.52
+AMY 2018 10  1979.99
+AMY 2018 11  1971.75
+AMY 2018 12  1988.05
+AMY 2019  1  1978.16
+AMY 2019  2  1971.96
+AMY 2019  3  1975.30
+AMY 2019  4  1957.70
+AMY 2019  5  1968.96
+AMY 2019  6  1991.21
+AMY 2019  7  1960.64
+AMY 2019  8  1974.64
+AMY 2019  9  2004.50
+AMY 2019 10  1989.15
+AMY 2019 11  1982.25
+AMY 2019 12  1982.36
+AMY 2020  1  1982.01
+AMY 2020  2  1988.97
+AMY 2020  3  1984.17
+AMY 2020  4  1961.37
+AMY 2020  5  1954.13
+AMY 2020  6  1993.32
+AMY 2020  7  1993.34
+AMY 2020  8  1926.41
+AMY 2020  9  1944.97
+AMY 2020 10  1999.88
+AMY 2020 11  2004.62
+AMY 2020 12  2009.42
+AMY 2021  1  2008.96
+AMY 2021  2  2008.48
+AMY 2021  3  2012.55
+AMY 2021  4  1998.68
+AMY 2021  5  2002.94
+AMY 2021  6  2021.74
+AMY 2021  7  2010.45
+AMY 2021  8  2042.19
+AMY 2021  9  2077.11
+AMY 2021 10  2049.80
+AMY 2021 11  2028.13
+AMY 2021 12  2036.17
+AMY 2022  1  2033.73
+AMY 2022  2  2035.31
+AMY 2022  3  2033.72
+AMY 2022  4  2016.48
+AMY 2022  5  2028.30
+AMY 2022  9  2063.30
+AMY 2022 10  2047.77
+AMY 2022 11  2023.63
+AMY 2022 12  2026.60

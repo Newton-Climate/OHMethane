@@ -1,0 +1,260 @@
+# number_of_header_lines: 70
+# comment:  
+# comment:  ************ USE OF GML DATA ****************
+# comment:  
+# comment: These data are made freely available to the public and the
+# comment: scientific community in the belief that their wide dissemination
+# comment: will lead to greater understanding and new scientific insights.
+# comment: The availability of these data does not constitute publication
+# comment: of the data.  NOAA relies on the ethics and integrity of the user to
+# comment: ensure that GML receives fair credit for their work.  If the data 
+# comment: are obtained for potential use in a publication or presentation, 
+# comment: GML should be informed at the outset of the nature of this work.  
+# comment: If the GML data are essential to the work, or if an important 
+# comment: result or conclusion depends on the GML data, co-authorship
+# comment: may be appropriate.  This should be discussed at an early stage in
+# comment: the work.  Manuscripts using the GML data should be sent to GML
+# comment: for review before they are submitted for publication so we can
+# comment: ensure that the quality and limitations of the data are accurately
+# comment: represented.
+# comment: Please see accompanying README file, if available, for citation text.
+# comment:  
+# comment: Every effort is made to produce the most accurate and precise
+# comment: measurements possible.  However, we reserve the right to make
+# comment: corrections to the data based on recalibration of standard gases
+# comment: or for other reasons deemed scientifically justified.
+# comment: 
+# comment: We are not responsible for results and conclusions based on use
+# comment: of these data without regard to this warning.
+# comment: 
+# contact_parameter: CO CCGG (Individual Flasks)
+# contact_name: Gabrielle Petron
+# contact_telephone: (720) 295-0145
+# contact_email: Gabrielle.Petron@noaa.gov
+# comment: 
+# comment:  ************ COLLABORATORS ***************
+# comment: 
+# comment: NOAA thanks the following collaborators without
+# comment: whom these measurements would not be possible.
+# comment: 
+# collaborator_name: Gobabeb Training and Research Center
+# collaborator_url: http://www.drfn.org/Gobabeb.html
+# comment: 
+# comment:  ************ RECIPROCITY AGREEMENT ***************
+# comment: 
+# comment: Use of these data implies an agreement to reciprocate.
+# comment: Laboratories making similar measurements agree to make their
+# comment: own data available to the general public and to the scientific
+# comment: community in an equally complete and easily accessible form.
+# comment: Modelers are encouraged to make available to the community,
+# comment: upon request, their own tools used in the interpretation
+# comment: of the GML data, namely well documented model code, transport
+# comment: fields, modeled mole fractions, and additional information 
+# comment: necessary for other scientists to repeat the work and to run 
+# comment: modified versions. Model availability includes collaborative 
+# comment: support for new users of the models.
+# comment:
+# comment:  ************ DATA DESCRIPTION ***************
+# comment:
+# description_site-code: nmb
+# description_project-abbr: ccg_surface
+# description_strategy-abbr: flask
+# description_analysis-constraints: flag:..%
+# description_creation-time: 2022-07-28 12:39:40
+# comment:
+# comment:  ************ DATA DOCUMENTATION ***************
+# comment:
+# comment: Please refer to the species-specific README file in the
+# comment: appropriate directory folder at https://gml.noaa.gov/aftp/data/trace_gases/.
+# comment:
+# data_fields: site year month value
+NMB 1998  7   103.95
+NMB 1998  8    90.75
+NMB 1998  9    78.23
+NMB 1998 10    78.80
+NMB 1998 11    73.06
+NMB 1998 12    60.73
+NMB 1999  1    54.49
+NMB 1999  2    54.82
+NMB 1999  3    62.42
+NMB 1999  4    66.99
+NMB 2000  1    56.43
+NMB 2000  2    49.79
+NMB 2000  3    55.08
+NMB 2000  4    66.10
+NMB 2000  5    77.46
+NMB 2000 12    59.76
+NMB 2001  1    53.23
+NMB 2001  2    50.40
+NMB 2007  3    62.24
+NMB 2007  4    69.38
+NMB 2007  5    71.96
+NMB 2007  6    83.60
+NMB 2007  7    95.64
+NMB 2007  8    83.05
+NMB 2007  9    69.81
+NMB 2007 10    71.74
+NMB 2007 11    70.65
+NMB 2007 12    62.03
+NMB 2008  1    57.51
+NMB 2008  2    57.09
+NMB 2008  3    56.26
+NMB 2008  4    51.36
+NMB 2008  5    55.36
+NMB 2008  6    82.95
+NMB 2008  7   102.65
+NMB 2008  8    90.63
+NMB 2008  9    73.93
+NMB 2008 10    74.90
+NMB 2008 11    76.49
+NMB 2008 12    66.27
+NMB 2009  1    54.42
+NMB 2009  2    53.88
+NMB 2009  3    60.77
+NMB 2009  4    61.32
+NMB 2009  5    57.24
+NMB 2009  6    62.93
+NMB 2009  7    74.21
+NMB 2009  8    76.31
+NMB 2009  9    74.85
+NMB 2009 10    71.11
+NMB 2009 11    60.46
+NMB 2009 12    56.41
+NMB 2010  1    60.98
+NMB 2010  2    61.14
+NMB 2010  3    57.66
+NMB 2010  4    59.06
+NMB 2010  5    63.23
+NMB 2010  6    73.72
+NMB 2010  7    85.98
+NMB 2010  8    86.73
+NMB 2010  9    81.45
+NMB 2010 10    81.46
+NMB 2010 11    76.24
+NMB 2010 12    64.99
+NMB 2011  1    59.13
+NMB 2011  8   104.64
+NMB 2011  9    85.05
+NMB 2011 10    74.86
+NMB 2011 11    65.83
+NMB 2011 12    59.14
+NMB 2012  1    54.63
+NMB 2012  2    52.62
+NMB 2012  3    55.29
+NMB 2012  4    59.18
+NMB 2012  5    62.47
+NMB 2012  6    69.28
+NMB 2012  7    74.90
+NMB 2012  8    71.96
+NMB 2012  9    70.91
+NMB 2012 10    74.97
+NMB 2012 11    71.74
+NMB 2012 12    62.52
+NMB 2013  1    58.98
+NMB 2013  2    59.41
+NMB 2013  3    60.32
+NMB 2013  4    62.66
+NMB 2013  5    66.48
+NMB 2013  6    71.93
+NMB 2013  7    74.21
+NMB 2013  8    70.11
+NMB 2013  9    71.89
+NMB 2013 10    75.10
+NMB 2013 11    67.20
+NMB 2013 12    56.30
+NMB 2014  1    52.98
+NMB 2014  2    52.08
+NMB 2014  3    53.98
+NMB 2014  4    60.73
+NMB 2014  5    67.72
+NMB 2014  6    78.46
+NMB 2014  7    88.21
+NMB 2014  8    84.70
+NMB 2014  9    72.46
+NMB 2014 10    66.20
+NMB 2014 11    63.55
+NMB 2014 12    57.58
+NMB 2015  1    53.12
+NMB 2015  2    55.63
+NMB 2015  3    63.70
+NMB 2015  4    68.76
+NMB 2015  5    70.35
+NMB 2015  6    73.59
+NMB 2015  7    73.27
+NMB 2015  8    70.75
+NMB 2015  9    75.53
+NMB 2015 10    78.57
+NMB 2015 11    70.02
+NMB 2015 12    62.12
+NMB 2016  1    63.62
+NMB 2016  2    63.58
+NMB 2016  3    60.17
+NMB 2016  4    64.78
+NMB 2016  5    75.68
+NMB 2016  6    82.89
+NMB 2016  7    90.55
+NMB 2016  8    97.45
+NMB 2016  9    89.53
+NMB 2016 10    73.70
+NMB 2016 11    64.87
+NMB 2016 12    63.85
+NMB 2017  1    66.19
+NMB 2017  2    68.65
+NMB 2017  3    70.30
+NMB 2017  4    70.93
+NMB 2017  5    72.72
+NMB 2017  6    82.34
+NMB 2017  7    90.84
+NMB 2017  8    85.74
+NMB 2017  9    79.24
+NMB 2017 10    76.71
+NMB 2017 11    69.79
+NMB 2017 12    62.13
+NMB 2018  1    57.46
+NMB 2018  2    54.83
+NMB 2018  3    58.02
+NMB 2018  4    65.79
+NMB 2018  5    72.36
+NMB 2018  6    80.55
+NMB 2018  7    81.96
+NMB 2018  8    70.46
+NMB 2018  9    68.28
+NMB 2018 10    74.65
+NMB 2018 11    68.15
+NMB 2018 12    57.63
+NMB 2019  1    58.08
+NMB 2019  2    60.21
+NMB 2019  3    59.44
+NMB 2019  4    60.70
+NMB 2019  5    66.39
+NMB 2019  6    73.42
+NMB 2019  7    79.62
+NMB 2019  8    83.28
+NMB 2019  9    83.86
+NMB 2019 10    78.46
+NMB 2019 11    70.01
+NMB 2019 12    64.23
+NMB 2020  1    65.12
+NMB 2020  2    67.76
+NMB 2020  3    69.79
+NMB 2020  4    74.83
+NMB 2020  5    83.09
+NMB 2020  6    90.00
+NMB 2020  7    87.67
+NMB 2020  8    80.69
+NMB 2020  9    81.37
+NMB 2020 10    83.06
+NMB 2020 11    74.11
+NMB 2020 12    63.98
+NMB 2021  1    60.93
+NMB 2021  2    61.26
+NMB 2021  3    67.64
+NMB 2021  4    74.42
+NMB 2021  5    76.73
+NMB 2021  6    83.25
+NMB 2021  7    86.04
+NMB 2021  8    79.29
+NMB 2021  9    78.74
+NMB 2021 10    80.95
+NMB 2021 11    70.05
+NMB 2021 12    58.51

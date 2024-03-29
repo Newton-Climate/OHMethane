@@ -1,0 +1,325 @@
+# number_of_header_lines: 62
+# comment:  
+# comment:  ************ USE OF GML DATA ****************
+# comment:  
+# comment: These data are made freely available to the public and the
+# comment: scientific community in the belief that their wide dissemination
+# comment: will lead to greater understanding and new scientific insights.
+# comment: The availability of these data does not constitute publication
+# comment: of the data.  NOAA relies on the ethics and integrity of the user to
+# comment: ensure that GML receives fair credit for their work.  If the data 
+# comment: are obtained for potential use in a publication or presentation, 
+# comment: GML should be informed at the outset of the nature of this work.  
+# comment: If the GML data are essential to the work, or if an important 
+# comment: result or conclusion depends on the GML data, co-authorship
+# comment: may be appropriate.  This should be discussed at an early stage in
+# comment: the work.  Manuscripts using the GML data should be sent to GML
+# comment: for review before they are submitted for publication so we can
+# comment: ensure that the quality and limitations of the data are accurately
+# comment: represented.
+# comment: Please see accompanying README file, if available, for citation text.
+# comment:  
+# comment: Every effort is made to produce the most accurate and precise
+# comment: measurements possible.  However, we reserve the right to make
+# comment: corrections to the data based on recalibration of standard gases
+# comment: or for other reasons deemed scientifically justified.
+# comment: 
+# comment: We are not responsible for results and conclusions based on use
+# comment: of these data without regard to this warning.
+# comment: 
+# contact_parameter: CO CCGG (Individual Flasks)
+# contact_name: Gabrielle Petron
+# contact_telephone: (720) 295-0145
+# contact_email: Gabrielle.Petron@noaa.gov
+# comment: 
+# comment:  ************ RECIPROCITY AGREEMENT ***************
+# comment: 
+# comment: Use of these data implies an agreement to reciprocate.
+# comment: Laboratories making similar measurements agree to make their
+# comment: own data available to the general public and to the scientific
+# comment: community in an equally complete and easily accessible form.
+# comment: Modelers are encouraged to make available to the community,
+# comment: upon request, their own tools used in the interpretation
+# comment: of the GML data, namely well documented model code, transport
+# comment: fields, modeled mole fractions, and additional information 
+# comment: necessary for other scientists to repeat the work and to run 
+# comment: modified versions. Model availability includes collaborative 
+# comment: support for new users of the models.
+# comment:
+# comment:  ************ DATA DESCRIPTION ***************
+# comment:
+# description_site-code: pocn25
+# description_project-abbr: ccg_surface
+# description_strategy-abbr: flask
+# description_analysis-constraints: flag:..%
+# description_creation-time: 2022-07-28 12:39:54
+# comment:
+# comment:  ************ DATA DOCUMENTATION ***************
+# comment:
+# comment: Please refer to the species-specific README file in the
+# comment: appropriate directory folder at https://gml.noaa.gov/aftp/data/trace_gases/.
+# comment:
+# data_fields: site year month value
+N25 1990  5   123.60
+N25 1990  6   103.66
+N25 1990  7    84.48
+N25 1990  8    91.91
+N25 1990  9   124.49
+N25 1990 10   143.71
+N25 1990 11   137.95
+N25 1990 12   135.48
+N25 1991  1   142.39
+N25 1991  2   140.98
+N25 1991  3   138.57
+N25 1991  4   146.08
+N25 1991  5   143.81
+N25 1991  6   112.68
+N25 1991  7    84.19
+N25 1991  8    89.62
+N25 1991  9   108.22
+N25 1991 10   115.56
+N25 1991 11   117.11
+N25 1991 12   129.33
+N25 1992  1   148.15
+N25 1992  2   158.63
+N25 1992  3   164.02
+N25 1992  4   165.10
+N25 1992  5   147.11
+N25 1992  6   118.50
+N25 1992  7    96.10
+N25 1992  8    86.83
+N25 1992  9    83.19
+N25 1992 10    94.91
+N25 1992 11   117.17
+N25 1992 12   126.00
+N25 1993  1   124.45
+N25 1993  2   138.09
+N25 1993  3   148.88
+N25 1993  4   132.18
+N25 1993  5   112.75
+N25 1993  6   100.34
+N25 1993 10   105.59
+N25 1993 11   125.33
+N25 1993 12   140.53
+N25 1994  1   148.96
+N25 1994  2   151.47
+N25 1994  3   145.15
+N25 1994  4   140.52
+N25 1994  5   139.84
+N25 1994  6   121.61
+N25 1994  7    91.00
+N25 1994  8    77.47
+N25 1994  9    84.13
+N25 1994 10   100.46
+N25 1994 11   119.99
+N25 1994 12   127.00
+N25 1995  1   126.68
+N25 1995  2   135.19
+N25 1995  3   151.59
+N25 1995  4   154.20
+N25 1995  5   131.84
+N25 1995  6    98.71
+N25 1995  7    78.14
+N25 1995  8    75.58
+N25 1995  9    86.83
+N25 1995 10    98.30
+N25 1995 11   106.94
+N25 1995 12   115.94
+N25 1996  1   129.14
+N25 1996  2   140.33
+N25 1996  3   145.37
+N25 1996  4   144.83
+N25 1996  5   131.11
+N25 1996  6   108.18
+N25 1996  7    94.64
+N25 1996  8    94.80
+N25 1996  9   100.68
+N25 1996 10   113.20
+N25 1996 11   127.05
+N25 1996 12   132.83
+N25 1997  1   137.42
+N25 1997  2   141.42
+N25 1997  3   137.17
+N25 1997  4   131.25
+N25 1997  5   127.81
+N25 1997  6   113.85
+N25 1997  7    89.05
+N25 1997  8    76.01
+N25 1997  9    80.96
+N25 1997 10    98.80
+N25 1997 11   118.07
+N25 1998  4   168.04
+N25 1998  5   155.03
+N25 1998  6   129.70
+N25 1998  7   108.04
+N25 1998  8   118.15
+N25 1998  9   143.45
+N25 1998 10   158.14
+N25 1998 11   156.69
+N25 1998 12   142.79
+N25 1999  1   143.03
+N25 1999  2   164.12
+N25 1999  3   174.68
+N25 1999  4   155.10
+N25 1999  5   126.65
+N25 1999  6    98.29
+N25 1999  7    80.84
+N25 1999  8    78.01
+N25 1999  9    82.03
+N25 1999 10    87.44
+N25 1999 11    97.86
+N25 1999 12   117.01
+N25 2000  5   134.76
+N25 2000  6   111.87
+N25 2000  7    94.72
+N25 2002  4   131.96
+N25 2002  5   119.55
+N25 2002  6    98.60
+N25 2002  7    85.59
+N25 2002  8    94.64
+N25 2002  9   111.32
+N25 2002 10   122.23
+N25 2002 11   129.58
+N25 2002 12   134.85
+N25 2003  1   133.03
+N25 2003  2   133.88
+N25 2003  3   146.80
+N25 2003  4   160.29
+N25 2003  5   150.69
+N25 2003  6   121.50
+N25 2003  7    92.97
+N25 2003  8    85.32
+N25 2003  9    91.64
+N25 2003 10   107.33
+N25 2003 11   121.80
+N25 2003 12   124.43
+N25 2004  1   130.70
+N25 2004  2   146.58
+N25 2004  3   157.46
+N25 2004  4   149.32
+N25 2004  5   130.21
+N25 2004  6   105.61
+N25 2004  7    84.45
+N25 2004  8    79.78
+N25 2004  9    99.41
+N25 2004 10   120.01
+N25 2004 11   117.08
+N25 2004 12   112.26
+N25 2005  1   125.92
+N25 2005  2   137.54
+N25 2005  3   141.69
+N25 2005  4   146.59
+N25 2005  5   140.22
+N25 2005  6   111.29
+N25 2005  7    81.55
+N25 2005  8    72.86
+N25 2005  9    84.16
+N25 2005 10   103.37
+N25 2005 11   118.73
+N25 2005 12   124.41
+N25 2006  1   132.82
+N25 2006  2   142.24
+N25 2006  3   142.50
+N25 2006  4   141.45
+N25 2006  5   135.97
+N25 2006  6   109.81
+N25 2006  7    83.90
+N25 2006  8    79.67
+N25 2006  9    92.35
+N25 2006 10   103.37
+N25 2006 11   114.81
+N25 2006 12   126.09
+N25 2007  1   132.46
+N25 2007  2   137.59
+N25 2007  3   144.59
+N25 2007  4   143.05
+N25 2007  5   118.06
+N25 2007  6    87.62
+N25 2007  7    77.50
+N25 2007  8    81.10
+N25 2007  9    89.25
+N25 2007 10   100.97
+N25 2007 11   110.65
+N25 2007 12   113.93
+N25 2008  1   117.93
+N25 2008  2   126.75
+N25 2008  3   132.99
+N25 2008  4   129.91
+N25 2008  5   117.43
+N25 2008  6   101.61
+N25 2008  7    84.32
+N25 2008  8    76.63
+N25 2008  9    83.65
+N25 2008 10    95.97
+N25 2008 11    99.34
+N25 2008 12   104.57
+N25 2009  1   122.33
+N25 2009  2   137.63
+N25 2009  3   141.00
+N25 2009  4   128.47
+N25 2009  5   105.98
+N25 2009  6    88.49
+N25 2009  7    81.11
+N25 2009  8    84.23
+N25 2009  9    95.31
+N25 2009 10   110.95
+N25 2009 11   118.36
+N25 2009 12   116.65
+N25 2010  1   121.29
+N25 2010  2   133.37
+N25 2010  3   141.84
+N25 2010  4   140.95
+N25 2010  5   126.84
+N25 2010  6    95.86
+N25 2010  7    77.74
+N25 2010  8    88.09
+N25 2010  9   102.78
+N25 2010 10    99.26
+N25 2010 11    88.53
+N25 2010 12    86.58
+N25 2011  1    99.70
+N25 2011  2   113.86
+N25 2011  3   116.59
+N25 2011  4   108.67
+N25 2011  5   102.45
+N25 2011  6    98.18
+N25 2011  7    92.89
+N25 2011  8    88.48
+N25 2011  9    89.52
+N25 2011 10    97.00
+N25 2011 11   106.47
+N25 2011 12   109.92
+N25 2012  1   112.63
+N25 2014 11   101.43
+N25 2014 12   105.89
+N25 2015  1   113.02
+N25 2015  2   123.55
+N25 2015  3   128.49
+N25 2015  4   125.07
+N25 2015  5   113.99
+N25 2015  6    95.59
+N25 2015  7    79.69
+N25 2015  8    78.57
+N25 2015  9    83.59
+N25 2015 10    94.06
+N25 2015 11   110.59
+N25 2015 12   120.91
+N25 2016  1   113.69
+N25 2016  2   110.83
+N25 2016  3   128.57
+N25 2016  4   140.79
+N25 2016  5   125.14
+N25 2016  6    96.43
+N25 2016  7    80.24
+N25 2016  8    77.64
+N25 2016  9    81.69
+N25 2016 10    89.25
+N25 2016 11    96.97
+N25 2016 12   103.59
+N25 2017  1   112.19
+N25 2017  2   119.45
+N25 2017  3   118.39
+N25 2017  4   111.30
+N25 2017  5   100.76
+N25 2017  6    82.39
+N25 2017  7    70.21

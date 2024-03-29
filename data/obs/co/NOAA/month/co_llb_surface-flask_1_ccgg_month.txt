@@ -1,0 +1,117 @@
+# number_of_header_lines: 70
+# comment:  
+# comment:  ************ USE OF GML DATA ****************
+# comment:  
+# comment: These data are made freely available to the public and the
+# comment: scientific community in the belief that their wide dissemination
+# comment: will lead to greater understanding and new scientific insights.
+# comment: The availability of these data does not constitute publication
+# comment: of the data.  NOAA relies on the ethics and integrity of the user to
+# comment: ensure that GML receives fair credit for their work.  If the data 
+# comment: are obtained for potential use in a publication or presentation, 
+# comment: GML should be informed at the outset of the nature of this work.  
+# comment: If the GML data are essential to the work, or if an important 
+# comment: result or conclusion depends on the GML data, co-authorship
+# comment: may be appropriate.  This should be discussed at an early stage in
+# comment: the work.  Manuscripts using the GML data should be sent to GML
+# comment: for review before they are submitted for publication so we can
+# comment: ensure that the quality and limitations of the data are accurately
+# comment: represented.
+# comment: Please see accompanying README file, if available, for citation text.
+# comment:  
+# comment: Every effort is made to produce the most accurate and precise
+# comment: measurements possible.  However, we reserve the right to make
+# comment: corrections to the data based on recalibration of standard gases
+# comment: or for other reasons deemed scientifically justified.
+# comment: 
+# comment: We are not responsible for results and conclusions based on use
+# comment: of these data without regard to this warning.
+# comment: 
+# contact_parameter: CO CCGG (Individual Flasks)
+# contact_name: Gabrielle Petron
+# contact_telephone: (720) 295-0145
+# contact_email: Gabrielle.Petron@noaa.gov
+# comment: 
+# comment:  ************ COLLABORATORS ***************
+# comment: 
+# comment: NOAA thanks the following collaborators without
+# comment: whom these measurements would not be possible.
+# comment: 
+# collaborator_name: Environment Canada [EC]
+# collaborator_url: http://www.msc-smc.ec.gc.ca/aqrb/index_e.cfm
+# comment: 
+# comment:  ************ RECIPROCITY AGREEMENT ***************
+# comment: 
+# comment: Use of these data implies an agreement to reciprocate.
+# comment: Laboratories making similar measurements agree to make their
+# comment: own data available to the general public and to the scientific
+# comment: community in an equally complete and easily accessible form.
+# comment: Modelers are encouraged to make available to the community,
+# comment: upon request, their own tools used in the interpretation
+# comment: of the GML data, namely well documented model code, transport
+# comment: fields, modeled mole fractions, and additional information 
+# comment: necessary for other scientists to repeat the work and to run 
+# comment: modified versions. Model availability includes collaborative 
+# comment: support for new users of the models.
+# comment:
+# comment:  ************ DATA DESCRIPTION ***************
+# comment:
+# description_site-code: llb
+# description_project-abbr: ccg_surface
+# description_strategy-abbr: flask
+# description_analysis-constraints: flag:..%
+# description_creation-time: 2022-07-28 12:39:29
+# comment:
+# comment:  ************ DATA DOCUMENTATION ***************
+# comment:
+# comment: Please refer to the species-specific README file in the
+# comment: appropriate directory folder at https://gml.noaa.gov/aftp/data/trace_gases/.
+# comment:
+# data_fields: site year month value
+LLB 2008  1   185.82
+LLB 2008  2   191.67
+LLB 2008  3   183.39
+LLB 2008  4   166.05
+LLB 2008  5   146.51
+LLB 2008  6   124.33
+LLB 2008  7   115.98
+LLB 2008  8   113.87
+LLB 2008  9   105.68
+LLB 2008 10   116.70
+LLB 2008 11   137.86
+LLB 2008 12   142.10
+LLB 2009  1   151.13
+LLB 2009  2   165.81
+LLB 2009  3   169.36
+LLB 2009  4   160.96
+LLB 2009  5   138.90
+LLB 2009  6   111.43
+LLB 2009  7   102.76
+LLB 2009  8   110.18
+LLB 2010  5   135.38
+LLB 2010  6   118.53
+LLB 2010  7   124.42
+LLB 2010  8   134.75
+LLB 2010  9   124.75
+LLB 2010 10   120.82
+LLB 2010 11   127.82
+LLB 2011  2   151.75
+LLB 2011  3   160.81
+LLB 2011  4   155.84
+LLB 2011  5   144.47
+LLB 2011  6   123.39
+LLB 2011  7   111.74
+LLB 2011  8   105.87
+LLB 2011  9    97.55
+LLB 2011 10   113.12
+LLB 2011 11   142.18
+LLB 2011 12   148.95
+LLB 2012  1   152.65
+LLB 2012  2   160.85
+LLB 2012  3   156.43
+LLB 2012  4   150.09
+LLB 2012  5   138.98
+LLB 2012  6   124.20
+LLB 2012  7   128.91
+LLB 2012  8   146.66
+LLB 2012  9   151.36

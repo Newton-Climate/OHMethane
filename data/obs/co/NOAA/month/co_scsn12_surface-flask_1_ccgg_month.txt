@@ -1,0 +1,136 @@
+# number_of_header_lines: 62
+# comment:  
+# comment:  ************ USE OF GML DATA ****************
+# comment:  
+# comment: These data are made freely available to the public and the
+# comment: scientific community in the belief that their wide dissemination
+# comment: will lead to greater understanding and new scientific insights.
+# comment: The availability of these data does not constitute publication
+# comment: of the data.  NOAA relies on the ethics and integrity of the user to
+# comment: ensure that GML receives fair credit for their work.  If the data 
+# comment: are obtained for potential use in a publication or presentation, 
+# comment: GML should be informed at the outset of the nature of this work.  
+# comment: If the GML data are essential to the work, or if an important 
+# comment: result or conclusion depends on the GML data, co-authorship
+# comment: may be appropriate.  This should be discussed at an early stage in
+# comment: the work.  Manuscripts using the GML data should be sent to GML
+# comment: for review before they are submitted for publication so we can
+# comment: ensure that the quality and limitations of the data are accurately
+# comment: represented.
+# comment: Please see accompanying README file, if available, for citation text.
+# comment:  
+# comment: Every effort is made to produce the most accurate and precise
+# comment: measurements possible.  However, we reserve the right to make
+# comment: corrections to the data based on recalibration of standard gases
+# comment: or for other reasons deemed scientifically justified.
+# comment: 
+# comment: We are not responsible for results and conclusions based on use
+# comment: of these data without regard to this warning.
+# comment: 
+# contact_parameter: CO CCGG (Individual Flasks)
+# contact_name: Gabrielle Petron
+# contact_telephone: (720) 295-0145
+# contact_email: Gabrielle.Petron@noaa.gov
+# comment: 
+# comment:  ************ RECIPROCITY AGREEMENT ***************
+# comment: 
+# comment: Use of these data implies an agreement to reciprocate.
+# comment: Laboratories making similar measurements agree to make their
+# comment: own data available to the general public and to the scientific
+# comment: community in an equally complete and easily accessible form.
+# comment: Modelers are encouraged to make available to the community,
+# comment: upon request, their own tools used in the interpretation
+# comment: of the GML data, namely well documented model code, transport
+# comment: fields, modeled mole fractions, and additional information 
+# comment: necessary for other scientists to repeat the work and to run 
+# comment: modified versions. Model availability includes collaborative 
+# comment: support for new users of the models.
+# comment:
+# comment:  ************ DATA DESCRIPTION ***************
+# comment:
+# description_site-code: scsn12
+# description_project-abbr: ccg_surface
+# description_strategy-abbr: flask
+# description_analysis-constraints: flag:..%
+# description_creation-time: 2022-07-28 12:40:01
+# comment:
+# comment:  ************ DATA DOCUMENTATION ***************
+# comment:
+# comment: Please refer to the species-specific README file in the
+# comment: appropriate directory folder at https://gml.noaa.gov/aftp/data/trace_gases/.
+# comment:
+# data_fields: site year month value
+N12 1991  7   120.39
+N12 1991  8   120.31
+N12 1991  9   129.95
+N12 1991 10   151.61
+N12 1991 11   157.60
+N12 1991 12   158.52
+N12 1992  1   175.46
+N12 1992  2   175.15
+N12 1992  3   152.88
+N12 1992  4   137.50
+N12 1992  5   116.70
+N12 1992  6    95.17
+N12 1992  7    91.00
+N12 1992  8    94.86
+N12 1992  9    94.90
+N12 1992 10   102.11
+N12 1992 11   130.04
+N12 1992 12   159.37
+N12 1993  1   169.11
+N12 1993  2   157.88
+N12 1993 11   108.52
+N12 1993 12   139.18
+N12 1994  1   165.73
+N12 1994  2   182.22
+N12 1994  3   174.20
+N12 1994  4   134.17
+N12 1994  5    97.22
+N12 1994  6    98.82
+N12 1994  7   123.40
+N12 1994  8   129.69
+N12 1994  9   128.65
+N12 1994 10   152.02
+N12 1994 11   172.50
+N12 1994 12   171.37
+N12 1995  1   171.06
+N12 1995  2   170.12
+N12 1995  3   165.68
+N12 1995  4   152.47
+N12 1995  5   118.19
+N12 1995 10   128.50
+N12 1995 11   165.44
+N12 1995 12   177.72
+N12 1996  1   187.55
+N12 1996  2   218.67
+N12 1996  3   241.73
+N12 1996  4   205.94
+N12 1996  5   140.21
+N12 1996  6    87.60
+N12 1996  7    66.74
+N12 1996  8    76.52
+N12 1996  9   113.42
+N12 1996 10   131.61
+N12 1996 11   132.17
+N12 1996 12   176.45
+N12 1997  1   233.43
+N12 1997  2   227.60
+N12 1997  3   158.55
+N12 1997  4   110.35
+N12 1997  5   108.01
+N12 1997  6   119.06
+N12 1997  7   117.12
+N12 1997  8   104.42
+N12 1997 11   140.58
+N12 1997 12   169.61
+N12 1998  1   180.07
+N12 1998  2   155.43
+N12 1998  3   157.74
+N12 1998  4   189.40
+N12 1998  5   169.60
+N12 1998  6   104.26
+N12 1998  7    81.91
+N12 1998  8    87.89
+N12 1998  9    92.96
+N12 1998 10   103.32

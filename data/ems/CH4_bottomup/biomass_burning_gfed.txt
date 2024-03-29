@@ -1,0 +1,27 @@
+# Global Fire Emissions Database version 4.1 including small fire burned area (GFED4s)  
+# Estimates for 2017 onwards based on relations between active fires and emissions  
+# These estimates carry a larger uncertainty, especially due to extrapolation in areas  
+# that saw few fires in the 1997-2016 era.   
+
+# NOTE THAT AQUA HAD ISSUES IN THE SECOND HALF OF AUGUST 2020; FOR THAT PERIOD THESE ESTIMATES ARE CONSERVATIVE  
+
+# CH4 emissions estimates in 1E10 g CH4 for the globe, different regions, and different fire types 
+
+All fire types combined: 
+
+#                                                                               Year                                                                 (Beta) (Beta) (Beta) (Beta) (Beta) (Beta)  '97-'21  
+ Region   1997   1998   1999   2000   2001   2002   2003   2004   2005   2006   2007   2008   2009   2010   2011   2012   2013   2014   2015   2016   2017   2018   2019   2020   2021   2022 |    Mean 
+BONA       33    122     51     28     15    120     78    135     96     68     53     42     54     98     67     73    143    166    186     54    210    104    113     14    349    142 |      99 
+TENA        7      9     13     13      8     11     11      9     10     13     19     14     10     13     13     16     11     12     21     13     26     27      8     58     50     23 |      17 
+CEAM       15    143     17     41     11     15     51     12     39     21     24     20     24     14     33     11     30     10     17     20     24     16     28     25     18     14 |      28 
+NHSA       21     30     15     19     23     11     40     17     13     10     25     13     14     19      6      9     11     18     17     35     10     21     34     25      8     14 |      19 
+SHSA      217    314    280    130    103    206    173    273    351    156    415    130     67    432    103    201     93    142    199    185    191     98    206    265    211    220 |     206 
+EURO        6      7      5     17     11      4      7      6      6      6      7      8      4      4      6     10      4      4      3      4      9      4      6      4      6     20 |       7 
+MIDE        0      2      1      1      1      1      1      1      1      1      1      1      2      2      2      1      1      1      2      1      2      1      1      1      2      1 |       2 
+NHAF      235    324    252    278    226    239    208    198    251    200    218    213    186    173    198    177    184    174    187    226    183    186    149    183    164    149 |     209 
+SHAF      266    312    265    253    357    300    306    312    328    308    279    308    305    331    313    285    315    286    291    292    287    283    293    262    290    264 |     298 
+BOAS      116    358    125    141    130    204    360     53     84    161     73    226     84    111    128    277    108    162    131    194    141    232    300    261    503     98 |     187 
+TEAS       76     69     45     43     54     64     49     56     55     61     65     78     66     45     37     42     33     58     67     32     52     32     37     35     26     36 |      52 
+SEAS       52    119     95     66     38     47     53    115     84     63    116     45     82    106     57     80     85    100     84     82     53     57     78     80     74     39 |      77 
+EQAS     2478    126    124     37     70    509    125    308    180    825     33     26    463     16    171    170    120    476    921     36     22    124    536     17     15     10 |     318 
+AUST       48     44     83     54     79     74     64     54     31     63     46     29     51     18     69     71     37     50     43     29     46     56    142     49     28     25 |      55 

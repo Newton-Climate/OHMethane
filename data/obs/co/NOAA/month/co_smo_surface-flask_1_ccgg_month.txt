@@ -1,0 +1,465 @@
+# number_of_header_lines: 71
+# comment:  
+# comment:  ************ USE OF GML DATA ****************
+# comment:  
+# comment: These data are made freely available to the public and the
+# comment: scientific community in the belief that their wide dissemination
+# comment: will lead to greater understanding and new scientific insights.
+# comment: The availability of these data does not constitute publication
+# comment: of the data.  NOAA relies on the ethics and integrity of the user to
+# comment: ensure that GML receives fair credit for their work.  If the data 
+# comment: are obtained for potential use in a publication or presentation, 
+# comment: GML should be informed at the outset of the nature of this work.  
+# comment: If the GML data are essential to the work, or if an important 
+# comment: result or conclusion depends on the GML data, co-authorship
+# comment: may be appropriate.  This should be discussed at an early stage in
+# comment: the work.  Manuscripts using the GML data should be sent to GML
+# comment: for review before they are submitted for publication so we can
+# comment: ensure that the quality and limitations of the data are accurately
+# comment: represented.
+# comment: Please see accompanying README file, if available, for citation text.
+# comment:  
+# comment: Every effort is made to produce the most accurate and precise
+# comment: measurements possible.  However, we reserve the right to make
+# comment: corrections to the data based on recalibration of standard gases
+# comment: or for other reasons deemed scientifically justified.
+# comment: 
+# comment: We are not responsible for results and conclusions based on use
+# comment: of these data without regard to this warning.
+# comment: 
+# contact_parameter: CO CCGG (Individual Flasks)
+# contact_name: Gabrielle Petron
+# contact_telephone: (720) 295-0145
+# contact_email: Gabrielle.Petron@noaa.gov
+# comment: 
+# comment:  ************ COLLABORATORS ***************
+# comment: 
+# comment: NOAA thanks the following collaborators without
+# comment: whom these measurements would not be possible.
+# comment: 
+# collaborator_name: NOAA Earth System Research Laboratory, Global
+# collaborator_name: Monitoring Division [NOAA ESRL GMD]
+# collaborator_url: http://www.esrl.noaa.gov/gmd
+# comment: 
+# comment:  ************ RECIPROCITY AGREEMENT ***************
+# comment: 
+# comment: Use of these data implies an agreement to reciprocate.
+# comment: Laboratories making similar measurements agree to make their
+# comment: own data available to the general public and to the scientific
+# comment: community in an equally complete and easily accessible form.
+# comment: Modelers are encouraged to make available to the community,
+# comment: upon request, their own tools used in the interpretation
+# comment: of the GML data, namely well documented model code, transport
+# comment: fields, modeled mole fractions, and additional information 
+# comment: necessary for other scientists to repeat the work and to run 
+# comment: modified versions. Model availability includes collaborative 
+# comment: support for new users of the models.
+# comment:
+# comment:  ************ DATA DESCRIPTION ***************
+# comment:
+# description_site-code: smo
+# description_project-abbr: ccg_surface
+# description_strategy-abbr: flask
+# description_analysis-constraints: flag:..%
+# description_creation-time: 2022-07-28 12:40:08
+# comment:
+# comment:  ************ DATA DOCUMENTATION ***************
+# comment:
+# comment: Please refer to the species-specific README file in the
+# comment: appropriate directory folder at https://gml.noaa.gov/aftp/data/trace_gases/.
+# comment:
+# data_fields: site year month value
+SMO 1989  3    64.48
+SMO 1989  4    66.33
+SMO 1989  5    64.35
+SMO 1989  6    59.54
+SMO 1989  7    59.90
+SMO 1989  8    61.63
+SMO 1989  9    64.34
+SMO 1989 10    69.55
+SMO 1989 11    69.41
+SMO 1989 12    63.10
+SMO 1990  1    59.53
+SMO 1990  2    59.57
+SMO 1990  3    60.54
+SMO 1990  4    62.47
+SMO 1990  5    62.78
+SMO 1990  6    62.07
+SMO 1990  7    64.23
+SMO 1990  8    67.96
+SMO 1990  9    70.41
+SMO 1990 10    70.76
+SMO 1990 11    68.76
+SMO 1990 12    68.05
+SMO 1991  1    69.96
+SMO 1991  2    70.04
+SMO 1991  3    67.29
+SMO 1991  4    65.48
+SMO 1991  5    64.37
+SMO 1991  6    63.80
+SMO 1991  7    65.50
+SMO 1991  8    71.47
+SMO 1991  9    80.20
+SMO 1991 10    84.20
+SMO 1991 11    81.10
+SMO 1991 12    74.56
+SMO 1992  1    66.85
+SMO 1992  2    59.98
+SMO 1992  3    57.62
+SMO 1992  4    59.00
+SMO 1992  5    62.56
+SMO 1992  6    65.71
+SMO 1992  7    66.74
+SMO 1992  8    67.53
+SMO 1992  9    70.68
+SMO 1992 10    72.10
+SMO 1992 11    66.22
+SMO 1992 12    60.64
+SMO 1993  1    60.81
+SMO 1993  2    61.72
+SMO 1993  3    59.61
+SMO 1993  4    57.26
+SMO 1993  5    56.48
+SMO 1993  6    57.50
+SMO 1993  7    59.77
+SMO 1993  8    62.65
+SMO 1993  9    68.30
+SMO 1993 10    73.29
+SMO 1993 11    68.72
+SMO 1993 12    61.37
+SMO 1994  1    60.46
+SMO 1994  2    61.36
+SMO 1994  3    59.97
+SMO 1994  4    58.17
+SMO 1994  5    58.68
+SMO 1994  6    60.99
+SMO 1994  7    63.40
+SMO 1994  8    66.18
+SMO 1994  9    73.87
+SMO 1994 10    80.54
+SMO 1994 11    76.57
+SMO 1994 12    67.28
+SMO 1995  1    63.36
+SMO 1995  2    61.70
+SMO 1995  3    58.51
+SMO 1995  4    58.03
+SMO 1995  5    59.63
+SMO 1995  6    60.22
+SMO 1995  7    60.85
+SMO 1995  8    65.63
+SMO 1995  9    76.47
+SMO 1995 10    81.12
+SMO 1995 11    73.12
+SMO 1995 12    65.02
+SMO 1996  1    67.98
+SMO 1996  2    70.68
+SMO 1996  3    64.51
+SMO 1996  4    57.11
+SMO 1996  5    56.37
+SMO 1996  6    58.50
+SMO 1996  7    59.86
+SMO 1996  8    63.51
+SMO 1996  9    69.99
+SMO 1996 10    72.36
+SMO 1996 11    68.71
+SMO 1996 12    65.02
+SMO 1997  1    62.73
+SMO 1997  2    59.85
+SMO 1997  3    58.70
+SMO 1997  4    58.02
+SMO 1997  5    56.90
+SMO 1997  6    60.02
+SMO 1997  7    65.07
+SMO 1997  8    68.15
+SMO 1997  9    76.12
+SMO 1997 10    90.15
+SMO 1997 11    90.90
+SMO 1997 12    76.44
+SMO 1998  1    62.40
+SMO 1998  2    57.83
+SMO 1998  3    57.75
+SMO 1998  4    59.84
+SMO 1998  5    63.43
+SMO 1998  6    67.19
+SMO 1998  7    71.04
+SMO 1998  8    73.47
+SMO 1998  9    75.66
+SMO 1998 10    76.75
+SMO 1998 11    72.11
+SMO 1998 12    67.28
+SMO 1999  1    65.59
+SMO 1999  2    61.56
+SMO 1999  3    56.95
+SMO 1999  4    58.19
+SMO 1999  5    61.36
+SMO 1999  6    60.34
+SMO 1999  7    57.86
+SMO 1999  8    59.26
+SMO 1999  9    65.62
+SMO 1999 10    71.30
+SMO 1999 11    67.60
+SMO 1999 12    60.22
+SMO 2000  1    59.07
+SMO 2000  2    61.67
+SMO 2000  3    61.63
+SMO 2000  4    57.40
+SMO 2000  5    54.15
+SMO 2000  6    55.50
+SMO 2000  7    58.42
+SMO 2000  8    59.16
+SMO 2000  9    61.92
+SMO 2000 10    66.34
+SMO 2000 11    64.79
+SMO 2000 12    58.60
+SMO 2001  1    59.36
+SMO 2001  2    65.01
+SMO 2001  3    63.56
+SMO 2001  4    55.89
+SMO 2001  5    53.23
+SMO 2001  6    55.32
+SMO 2001  7    58.76
+SMO 2001  8    64.81
+SMO 2001  9    71.15
+SMO 2001 10    71.76
+SMO 2001 11    66.90
+SMO 2001 12    62.62
+SMO 2002  1    61.34
+SMO 2002  2    59.38
+SMO 2002  3    55.12
+SMO 2002  4    53.21
+SMO 2002  5    55.53
+SMO 2002  6    57.84
+SMO 2002  7    59.14
+SMO 2002  8    63.03
+SMO 2002  9    70.17
+SMO 2002 10    74.56
+SMO 2002 11    71.17
+SMO 2002 12    64.05
+SMO 2003  1    61.48
+SMO 2003  2    62.12
+SMO 2003  3    61.52
+SMO 2003  4    58.64
+SMO 2003  5    55.92
+SMO 2003  6    56.94
+SMO 2003  7    58.33
+SMO 2003  8    59.50
+SMO 2003  9    64.74
+SMO 2003 10    67.92
+SMO 2003 11    63.11
+SMO 2003 12    59.59
+SMO 2004  1    58.03
+SMO 2004  2    52.70
+SMO 2004  3    49.83
+SMO 2004  4    52.32
+SMO 2004  5    54.84
+SMO 2004  6    57.23
+SMO 2004  7    60.25
+SMO 2004  8    61.85
+SMO 2004  9    66.01
+SMO 2004 10    72.07
+SMO 2004 11    69.30
+SMO 2004 12    59.94
+SMO 2005  1    55.13
+SMO 2005  2    55.65
+SMO 2005  3    58.73
+SMO 2005  4    61.98
+SMO 2005  5    60.98
+SMO 2005  6    59.15
+SMO 2005  7    59.43
+SMO 2005  8    61.95
+SMO 2005  9    69.61
+SMO 2005 10    74.32
+SMO 2005 11    68.24
+SMO 2005 12    62.99
+SMO 2006  1    67.25
+SMO 2006  2    67.37
+SMO 2006  3    59.36
+SMO 2006  4    54.61
+SMO 2006  5    55.22
+SMO 2006  6    56.54
+SMO 2006  7    57.36
+SMO 2006  8    59.23
+SMO 2006  9    65.11
+SMO 2006 10    70.20
+SMO 2006 11    67.64
+SMO 2006 12    62.25
+SMO 2007  1    64.27
+SMO 2007  2    67.99
+SMO 2007  3    63.93
+SMO 2007  4    58.12
+SMO 2007  5    58.45
+SMO 2007  6    59.89
+SMO 2007  7    58.65
+SMO 2007  8    60.15
+SMO 2007  9    68.23
+SMO 2007 10    73.85
+SMO 2007 11    69.61
+SMO 2007 12    63.70
+SMO 2008  1    62.79
+SMO 2008  2    58.92
+SMO 2008  3    53.69
+SMO 2008  4    54.41
+SMO 2008  5    57.55
+SMO 2008  6    58.95
+SMO 2008  7    59.53
+SMO 2008  8    59.67
+SMO 2008  9    61.09
+SMO 2008 10    62.64
+SMO 2008 11    59.83
+SMO 2008 12    56.78
+SMO 2009  1    56.80
+SMO 2009  2    55.65
+SMO 2009  3    53.08
+SMO 2009  4    53.13
+SMO 2009  5    54.95
+SMO 2009  6    55.53
+SMO 2009  7    56.35
+SMO 2009  8    57.76
+SMO 2009  9    59.81
+SMO 2009 10    62.10
+SMO 2009 11    59.59
+SMO 2009 12    54.63
+SMO 2010  1    53.67
+SMO 2010  2    55.52
+SMO 2010  3    54.94
+SMO 2010  4    53.73
+SMO 2010  5    54.68
+SMO 2010  6    55.95
+SMO 2010  7    55.56
+SMO 2010  8    56.75
+SMO 2010  9    63.83
+SMO 2010 10    71.17
+SMO 2010 11    67.71
+SMO 2010 12    60.40
+SMO 2011  1    58.39
+SMO 2011  2    57.13
+SMO 2011  3    54.43
+SMO 2011  4    52.97
+SMO 2011  5    52.70
+SMO 2011  6    53.30
+SMO 2011  7    54.21
+SMO 2011  8    54.63
+SMO 2011  9    60.39
+SMO 2011 10    66.90
+SMO 2011 11    63.60
+SMO 2011 12    58.26
+SMO 2012  1    60.62
+SMO 2012  2    61.33
+SMO 2012  3    55.89
+SMO 2012  4    52.06
+SMO 2012  5    52.78
+SMO 2012  6    55.47
+SMO 2012  7    56.80
+SMO 2012  8    57.03
+SMO 2012  9    61.41
+SMO 2012 10    65.85
+SMO 2012 11    62.84
+SMO 2012 12    58.46
+SMO 2013  1    59.65
+SMO 2013  2    59.57
+SMO 2013  3    56.12
+SMO 2013  4    55.16
+SMO 2013  5    55.12
+SMO 2013  6    55.03
+SMO 2013  7    56.16
+SMO 2013  8    56.98
+SMO 2013  9    59.16
+SMO 2013 10    61.38
+SMO 2013 11    58.93
+SMO 2013 12    55.52
+SMO 2014  1    56.02
+SMO 2014  2    56.47
+SMO 2014  3    55.13
+SMO 2014  4    53.37
+SMO 2014  5    52.51
+SMO 2014  6    54.76
+SMO 2014  7    57.92
+SMO 2014  8    58.48
+SMO 2014  9    58.81
+SMO 2014 10    61.93
+SMO 2014 11    62.85
+SMO 2014 12    60.86
+SMO 2015  1    59.14
+SMO 2015  2    57.71
+SMO 2015  3    56.04
+SMO 2015  4    54.12
+SMO 2015  5    52.54
+SMO 2015  6    54.21
+SMO 2015  7    58.01
+SMO 2015  8    61.25
+SMO 2015  9    65.61
+SMO 2015 10    70.24
+SMO 2015 11    69.50
+SMO 2015 12    65.62
+SMO 2016  1    61.22
+SMO 2016  2    58.20
+SMO 2016  3    58.17
+SMO 2016  4    58.54
+SMO 2016  5    57.55
+SMO 2016  6    57.95
+SMO 2016  7    59.12
+SMO 2016  8    59.51
+SMO 2016  9    61.68
+SMO 2016 10    63.00
+SMO 2016 11    59.52
+SMO 2016 12    56.87
+SMO 2017  1    59.95
+SMO 2017  2    59.65
+SMO 2017  3    53.08
+SMO 2017  4    50.39
+SMO 2017  5    52.67
+SMO 2017  6    54.84
+SMO 2017  7    55.75
+SMO 2017  8    57.02
+SMO 2017  9    62.45
+SMO 2017 10    67.19
+SMO 2017 11    63.72
+SMO 2017 12    58.08
+SMO 2018  1    58.39
+SMO 2018  2    60.29
+SMO 2018  3    59.78
+SMO 2018  4    56.75
+SMO 2018  5    54.17
+SMO 2018  6    54.54
+SMO 2018  7    56.22
+SMO 2018  8    58.14
+SMO 2018  9    61.81
+SMO 2018 10    62.86
+SMO 2018 11    58.87
+SMO 2018 12    56.76
+SMO 2019  1    58.61
+SMO 2019  2    57.96
+SMO 2019  3    54.29
+SMO 2019  4    54.10
+SMO 2019  5    56.30
+SMO 2019  6    56.63
+SMO 2019  7    56.59
+SMO 2019  8    59.44
+SMO 2019  9    65.51
+SMO 2019 10    68.72
+SMO 2019 11    65.66
+SMO 2019 12    63.52
+SMO 2020  1    66.12
+SMO 2020  2    64.79
+SMO 2020  3    60.89
+SMO 2020  4    60.25
+SMO 2020  5    60.98
+SMO 2020  6    60.53
+SMO 2020  7    60.83
+SMO 2020  8    62.06
+SMO 2020  9    65.46
+SMO 2020 10    70.26
+SMO 2020 11    69.61
+SMO 2020 12    65.75
+SMO 2021  1    63.92
+SMO 2021  2    61.94
+SMO 2021  3    58.54
+SMO 2021  4    57.37
+SMO 2021  5    58.66
+SMO 2021  6    59.52
+SMO 2021  7    59.95
+SMO 2021  8    61.73
+SMO 2021  9    66.65
+SMO 2021 10    70.51
+SMO 2021 11    66.26
+SMO 2021 12    61.13

@@ -1,0 +1,71 @@
+# number_of_header_lines: 54
+# comment:  
+# comment:  ************ USE OF GML DATA ****************
+# comment:  
+# comment: These data are made freely available to the public and the scientific
+# comment: community in the belief that their wide dissemination will lead to
+# comment: greater understanding and new scientific insights. To ensure that GML
+# comment: receives fair credit for their work please include relevant citation
+# comment: text in publications. We encourage users to contact the data providers,
+# comment: who can provide detailed information about the measurements and
+# comment: scientific insight.  In cases where the data are central to a
+# comment: publication, coauthorship for data providers may be appropriate.
+# comment: 
+# comment: 
+# comment: Please see accompanying README file, if available, for citation text.
+# comment:  
+# comment: Every effort is made to produce the most accurate and precise
+# comment: measurements possible.  However, we reserve the right to make
+# comment: corrections to the data based on recalibration of standard gases
+# comment: or for other reasons deemed scientifically justified.
+# comment: 
+# comment: We are not responsible for results and conclusions based on use
+# comment: of these data without regard to this warning.
+# comment: 
+# contact_parameter: CH4C13 SIL (Individual Flasks)
+# contact_name: Sylvia Englund Michel
+# contact_telephone: (303) 492-5495
+# contact_email: Sylvia.Englund@colorado.edu
+# comment: 
+# comment:  ************ COLLABORATORS ***************
+# comment: 
+# comment: NOAA thanks the following collaborators without
+# comment: whom these measurements would not be possible.
+# comment: 
+# collaborator_name: National Institute of Water and Atmospheric
+# collaborator_name: Research [NIWA]
+# comment: 
+# comment:  ************ RECIPROCITY AGREEMENT ***************
+# comment: 
+# comment:
+# comment:  ************ DATA DESCRIPTION ***************
+# comment:
+# description_site-code: wpc
+# description_project-abbr: ccg_surface
+# description_strategy-abbr: flask
+# description_analysis-constraints: flag:..%
+# description_creation-time: 2023-09-21 15:03:53
+# comment:
+# comment:  ************ DATA DOCUMENTATION ***************
+# comment:
+# comment: Please refer to the species-specific README file in the
+# comment: appropriate directory folder at https://gml.noaa.gov/aftp/data/trace_gases/.
+# comment:
+# data_fields: site year month value
+WPC 2006  5  -46.914
+WPC 2006  6  -47.038
+WPC 2006  7  -47.116
+WPC 2006  8  -47.080
+WPC 2007  1  -47.054
+WPC 2007  5  -47.001
+WPC 2007  6  -47.091
+WPC 2008  4  -46.789
+WPC 2008  9  -47.137
+WPC 2009 10  -47.176
+WPC 2009 11  -47.338
+WPC 2011 11  -47.230
+WPC 2011 12  -47.385
+WPC 2012  6  -47.217
+WPC 2013  3  -47.099
+WPC 2013  4  -47.088
+WPC 2013  5  -47.168

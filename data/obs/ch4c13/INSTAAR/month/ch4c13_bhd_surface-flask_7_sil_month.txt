@@ -1,0 +1,187 @@
+# number_of_header_lines: 54
+# comment:  
+# comment:  ************ USE OF GML DATA ****************
+# comment:  
+# comment: These data are made freely available to the public and the scientific
+# comment: community in the belief that their wide dissemination will lead to
+# comment: greater understanding and new scientific insights. To ensure that GML
+# comment: receives fair credit for their work please include relevant citation
+# comment: text in publications. We encourage users to contact the data providers,
+# comment: who can provide detailed information about the measurements and
+# comment: scientific insight.  In cases where the data are central to a
+# comment: publication, coauthorship for data providers may be appropriate.
+# comment: 
+# comment: 
+# comment: Please see accompanying README file, if available, for citation text.
+# comment:  
+# comment: Every effort is made to produce the most accurate and precise
+# comment: measurements possible.  However, we reserve the right to make
+# comment: corrections to the data based on recalibration of standard gases
+# comment: or for other reasons deemed scientifically justified.
+# comment: 
+# comment: We are not responsible for results and conclusions based on use
+# comment: of these data without regard to this warning.
+# comment: 
+# contact_parameter: CH4C13 SIL (Individual Flasks)
+# contact_name: Sylvia Englund Michel
+# contact_telephone: (303) 492-5495
+# contact_email: Sylvia.Englund@colorado.edu
+# comment: 
+# comment:  ************ COLLABORATORS ***************
+# comment: 
+# comment: NOAA thanks the following collaborators without
+# comment: whom these measurements would not be possible.
+# comment: 
+# collaborator_name: National Institute of Water and Atmospheric
+# collaborator_name: Research [NIWA]
+# comment: 
+# comment:  ************ RECIPROCITY AGREEMENT ***************
+# comment: 
+# comment:
+# comment:  ************ DATA DESCRIPTION ***************
+# comment:
+# description_site-code: bhd
+# description_project-abbr: ccg_surface
+# description_strategy-abbr: flask
+# description_analysis-constraints: flag:..%
+# description_creation-time: 2023-09-21 15:03:39
+# comment:
+# comment:  ************ DATA DOCUMENTATION ***************
+# comment:
+# comment: Please refer to the species-specific README file in the
+# comment: appropriate directory folder at https://gml.noaa.gov/aftp/data/trace_gases/.
+# comment:
+# data_fields: site year month value
+BHD 2009  3  -47.008
+BHD 2009  4  -47.044
+BHD 2009  5  -47.080
+BHD 2009  6  -47.085
+BHD 2009  7  -47.086
+BHD 2009  8  -47.111
+BHD 2009  9  -47.153
+BHD 2009 10  -47.167
+BHD 2010  3  -46.888
+BHD 2010  4  -46.982
+BHD 2010  5  -47.100
+BHD 2010  6  -47.168
+BHD 2010  7  -47.173
+BHD 2010  8  -47.148
+BHD 2010  9  -47.120
+BHD 2010 10  -47.093
+BHD 2010 11  -47.055
+BHD 2010 12  -47.013
+BHD 2011  1  -46.982
+BHD 2011  2  -46.994
+BHD 2011  3  -47.051
+BHD 2011  4  -47.126
+BHD 2011  5  -47.192
+BHD 2011  6  -47.219
+BHD 2011  7  -47.223
+BHD 2011  8  -47.220
+BHD 2011  9  -47.205
+BHD 2011 10  -47.166
+BHD 2011 11  -47.120
+BHD 2011 12  -47.095
+BHD 2012  1  -47.087
+BHD 2012  2  -47.086
+BHD 2012  3  -47.088
+BHD 2012  4  -47.100
+BHD 2012  5  -47.127
+BHD 2012  6  -47.159
+BHD 2012  7  -47.200
+BHD 2012  8  -47.252
+BHD 2012  9  -47.320
+BHD 2012 10  -47.387
+BHD 2013  5  -47.197
+BHD 2013  6  -47.174
+BHD 2013  7  -47.168
+BHD 2013  8  -47.185
+BHD 2013  9  -47.206
+BHD 2013 10  -47.195
+BHD 2013 11  -47.139
+BHD 2013 12  -47.057
+BHD 2014  1  -47.016
+BHD 2014  2  -47.049
+BHD 2014  3  -47.132
+BHD 2014  4  -47.194
+BHD 2014  5  -47.205
+BHD 2014  6  -47.201
+BHD 2014  7  -47.208
+BHD 2014  8  -47.217
+BHD 2014  9  -47.208
+BHD 2014 10  -47.192
+BHD 2014 11  -47.180
+BHD 2014 12  -47.169
+BHD 2015  1  -47.152
+BHD 2015  2  -47.142
+BHD 2015  3  -47.164
+BHD 2015  7  -47.218
+BHD 2015  8  -47.174
+BHD 2015  9  -47.155
+BHD 2015 10  -47.159
+BHD 2015 11  -47.166
+BHD 2015 12  -47.158
+BHD 2016  1  -47.131
+BHD 2016  2  -47.105
+BHD 2016  3  -47.096
+BHD 2016  4  -47.107
+BHD 2016  5  -47.131
+BHD 2016  6  -47.155
+BHD 2016  7  -47.173
+BHD 2016  8  -47.189
+BHD 2016  9  -47.197
+BHD 2017  1  -47.135
+BHD 2017  2  -47.145
+BHD 2017  3  -47.165
+BHD 2017  4  -47.185
+BHD 2017  5  -47.203
+BHD 2017  6  -47.223
+BHD 2017  7  -47.250
+BHD 2017  8  -47.273
+BHD 2017  9  -47.277
+BHD 2017 10  -47.261
+BHD 2017 11  -47.234
+BHD 2017 12  -47.214
+BHD 2018  1  -47.218
+BHD 2018  2  -47.239
+BHD 2018  3  -47.260
+BHD 2018  4  -47.260
+BHD 2018  5  -47.237
+BHD 2018  6  -47.222
+BHD 2018  7  -47.243
+BHD 2018  8  -47.303
+BHD 2018  9  -47.372
+BHD 2018 10  -47.407
+BHD 2018 11  -47.389
+BHD 2018 12  -47.327
+BHD 2019  7  -47.341
+BHD 2019 11  -47.451
+BHD 2019 12  -47.339
+BHD 2020  1  -47.264
+BHD 2020  2  -47.270
+BHD 2020  3  -47.322
+BHD 2020  4  -47.362
+BHD 2020  5  -47.368
+BHD 2020  6  -47.368
+BHD 2020  7  -47.379
+BHD 2020  8  -47.396
+BHD 2020  9  -47.406
+BHD 2020 10  -47.408
+BHD 2020 11  -47.401
+BHD 2020 12  -47.382
+BHD 2021  1  -47.349
+BHD 2021  2  -47.322
+BHD 2021  3  -47.324
+BHD 2021  8  -47.499
+BHD 2021  9  -47.568
+BHD 2021 10  -47.614
+BHD 2022  3  -47.482
+BHD 2022  4  -47.544
+BHD 2022  5  -47.652
+BHD 2022  6  -47.750
+BHD 2022  7  -47.782
+BHD 2022  8  -47.741
+BHD 2022  9  -47.670
+BHD 2022 10  -47.605
+BHD 2022 11  -47.575
+BHD 2022 12  -47.566

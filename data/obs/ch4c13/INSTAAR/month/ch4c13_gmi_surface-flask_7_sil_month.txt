@@ -1,0 +1,123 @@
+# number_of_header_lines: 54
+# comment:  
+# comment:  ************ USE OF GML DATA ****************
+# comment:  
+# comment: These data are made freely available to the public and the scientific
+# comment: community in the belief that their wide dissemination will lead to
+# comment: greater understanding and new scientific insights. To ensure that GML
+# comment: receives fair credit for their work please include relevant citation
+# comment: text in publications. We encourage users to contact the data providers,
+# comment: who can provide detailed information about the measurements and
+# comment: scientific insight.  In cases where the data are central to a
+# comment: publication, coauthorship for data providers may be appropriate.
+# comment: 
+# comment: 
+# comment: Please see accompanying README file, if available, for citation text.
+# comment:  
+# comment: Every effort is made to produce the most accurate and precise
+# comment: measurements possible.  However, we reserve the right to make
+# comment: corrections to the data based on recalibration of standard gases
+# comment: or for other reasons deemed scientifically justified.
+# comment: 
+# comment: We are not responsible for results and conclusions based on use
+# comment: of these data without regard to this warning.
+# comment: 
+# contact_parameter: CH4C13 SIL (Individual Flasks)
+# contact_name: Sylvia Englund Michel
+# contact_telephone: (303) 492-5495
+# contact_email: Sylvia.Englund@colorado.edu
+# comment: 
+# comment:  ************ COLLABORATORS ***************
+# comment: 
+# comment: NOAA thanks the following collaborators without
+# comment: whom these measurements would not be possible.
+# comment: 
+# collaborator_name: University of Guam/Marine Laboratory [UOG]
+# collaborator_url: https://www.uog.edu/ml/
+# comment: 
+# comment:  ************ RECIPROCITY AGREEMENT ***************
+# comment: 
+# comment:
+# comment:  ************ DATA DESCRIPTION ***************
+# comment:
+# description_site-code: gmi
+# description_project-abbr: ccg_surface
+# description_strategy-abbr: flask
+# description_analysis-constraints: flag:..%
+# description_creation-time: 2023-09-21 15:03:43
+# comment:
+# comment:  ************ DATA DOCUMENTATION ***************
+# comment:
+# comment: Please refer to the species-specific README file in the
+# comment: appropriate directory folder at https://gml.noaa.gov/aftp/data/trace_gases/.
+# comment:
+# data_fields: site year month value
+GMI 2016  1  -47.345
+GMI 2016  5  -47.236
+GMI 2016  6  -47.227
+GMI 2016 10  -47.366
+GMI 2016 11  -47.430
+GMI 2016 12  -47.447
+GMI 2017  1  -47.420
+GMI 2017  2  -47.377
+GMI 2017  3  -47.331
+GMI 2017  4  -47.292
+GMI 2017  5  -47.251
+GMI 2017  6  -47.218
+GMI 2018  1  -47.523
+GMI 2018  2  -47.432
+GMI 2018  3  -47.379
+GMI 2018  4  -47.360
+GMI 2018  5  -47.357
+GMI 2018  6  -47.348
+GMI 2018  7  -47.337
+GMI 2018  8  -47.341
+GMI 2018  9  -47.369
+GMI 2018 10  -47.407
+GMI 2018 11  -47.435
+GMI 2018 12  -47.445
+GMI 2019  1  -47.439
+GMI 2019  2  -47.416
+GMI 2019  3  -47.378
+GMI 2019  4  -47.329
+GMI 2019  5  -47.289
+GMI 2019  6  -47.299
+GMI 2019  7  -47.380
+GMI 2019  8  -47.503
+GMI 2019  9  -47.611
+GMI 2019 10  -47.693
+GMI 2019 11  -47.711
+GMI 2019 12  -47.658
+GMI 2020  1  -47.541
+GMI 2020  2  -47.421
+GMI 2020  3  -47.357
+GMI 2020  4  -47.335
+GMI 2020  5  -47.335
+GMI 2020  6  -47.346
+GMI 2020  7  -47.394
+GMI 2020  8  -47.489
+GMI 2020  9  -47.599
+GMI 2020 10  -47.671
+GMI 2020 11  -47.678
+GMI 2020 12  -47.642
+GMI 2021  1  -47.599
+GMI 2021  2  -47.575
+GMI 2021  3  -47.566
+GMI 2021  4  -47.565
+GMI 2021  5  -47.559
+GMI 2021  6  -47.544
+GMI 2021  7  -47.539
+GMI 2021  8  -47.569
+GMI 2021  9  -47.644
+GMI 2022  1  -47.666
+GMI 2022  2  -47.654
+GMI 2022  3  -47.654
+GMI 2022  4  -47.620
+GMI 2022  5  -47.550
+GMI 2022  6  -47.479
+GMI 2022  7  -47.466
+GMI 2022  8  -47.524
+GMI 2022  9  -47.618
+GMI 2022 10  -47.709
+GMI 2022 11  -47.803
+GMI 2022 12  -47.864

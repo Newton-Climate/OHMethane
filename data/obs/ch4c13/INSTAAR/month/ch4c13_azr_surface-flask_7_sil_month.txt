@@ -1,0 +1,258 @@
+# number_of_header_lines: 54
+# comment:  
+# comment:  ************ USE OF GML DATA ****************
+# comment:  
+# comment: These data are made freely available to the public and the scientific
+# comment: community in the belief that their wide dissemination will lead to
+# comment: greater understanding and new scientific insights. To ensure that GML
+# comment: receives fair credit for their work please include relevant citation
+# comment: text in publications. We encourage users to contact the data providers,
+# comment: who can provide detailed information about the measurements and
+# comment: scientific insight.  In cases where the data are central to a
+# comment: publication, coauthorship for data providers may be appropriate.
+# comment: 
+# comment: 
+# comment: Please see accompanying README file, if available, for citation text.
+# comment:  
+# comment: Every effort is made to produce the most accurate and precise
+# comment: measurements possible.  However, we reserve the right to make
+# comment: corrections to the data based on recalibration of standard gases
+# comment: or for other reasons deemed scientifically justified.
+# comment: 
+# comment: We are not responsible for results and conclusions based on use
+# comment: of these data without regard to this warning.
+# comment: 
+# contact_parameter: CH4C13 SIL (Individual Flasks)
+# contact_name: Sylvia Englund Michel
+# contact_telephone: (303) 492-5495
+# contact_email: Sylvia.Englund@colorado.edu
+# comment: 
+# comment:  ************ COLLABORATORS ***************
+# comment: 
+# comment: NOAA thanks the following collaborators without
+# comment: whom these measurements would not be possible.
+# comment: 
+# collaborator_name: Instituto Nacional de Meteorologia e Geofisica
+# collaborator_name: [INMG]
+# comment: 
+# comment:  ************ RECIPROCITY AGREEMENT ***************
+# comment: 
+# comment:
+# comment:  ************ DATA DESCRIPTION ***************
+# comment:
+# description_site-code: azr
+# description_project-abbr: ccg_surface
+# description_strategy-abbr: flask
+# description_analysis-constraints: flag:..%
+# description_creation-time: 2023-09-21 15:03:38
+# comment:
+# comment:  ************ DATA DOCUMENTATION ***************
+# comment:
+# comment: Please refer to the species-specific README file in the
+# comment: appropriate directory folder at https://gml.noaa.gov/aftp/data/trace_gases/.
+# comment:
+# data_fields: site year month value
+AZR 2000  8  -47.262
+AZR 2000  9  -47.300
+AZR 2000 10  -47.316
+AZR 2000 11  -47.277
+AZR 2000 12  -47.225
+AZR 2001  1  -47.200
+AZR 2001  2  -47.196
+AZR 2001  3  -47.193
+AZR 2001  4  -47.169
+AZR 2001  5  -47.114
+AZR 2001  6  -47.047
+AZR 2001  7  -47.011
+AZR 2001  8  -47.031
+AZR 2001 12  -47.237
+AZR 2002  1  -47.244
+AZR 2002  2  -47.249
+AZR 2002  3  -47.238
+AZR 2002  4  -47.206
+AZR 2002  5  -47.165
+AZR 2002  6  -47.162
+AZR 2002  7  -47.215
+AZR 2003  7  -47.009
+AZR 2003  8  -47.157
+AZR 2003  9  -47.285
+AZR 2003 10  -47.350
+AZR 2003 11  -47.331
+AZR 2003 12  -47.282
+AZR 2004  1  -47.237
+AZR 2004  2  -47.205
+AZR 2004  3  -47.176
+AZR 2004  4  -47.138
+AZR 2004  5  -47.108
+AZR 2004  6  -47.104
+AZR 2004  7  -47.138
+AZR 2004  8  -47.202
+AZR 2004  9  -47.269
+AZR 2004 10  -47.305
+AZR 2004 11  -47.306
+AZR 2004 12  -47.288
+AZR 2005  1  -47.272
+AZR 2005  2  -47.264
+AZR 2005  3  -47.260
+AZR 2005  4  -47.263
+AZR 2005  5  -47.265
+AZR 2005  6  -47.256
+AZR 2005  7  -47.246
+AZR 2005  8  -47.259
+AZR 2005  9  -47.302
+AZR 2005 10  -47.338
+AZR 2005 11  -47.330
+AZR 2006  5  -47.129
+AZR 2006  6  -47.080
+AZR 2006  7  -47.089
+AZR 2006  8  -47.178
+AZR 2006  9  -47.296
+AZR 2006 10  -47.377
+AZR 2006 11  -47.416
+AZR 2006 12  -47.401
+AZR 2007  1  -47.334
+AZR 2007  2  -47.212
+AZR 2007  3  -47.043
+AZR 2007  4  -46.921
+AZR 2007  5  -46.930
+AZR 2007  6  -47.062
+AZR 2007  7  -47.231
+AZR 2007  8  -47.379
+AZR 2007  9  -47.431
+AZR 2007 10  -47.402
+AZR 2007 11  -47.354
+AZR 2007 12  -47.335
+AZR 2008  1  -47.330
+AZR 2008  2  -47.286
+AZR 2008  3  -47.200
+AZR 2008  4  -47.104
+AZR 2008  5  -47.059
+AZR 2008  6  -47.130
+AZR 2008  7  -47.306
+AZR 2008  8  -47.493
+AZR 2008  9  -47.583
+AZR 2008 10  -47.563
+AZR 2008 11  -47.465
+AZR 2008 12  -47.374
+AZR 2009  1  -47.318
+AZR 2009  2  -47.309
+AZR 2009  3  -47.312
+AZR 2009  4  -47.290
+AZR 2009  5  -47.246
+AZR 2009  6  -47.223
+AZR 2009  7  -47.254
+AZR 2009  8  -47.339
+AZR 2009  9  -47.422
+AZR 2009 10  -47.471
+AZR 2009 11  -47.445
+AZR 2009 12  -47.345
+AZR 2010  1  -47.221
+AZR 2010  2  -47.138
+AZR 2011  4  -47.217
+AZR 2011  5  -47.222
+AZR 2011  6  -47.211
+AZR 2011 11  -47.473
+AZR 2012  5  -47.258
+AZR 2012  6  -47.187
+AZR 2012  7  -47.201
+AZR 2012  8  -47.315
+AZR 2012  9  -47.462
+AZR 2012 10  -47.553
+AZR 2012 11  -47.574
+AZR 2012 12  -47.528
+AZR 2013  6  -47.019
+AZR 2013  7  -47.099
+AZR 2013  8  -47.262
+AZR 2013  9  -47.428
+AZR 2013 10  -47.519
+AZR 2013 11  -47.511
+AZR 2013 12  -47.440
+AZR 2014  1  -47.353
+AZR 2014  2  -47.315
+AZR 2014  3  -47.328
+AZR 2014  4  -47.347
+AZR 2014  5  -47.331
+AZR 2014  6  -47.285
+AZR 2014  7  -47.283
+AZR 2014  8  -47.372
+AZR 2014  9  -47.500
+AZR 2014 10  -47.587
+AZR 2014 11  -47.551
+AZR 2014 12  -47.444
+AZR 2015  1  -47.343
+AZR 2015  2  -47.318
+AZR 2015  3  -47.337
+AZR 2015  4  -47.345
+AZR 2015  5  -47.319
+AZR 2015  6  -47.296
+AZR 2015  7  -47.324
+AZR 2015  8  -47.423
+AZR 2015  9  -47.548
+AZR 2015 10  -47.665
+AZR 2015 11  -47.704
+AZR 2015 12  -47.643
+AZR 2016  1  -47.535
+AZR 2016  2  -47.454
+AZR 2016  3  -47.408
+AZR 2016  4  -47.378
+AZR 2016  5  -47.341
+AZR 2016  6  -47.311
+AZR 2016  7  -47.344
+AZR 2016  8  -47.439
+AZR 2016  9  -47.566
+AZR 2016 10  -47.641
+AZR 2016 11  -47.639
+AZR 2016 12  -47.589
+AZR 2017  1  -47.537
+AZR 2017  2  -47.512
+AZR 2017  3  -47.499
+AZR 2017  4  -47.476
+AZR 2017 10  -47.615
+AZR 2017 11  -47.599
+AZR 2017 12  -47.566
+AZR 2018  1  -47.551
+AZR 2018  2  -47.549
+AZR 2018  3  -47.526
+AZR 2018  4  -47.464
+AZR 2018  5  -47.403
+AZR 2018  6  -47.415
+AZR 2018  7  -47.515
+AZR 2018  8  -47.666
+AZR 2018  9  -47.760
+AZR 2018 10  -47.752
+AZR 2018 11  -47.673
+AZR 2018 12  -47.591
+AZR 2019  6  -47.476
+AZR 2019  7  -47.645
+AZR 2019  8  -47.817
+AZR 2019  9  -47.876
+AZR 2019 10  -47.815
+AZR 2019 11  -47.716
+AZR 2019 12  -47.642
+AZR 2020  1  -47.580
+AZR 2020  2  -47.541
+AZR 2020  3  -47.532
+AZR 2020  4  -47.539
+AZR 2020  5  -47.537
+AZR 2020  6  -47.544
+AZR 2020  7  -47.614
+AZR 2020  8  -47.752
+AZR 2020  9  -47.870
+AZR 2020 10  -47.909
+AZR 2020 11  -47.853
+AZR 2020 12  -47.771
+AZR 2021  1  -47.727
+AZR 2021  2  -47.717
+AZR 2021  3  -47.702
+AZR 2021  4  -47.670
+AZR 2021  5  -47.651
+AZR 2021  6  -47.678
+AZR 2021  7  -47.745
+AZR 2021  8  -47.803
+AZR 2021  9  -47.811
+AZR 2021 10  -47.788
+AZR 2021 11  -47.777
+AZR 2021 12  -47.792
+AZR 2022  1  -47.816
+AZR 2022  2  -47.824
+AZR 2022  3  -47.813

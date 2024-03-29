@@ -1,0 +1,229 @@
+# number_of_header_lines: 54
+# comment:  
+# comment:  ************ USE OF GML DATA ****************
+# comment:  
+# comment: These data are made freely available to the public and the scientific
+# comment: community in the belief that their wide dissemination will lead to
+# comment: greater understanding and new scientific insights. To ensure that GML
+# comment: receives fair credit for their work please include relevant citation
+# comment: text in publications. We encourage users to contact the data providers,
+# comment: who can provide detailed information about the measurements and
+# comment: scientific insight.  In cases where the data are central to a
+# comment: publication, coauthorship for data providers may be appropriate.
+# comment: 
+# comment: 
+# comment: Please see accompanying README file, if available, for citation text.
+# comment:  
+# comment: Every effort is made to produce the most accurate and precise
+# comment: measurements possible.  However, we reserve the right to make
+# comment: corrections to the data based on recalibration of standard gases
+# comment: or for other reasons deemed scientifically justified.
+# comment: 
+# comment: We are not responsible for results and conclusions based on use
+# comment: of these data without regard to this warning.
+# comment: 
+# contact_parameter: CH4C13 SIL (Individual Flasks)
+# contact_name: Sylvia Englund Michel
+# contact_telephone: (303) 492-5495
+# contact_email: Sylvia.Englund@colorado.edu
+# comment: 
+# comment:  ************ COLLABORATORS ***************
+# comment: 
+# comment: NOAA thanks the following collaborators without
+# comment: whom these measurements would not be possible.
+# comment: 
+# collaborator_name: Zeppelin Station/University of Stockholm
+# collaborator_name: Meteorological Institute [MISU]
+# comment: 
+# comment:  ************ RECIPROCITY AGREEMENT ***************
+# comment: 
+# comment:
+# comment:  ************ DATA DESCRIPTION ***************
+# comment:
+# description_site-code: zep
+# description_project-abbr: ccg_surface
+# description_strategy-abbr: flask
+# description_analysis-constraints: flag:..%
+# description_creation-time: 2023-09-21 15:03:54
+# comment:
+# comment:  ************ DATA DOCUMENTATION ***************
+# comment:
+# comment: Please refer to the species-specific README file in the
+# comment: appropriate directory folder at https://gml.noaa.gov/aftp/data/trace_gases/.
+# comment:
+# data_fields: site year month value
+ZEP 2008  6  -47.126
+ZEP 2008  7  -47.208
+ZEP 2008  8  -47.381
+ZEP 2008  9  -47.536
+ZEP 2008 10  -47.608
+ZEP 2008 11  -47.566
+ZEP 2008 12  -47.491
+ZEP 2009  1  -47.446
+ZEP 2009  2  -47.446
+ZEP 2009  3  -47.436
+ZEP 2009  4  -47.367
+ZEP 2009  5  -47.268
+ZEP 2009  6  -47.222
+ZEP 2009  7  -47.292
+ZEP 2009  8  -47.474
+ZEP 2009  9  -47.648
+ZEP 2009 10  -47.732
+ZEP 2009 11  -47.661
+ZEP 2009 12  -47.505
+ZEP 2010  1  -47.381
+ZEP 2010  2  -47.331
+ZEP 2010  3  -47.295
+ZEP 2010  4  -47.225
+ZEP 2010  5  -47.150
+ZEP 2010  6  -47.154
+ZEP 2010  7  -47.295
+ZEP 2010  8  -47.538
+ZEP 2010  9  -47.759
+ZEP 2010 10  -47.845
+ZEP 2010 11  -47.773
+ZEP 2010 12  -47.600
+ZEP 2011  1  -47.448
+ZEP 2011  2  -47.388
+ZEP 2011  3  -47.379
+ZEP 2011  4  -47.361
+ZEP 2011  5  -47.317
+ZEP 2011  6  -47.295
+ZEP 2011  7  -47.378
+ZEP 2011  8  -47.552
+ZEP 2011  9  -47.766
+ZEP 2011 10  -47.881
+ZEP 2011 11  -47.855
+ZEP 2011 12  -47.733
+ZEP 2012  1  -47.600
+ZEP 2012  2  -47.509
+ZEP 2012  3  -47.431
+ZEP 2012  4  -47.360
+ZEP 2012  5  -47.323
+ZEP 2012  6  -47.359
+ZEP 2012  7  -47.468
+ZEP 2012  8  -47.626
+ZEP 2012  9  -47.735
+ZEP 2012 10  -47.745
+ZEP 2012 11  -47.676
+ZEP 2012 12  -47.590
+ZEP 2013  1  -47.531
+ZEP 2013  2  -47.493
+ZEP 2013  3  -47.454
+ZEP 2013  4  -47.398
+ZEP 2013  5  -47.328
+ZEP 2013  6  -47.295
+ZEP 2013  7  -47.334
+ZEP 2013  8  -47.454
+ZEP 2013  9  -47.583
+ZEP 2013 10  -47.627
+ZEP 2013 11  -47.580
+ZEP 2013 12  -47.518
+ZEP 2014  1  -47.497
+ZEP 2014  2  -47.512
+ZEP 2014  3  -47.500
+ZEP 2014  4  -47.432
+ZEP 2014  5  -47.327
+ZEP 2014  6  -47.279
+ZEP 2014  7  -47.358
+ZEP 2014  8  -47.530
+ZEP 2014  9  -47.681
+ZEP 2014 10  -47.751
+ZEP 2014 11  -47.708
+ZEP 2014 12  -47.627
+ZEP 2015  1  -47.562
+ZEP 2015  2  -47.525
+ZEP 2015  3  -47.486
+ZEP 2015  4  -47.422
+ZEP 2015  5  -47.374
+ZEP 2015  6  -47.390
+ZEP 2015  7  -47.488
+ZEP 2015  8  -47.636
+ZEP 2015  9  -47.759
+ZEP 2015 10  -47.824
+ZEP 2015 11  -47.796
+ZEP 2015 12  -47.710
+ZEP 2016  1  -47.636
+ZEP 2016  2  -47.604
+ZEP 2016  3  -47.575
+ZEP 2016  4  -47.520
+ZEP 2016  5  -47.464
+ZEP 2016  6  -47.461
+ZEP 2016  7  -47.556
+ZEP 2016  8  -47.695
+ZEP 2016  9  -47.812
+ZEP 2016 10  -47.828
+ZEP 2016 11  -47.769
+ZEP 2016 12  -47.693
+ZEP 2017  1  -47.657
+ZEP 2017  2  -47.655
+ZEP 2017  3  -47.637
+ZEP 2017  4  -47.571
+ZEP 2017  5  -47.494
+ZEP 2017  6  -47.467
+ZEP 2017  7  -47.550
+ZEP 2017  8  -47.719
+ZEP 2017  9  -47.867
+ZEP 2017 10  -47.904
+ZEP 2017 11  -47.837
+ZEP 2017 12  -47.734
+ZEP 2018  1  -47.678
+ZEP 2018  2  -47.667
+ZEP 2018  3  -47.660
+ZEP 2018  4  -47.611
+ZEP 2018  5  -47.539
+ZEP 2018  6  -47.511
+ZEP 2018  7  -47.561
+ZEP 2018  8  -47.687
+ZEP 2018  9  -47.837
+ZEP 2018 10  -47.938
+ZEP 2018 11  -47.956
+ZEP 2018 12  -47.862
+ZEP 2019  1  -47.702
+ZEP 2019  2  -47.565
+ZEP 2019  3  -47.494
+ZEP 2019  4  -47.456
+ZEP 2019  5  -47.454
+ZEP 2019  6  -47.530
+ZEP 2019  7  -47.691
+ZEP 2019  8  -47.928
+ZEP 2019  9  -48.114
+ZEP 2019 10  -48.150
+ZEP 2019 11  -48.045
+ZEP 2019 12  -47.892
+ZEP 2020  1  -47.743
+ZEP 2020  2  -47.642
+ZEP 2020  3  -47.569
+ZEP 2020  4  -47.498
+ZEP 2020  5  -47.498
+ZEP 2020  6  -47.617
+ZEP 2020  7  -47.852
+ZEP 2020  8  -48.073
+ZEP 2020  9  -48.168
+ZEP 2020 10  -48.146
+ZEP 2020 11  -48.046
+ZEP 2020 12  -47.928
+ZEP 2021  1  -47.845
+ZEP 2021  2  -47.819
+ZEP 2021  3  -47.817
+ZEP 2021  4  -47.797
+ZEP 2021  5  -47.755
+ZEP 2021  6  -47.746
+ZEP 2021  7  -47.815
+ZEP 2021  8  -47.944
+ZEP 2021  9  -48.061
+ZEP 2021 10  -48.102
+ZEP 2021 11  -48.064
+ZEP 2021 12  -47.980
+ZEP 2022  1  -47.910
+ZEP 2022  2  -47.880
+ZEP 2022  3  -47.861
+ZEP 2022  4  -47.829
+ZEP 2022  5  -47.800
+ZEP 2022  6  -47.816
+ZEP 2022  7  -47.909
+ZEP 2022  8  -48.041
+ZEP 2022  9  -48.178
+ZEP 2022 10  -48.249
+ZEP 2022 11  -48.239
+ZEP 2022 12  -48.174

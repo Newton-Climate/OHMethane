@@ -1,0 +1,340 @@
+# number_of_header_lines: 54
+# comment:  
+# comment:  ************ USE OF GML DATA ****************
+# comment:  
+# comment: These data are made freely available to the public and the scientific
+# comment: community in the belief that their wide dissemination will lead to
+# comment: greater understanding and new scientific insights. To ensure that GML
+# comment: receives fair credit for their work please include relevant citation
+# comment: text in publications. We encourage users to contact the data providers,
+# comment: who can provide detailed information about the measurements and
+# comment: scientific insight.  In cases where the data are central to a
+# comment: publication, coauthorship for data providers may be appropriate.
+# comment: 
+# comment: 
+# comment: Please see accompanying README file, if available, for citation text.
+# comment:  
+# comment: Every effort is made to produce the most accurate and precise
+# comment: measurements possible.  However, we reserve the right to make
+# comment: corrections to the data based on recalibration of standard gases
+# comment: or for other reasons deemed scientifically justified.
+# comment: 
+# comment: We are not responsible for results and conclusions based on use
+# comment: of these data without regard to this warning.
+# comment: 
+# contact_parameter: CH4C13 SIL (Individual Flasks)
+# contact_name: Sylvia Englund Michel
+# contact_telephone: (303) 492-5495
+# contact_email: Sylvia.Englund@colorado.edu
+# comment: 
+# comment:  ************ COLLABORATORS ***************
+# comment: 
+# comment: NOAA thanks the following collaborators without
+# comment: whom these measurements would not be possible.
+# comment: 
+# collaborator_name: NOAA Global Monitoring Laboratory [NOAA GML]
+# collaborator_url: https://gml.noaa.gov
+# comment: 
+# comment:  ************ RECIPROCITY AGREEMENT ***************
+# comment: 
+# comment:
+# comment:  ************ DATA DESCRIPTION ***************
+# comment:
+# description_site-code: mlo
+# description_project-abbr: ccg_surface
+# description_strategy-abbr: flask
+# description_analysis-constraints: flag:..%
+# description_creation-time: 2023-09-21 15:03:47
+# comment:
+# comment:  ************ DATA DOCUMENTATION ***************
+# comment:
+# comment: Please refer to the species-specific README file in the
+# comment: appropriate directory folder at https://gml.noaa.gov/aftp/data/trace_gases/.
+# comment:
+# data_fields: site year month value
+MLO 1998  1  -47.034
+MLO 1998  2  -47.022
+MLO 1998  3  -47.034
+MLO 1998  4  -47.043
+MLO 1998  5  -47.033
+MLO 1998  6  -47.012
+MLO 1998  7  -47.015
+MLO 1998  8  -47.065
+MLO 1998  9  -47.146
+MLO 1998 10  -47.233
+MLO 1998 11  -47.267
+MLO 1998 12  -47.237
+MLO 1999  1  -47.162
+MLO 1999  2  -47.089
+MLO 1999  3  -47.044
+MLO 1999  4  -47.013
+MLO 1999  5  -46.993
+MLO 1999  6  -46.987
+MLO 1999  7  -47.012
+MLO 1999  8  -47.079
+MLO 1999  9  -47.164
+MLO 1999 10  -47.242
+MLO 1999 11  -47.258
+MLO 1999 12  -47.198
+MLO 2000  1  -47.111
+MLO 2000  2  -47.064
+MLO 2000  3  -47.066
+MLO 2000  4  -47.094
+MLO 2000  5  -47.105
+MLO 2000  6  -47.098
+MLO 2000  7  -47.099
+MLO 2000  8  -47.128
+MLO 2000  9  -47.173
+MLO 2000 10  -47.194
+MLO 2000 11  -47.172
+MLO 2000 12  -47.121
+MLO 2001  1  -47.078
+MLO 2001  2  -47.063
+MLO 2001  3  -47.062
+MLO 2001  4  -47.061
+MLO 2001  5  -47.055
+MLO 2002  4  -47.017
+MLO 2002  5  -47.028
+MLO 2002  6  -47.035
+MLO 2002  7  -47.053
+MLO 2002  8  -47.106
+MLO 2002  9  -47.177
+MLO 2002 10  -47.215
+MLO 2002 11  -47.199
+MLO 2002 12  -47.151
+MLO 2003  1  -47.123
+MLO 2003  2  -47.130
+MLO 2003  3  -47.140
+MLO 2003  4  -47.125
+MLO 2003  5  -47.080
+MLO 2003  6  -47.042
+MLO 2003  7  -47.040
+MLO 2003  8  -47.074
+MLO 2003  9  -47.118
+MLO 2003 10  -47.140
+MLO 2003 11  -47.133
+MLO 2003 12  -47.115
+MLO 2004  1  -47.103
+MLO 2004  2  -47.102
+MLO 2004  3  -47.098
+MLO 2004  4  -47.065
+MLO 2004  5  -47.000
+MLO 2004  6  -46.943
+MLO 2004  7  -46.926
+MLO 2004  8  -46.974
+MLO 2004  9  -47.045
+MLO 2004 10  -47.105
+MLO 2004 11  -47.124
+MLO 2004 12  -47.111
+MLO 2005  1  -47.088
+MLO 2005  2  -47.066
+MLO 2005  3  -47.049
+MLO 2005  4  -47.043
+MLO 2005  5  -47.057
+MLO 2005  6  -47.084
+MLO 2005  7  -47.123
+MLO 2005  8  -47.165
+MLO 2005  9  -47.204
+MLO 2005 10  -47.226
+MLO 2006  3  -47.124
+MLO 2006  4  -47.078
+MLO 2006  5  -47.030
+MLO 2006  6  -47.011
+MLO 2006  7  -47.042
+MLO 2006  8  -47.091
+MLO 2006  9  -47.130
+MLO 2006 10  -47.145
+MLO 2006 11  -47.154
+MLO 2006 12  -47.169
+MLO 2007  1  -47.176
+MLO 2007  2  -47.164
+MLO 2007  3  -47.128
+MLO 2007  4  -47.075
+MLO 2007  5  -47.020
+MLO 2007  6  -46.974
+MLO 2007  7  -46.980
+MLO 2007  8  -47.058
+MLO 2007  9  -47.168
+MLO 2007 10  -47.238
+MLO 2007 11  -47.242
+MLO 2007 12  -47.187
+MLO 2008  1  -47.131
+MLO 2008  2  -47.091
+MLO 2008  3  -47.059
+MLO 2008  4  -47.005
+MLO 2008  5  -46.907
+MLO 2008  6  -46.821
+MLO 2008  7  -46.822
+MLO 2008  8  -46.940
+MLO 2008  9  -47.115
+MLO 2008 10  -47.220
+MLO 2008 11  -47.194
+MLO 2008 12  -47.103
+MLO 2009  1  -47.041
+MLO 2009  2  -47.066
+MLO 2009  3  -47.120
+MLO 2009  4  -47.137
+MLO 2009  5  -47.097
+MLO 2009  6  -47.050
+MLO 2009  7  -47.057
+MLO 2009  8  -47.119
+MLO 2009  9  -47.192
+MLO 2009 10  -47.251
+MLO 2009 11  -47.270
+MLO 2009 12  -47.259
+MLO 2010  1  -47.241
+MLO 2010  2  -47.222
+MLO 2010  3  -47.191
+MLO 2010  4  -47.132
+MLO 2010  5  -47.071
+MLO 2010  6  -47.047
+MLO 2010  7  -47.073
+MLO 2010  8  -47.134
+MLO 2010  9  -47.198
+MLO 2010 10  -47.259
+MLO 2010 11  -47.294
+MLO 2010 12  -47.301
+MLO 2011  1  -47.291
+MLO 2011  2  -47.273
+MLO 2011  3  -47.238
+MLO 2011  4  -47.178
+MLO 2011  5  -47.125
+MLO 2011  6  -47.118
+MLO 2011  7  -47.164
+MLO 2011  8  -47.236
+MLO 2011  9  -47.296
+MLO 2011 10  -47.333
+MLO 2011 11  -47.351
+MLO 2011 12  -47.360
+MLO 2012  1  -47.348
+MLO 2012  2  -47.315
+MLO 2012  3  -47.261
+MLO 2012  4  -47.205
+MLO 2012  5  -47.164
+MLO 2012  6  -47.145
+MLO 2012  7  -47.168
+MLO 2012  8  -47.237
+MLO 2012  9  -47.310
+MLO 2012 10  -47.336
+MLO 2012 11  -47.312
+MLO 2012 12  -47.269
+MLO 2013  1  -47.244
+MLO 2013  2  -47.227
+MLO 2013  3  -47.191
+MLO 2013  4  -47.138
+MLO 2013  5  -47.099
+MLO 2013  6  -47.107
+MLO 2013  7  -47.164
+MLO 2013  8  -47.262
+MLO 2013  9  -47.353
+MLO 2013 10  -47.389
+MLO 2013 11  -47.363
+MLO 2013 12  -47.299
+MLO 2014  1  -47.247
+MLO 2014  2  -47.224
+MLO 2014  3  -47.213
+MLO 2014  4  -47.196
+MLO 2014  5  -47.170
+MLO 2014  6  -47.161
+MLO 2014  7  -47.184
+MLO 2014  8  -47.244
+MLO 2014  9  -47.311
+MLO 2014 10  -47.355
+MLO 2014 11  -47.366
+MLO 2014 12  -47.355
+MLO 2015  1  -47.339
+MLO 2015  2  -47.324
+MLO 2015  3  -47.300
+MLO 2015  4  -47.262
+MLO 2015  5  -47.216
+MLO 2015  6  -47.196
+MLO 2015  7  -47.225
+MLO 2015  8  -47.286
+MLO 2015  9  -47.339
+MLO 2015 10  -47.371
+MLO 2015 11  -47.371
+MLO 2015 12  -47.353
+MLO 2016  1  -47.331
+MLO 2016  2  -47.314
+MLO 2016  3  -47.301
+MLO 2016  4  -47.276
+MLO 2016  5  -47.237
+MLO 2016  6  -47.205
+MLO 2016  7  -47.211
+MLO 2016  8  -47.276
+MLO 2016  9  -47.371
+MLO 2016 10  -47.432
+MLO 2016 11  -47.433
+MLO 2016 12  -47.401
+MLO 2017  1  -47.375
+MLO 2017  2  -47.369
+MLO 2017  3  -47.364
+MLO 2017  4  -47.341
+MLO 2017  5  -47.303
+MLO 2017  6  -47.260
+MLO 2017  7  -47.251
+MLO 2017  8  -47.296
+MLO 2017  9  -47.391
+MLO 2017 10  -47.478
+MLO 2017 11  -47.509
+MLO 2017 12  -47.490
+MLO 2018  1  -47.447
+MLO 2018  2  -47.413
+MLO 2018  3  -47.385
+MLO 2018  4  -47.364
+MLO 2018  5  -47.350
+MLO 2018  6  -47.343
+MLO 2018  7  -47.348
+MLO 2018  8  -47.367
+MLO 2018  9  -47.396
+MLO 2018 10  -47.428
+MLO 2018 11  -47.461
+MLO 2018 12  -47.481
+MLO 2019  1  -47.477
+MLO 2019  2  -47.450
+MLO 2019  3  -47.393
+MLO 2019  4  -47.324
+MLO 2019  5  -47.279
+MLO 2019  6  -47.306
+MLO 2019  7  -47.412
+MLO 2019  8  -47.581
+MLO 2019  9  -47.712
+MLO 2019 10  -47.735
+MLO 2019 11  -47.661
+MLO 2019 12  -47.552
+MLO 2020  1  -47.470
+MLO 2020  2  -47.417
+MLO 2020  3  -47.373
+MLO 2020  4  -47.328
+MLO 2020  5  -47.305
+MLO 2020  6  -47.331
+MLO 2020  7  -47.399
+MLO 2020  8  -47.477
+MLO 2020  9  -47.542
+MLO 2020 10  -47.603
+MLO 2020 11  -47.634
+MLO 2020 12  -47.630
+MLO 2021  1  -47.608
+MLO 2021  2  -47.593
+MLO 2021  3  -47.586
+MLO 2021  4  -47.559
+MLO 2021  5  -47.513
+MLO 2021  6  -47.487
+MLO 2021  7  -47.511
+MLO 2021  8  -47.582
+MLO 2021  9  -47.651
+MLO 2021 10  -47.697
+MLO 2021 11  -47.709
+MLO 2021 12  -47.704
+MLO 2022  1  -47.695
+MLO 2022  2  -47.680
+MLO 2022  3  -47.658
+MLO 2022  4  -47.626
+MLO 2022  5  -47.597
+MLO 2022  6  -47.583
+MLO 2022  7  -47.597
+MLO 2022  8  -47.651
+MLO 2022  9  -47.744
+MLO 2022 10  -47.837
+MLO 2022 11  -47.880
+MLO 2022 12  -47.865

@@ -1,0 +1,421 @@
+# number_of_header_lines: 70
+# comment:  
+# comment:  ************ USE OF GML DATA ****************
+# comment:  
+# comment: These data are made freely available to the public and the
+# comment: scientific community in the belief that their wide dissemination
+# comment: will lead to greater understanding and new scientific insights.
+# comment: The availability of these data does not constitute publication
+# comment: of the data.  NOAA relies on the ethics and integrity of the user to
+# comment: ensure that GML receives fair credit for their work.  If the data 
+# comment: are obtained for potential use in a publication or presentation, 
+# comment: GML should be informed at the outset of the nature of this work.  
+# comment: If the GML data are essential to the work, or if an important 
+# comment: result or conclusion depends on the GML data, co-authorship
+# comment: may be appropriate.  This should be discussed at an early stage in
+# comment: the work.  Manuscripts using the GML data should be sent to GML
+# comment: for review before they are submitted for publication so we can
+# comment: ensure that the quality and limitations of the data are accurately
+# comment: represented.
+# comment: Please see accompanying README file, if available, for citation text.
+# comment:  
+# comment: Every effort is made to produce the most accurate and precise
+# comment: measurements possible.  However, we reserve the right to make
+# comment: corrections to the data based on recalibration of standard gases
+# comment: or for other reasons deemed scientifically justified.
+# comment: 
+# comment: We are not responsible for results and conclusions based on use
+# comment: of these data without regard to this warning.
+# comment: 
+# contact_parameter: CO CCGG (Individual Flasks)
+# contact_name: Gabrielle Petron
+# contact_telephone: (720) 295-0145
+# contact_email: Gabrielle.Petron@noaa.gov
+# comment: 
+# comment:  ************ COLLABORATORS ***************
+# comment: 
+# comment: NOAA thanks the following collaborators without
+# comment: whom these measurements would not be possible.
+# comment: 
+# collaborator_name: Icelandic Meteorological Office [IMO]
+# collaborator_url: http://www.vedur.is/
+# comment: 
+# comment:  ************ RECIPROCITY AGREEMENT ***************
+# comment: 
+# comment: Use of these data implies an agreement to reciprocate.
+# comment: Laboratories making similar measurements agree to make their
+# comment: own data available to the general public and to the scientific
+# comment: community in an equally complete and easily accessible form.
+# comment: Modelers are encouraged to make available to the community,
+# comment: upon request, their own tools used in the interpretation
+# comment: of the GML data, namely well documented model code, transport
+# comment: fields, modeled mole fractions, and additional information 
+# comment: necessary for other scientists to repeat the work and to run 
+# comment: modified versions. Model availability includes collaborative 
+# comment: support for new users of the models.
+# comment:
+# comment:  ************ DATA DESCRIPTION ***************
+# comment:
+# description_site-code: ice
+# description_project-abbr: ccg_surface
+# description_strategy-abbr: flask
+# description_analysis-constraints: flag:..%
+# description_creation-time: 2022-07-28 12:39:19
+# comment:
+# comment:  ************ DATA DOCUMENTATION ***************
+# comment:
+# comment: Please refer to the species-specific README file in the
+# comment: appropriate directory folder at https://gml.noaa.gov/aftp/data/trace_gases/.
+# comment:
+# data_fields: site year month value
+ICE 1992 10   122.78
+ICE 1992 11   131.40
+ICE 1992 12   149.00
+ICE 1993  1   166.12
+ICE 1993  2   172.45
+ICE 1993  3   171.87
+ICE 1993  4   167.08
+ICE 1993  5   147.46
+ICE 1993  6   116.38
+ICE 1993  7    93.53
+ICE 1993  8    97.83
+ICE 1993  9   110.54
+ICE 1993 10   121.73
+ICE 1993 11   141.04
+ICE 1993 12   164.34
+ICE 1994  1   171.76
+ICE 1994  2   172.05
+ICE 1994  3   178.10
+ICE 1994  4   175.63
+ICE 1994  5   149.67
+ICE 1994  6   118.43
+ICE 1994  7   102.37
+ICE 1994  8   112.47
+ICE 1994  9   128.25
+ICE 1994 10   135.83
+ICE 1994 11   140.31
+ICE 1994 12   147.15
+ICE 1995  1   159.55
+ICE 1995  2   174.24
+ICE 1995  3   181.60
+ICE 1995  4   173.54
+ICE 1995  5   152.59
+ICE 1995  6   119.91
+ICE 1995  7    99.20
+ICE 1995  8    99.45
+ICE 1995  9   105.04
+ICE 1995 10   111.52
+ICE 1995 11   124.86
+ICE 1995 12   143.86
+ICE 1996  1   156.15
+ICE 1996  2   159.88
+ICE 1996  3   161.46
+ICE 1996  4   159.38
+ICE 1996  5   143.03
+ICE 1996  6   116.17
+ICE 1996  7   102.58
+ICE 1996  8   105.88
+ICE 1996  9   113.36
+ICE 1996 10   123.53
+ICE 1996 11   138.18
+ICE 1996 12   143.69
+ICE 1997  1   152.03
+ICE 1997  2   170.82
+ICE 1997  3   176.64
+ICE 1997  4   165.54
+ICE 1997  5   142.53
+ICE 1997  6   113.19
+ICE 1997  7    91.90
+ICE 1997  8    87.85
+ICE 1997  9    97.73
+ICE 1997 10   109.97
+ICE 1997 11   125.28
+ICE 1997 12   144.56
+ICE 1998  1   164.57
+ICE 1998  2   173.74
+ICE 1998  3   175.05
+ICE 1998  4   171.96
+ICE 1998  5   152.29
+ICE 1998  6   119.92
+ICE 1998  7   107.49
+ICE 1998  8   126.32
+ICE 1998  9   147.63
+ICE 1998 10   156.59
+ICE 1998 11   160.74
+ICE 1998 12   169.19
+ICE 1999  1   178.70
+ICE 1999  2   182.33
+ICE 1999  3   181.77
+ICE 1999  4   172.89
+ICE 1999  5   146.37
+ICE 1999  6   115.09
+ICE 1999  7    94.24
+ICE 1999  8    90.94
+ICE 1999  9    94.30
+ICE 1999 10   103.87
+ICE 1999 11   122.20
+ICE 1999 12   139.27
+ICE 2000  1   147.70
+ICE 2000  2   153.53
+ICE 2000  3   158.75
+ICE 2000  4   153.80
+ICE 2000  5   134.76
+ICE 2000  6   103.30
+ICE 2000  7    84.61
+ICE 2000  8    87.89
+ICE 2000  9    96.49
+ICE 2000 10   103.40
+ICE 2000 11   112.84
+ICE 2000 12   124.44
+ICE 2001  1   137.25
+ICE 2001  2   151.85
+ICE 2001  3   161.91
+ICE 2001  4   156.42
+ICE 2001  5   138.44
+ICE 2001  6   109.92
+ICE 2001  7    88.20
+ICE 2001  8    89.29
+ICE 2001  9   102.05
+ICE 2001 10   112.30
+ICE 2001 11   126.77
+ICE 2001 12   142.35
+ICE 2002  1   150.58
+ICE 2002  2   155.68
+ICE 2002  3   157.26
+ICE 2002  4   150.42
+ICE 2002  5   133.02
+ICE 2002  6   107.10
+ICE 2002  7    91.82
+ICE 2002  8   103.44
+ICE 2002  9   131.84
+ICE 2002 10   147.57
+ICE 2002 11   148.40
+ICE 2002 12   149.65
+ICE 2003  1   159.47
+ICE 2003  2   165.54
+ICE 2003  3   166.00
+ICE 2003  4   166.52
+ICE 2003  5   156.35
+ICE 2003  6   130.91
+ICE 2003  7   114.77
+ICE 2003  8   116.61
+ICE 2003  9   123.06
+ICE 2003 10   130.11
+ICE 2003 11   142.58
+ICE 2003 12   150.51
+ICE 2004  1   152.37
+ICE 2004  2   155.35
+ICE 2004  3   160.44
+ICE 2004  4   158.19
+ICE 2004  5   136.42
+ICE 2004  6   108.09
+ICE 2004  7    94.67
+ICE 2004  8   102.44
+ICE 2004  9   109.34
+ICE 2004 10   112.41
+ICE 2004 11   122.19
+ICE 2004 12   136.17
+ICE 2005  1   141.91
+ICE 2005  2   143.27
+ICE 2005  3   150.82
+ICE 2005  4   156.33
+ICE 2005  5   139.00
+ICE 2005  6   110.14
+ICE 2005  7    93.08
+ICE 2005  8    97.54
+ICE 2005  9   104.42
+ICE 2005 10   109.93
+ICE 2005 11   120.70
+ICE 2005 12   131.35
+ICE 2006  1   137.58
+ICE 2006  2   147.19
+ICE 2006  3   158.34
+ICE 2006  4   156.88
+ICE 2006  5   140.04
+ICE 2006  6   110.94
+ICE 2006  7    91.31
+ICE 2006  8    92.10
+ICE 2006  9    99.39
+ICE 2006 10   106.13
+ICE 2006 11   118.59
+ICE 2006 12   134.71
+ICE 2007  1   144.39
+ICE 2007  2   151.63
+ICE 2007  3   158.74
+ICE 2007  4   154.83
+ICE 2007  5   137.70
+ICE 2007  6   110.01
+ICE 2007  7    87.83
+ICE 2007  8    84.43
+ICE 2007  9    95.30
+ICE 2007 10   107.85
+ICE 2007 11   119.73
+ICE 2007 12   131.61
+ICE 2008  1   144.31
+ICE 2008  2   156.25
+ICE 2008  3   160.00
+ICE 2008  4   155.22
+ICE 2008  5   137.53
+ICE 2008  6   109.80
+ICE 2008  7    92.28
+ICE 2008  8    90.15
+ICE 2008  9    93.74
+ICE 2008 10    98.75
+ICE 2008 11   110.62
+ICE 2008 12   122.88
+ICE 2009  1   131.91
+ICE 2009  2   140.48
+ICE 2009  3   147.81
+ICE 2009  4   146.10
+ICE 2009  5   127.92
+ICE 2009  6   101.70
+ICE 2009  7    85.92
+ICE 2009  8    88.16
+ICE 2009  9    95.44
+ICE 2009 10   103.66
+ICE 2009 11   118.26
+ICE 2009 12   131.02
+ICE 2010  1   138.40
+ICE 2010  2   145.82
+ICE 2010  3   152.50
+ICE 2010  4   150.52
+ICE 2010  5   133.02
+ICE 2010  6   108.93
+ICE 2010  7    94.51
+ICE 2010  8   100.96
+ICE 2010  9   109.31
+ICE 2010 10   112.67
+ICE 2010 11   119.96
+ICE 2010 12   129.37
+ICE 2011  1   134.60
+ICE 2011  2   140.24
+ICE 2011  3   147.52
+ICE 2011  4   147.27
+ICE 2011  5   129.04
+ICE 2011  6   102.82
+ICE 2011  7    85.02
+ICE 2011  8    84.53
+ICE 2011  9    90.73
+ICE 2011 10   104.31
+ICE 2011 11   120.76
+ICE 2011 12   128.22
+ICE 2012  1   128.30
+ICE 2012  2   133.63
+ICE 2012  3   142.08
+ICE 2012  4   142.63
+ICE 2012  5   128.08
+ICE 2012  6   101.29
+ICE 2012  7    94.54
+ICE 2012  8   115.72
+ICE 2012  9   126.45
+ICE 2012 10   119.81
+ICE 2012 11   121.28
+ICE 2012 12   131.79
+ICE 2013  1   137.89
+ICE 2013  2   144.48
+ICE 2013  3   151.71
+ICE 2013  4   146.13
+ICE 2013  5   123.76
+ICE 2013  6   101.01
+ICE 2013  7    94.41
+ICE 2013  8    98.28
+ICE 2013  9   100.82
+ICE 2013 10   101.88
+ICE 2013 11   109.27
+ICE 2013 12   123.45
+ICE 2014  1   137.74
+ICE 2014  2   144.80
+ICE 2014  3   144.49
+ICE 2014  4   139.77
+ICE 2014  5   123.00
+ICE 2014  6    98.68
+ICE 2014  7    92.51
+ICE 2014  8   107.33
+ICE 2014  9   116.59
+ICE 2014 10   114.83
+ICE 2014 11   119.70
+ICE 2014 12   127.23
+ICE 2015  1   132.49
+ICE 2015  2   138.81
+ICE 2015  3   143.91
+ICE 2015  4   142.42
+ICE 2015  5   126.63
+ICE 2015  6   101.81
+ICE 2015  7    93.46
+ICE 2015  8   104.95
+ICE 2015  9   110.29
+ICE 2015 10   108.93
+ICE 2015 11   116.52
+ICE 2015 12   127.51
+ICE 2016  1   136.28
+ICE 2016  2   142.18
+ICE 2016  3   143.51
+ICE 2016  4   138.16
+ICE 2016  5   122.09
+ICE 2016  6   100.51
+ICE 2016  7    86.12
+ICE 2016  8    88.59
+ICE 2016  9    96.49
+ICE 2016 10   105.13
+ICE 2016 11   114.59
+ICE 2016 12   121.43
+ICE 2017  1   125.63
+ICE 2017  2   131.15
+ICE 2017  3   134.61
+ICE 2017  4   130.11
+ICE 2017  5   115.58
+ICE 2017  6    91.26
+ICE 2017  7    80.72
+ICE 2017  8    91.94
+ICE 2017  9   106.67
+ICE 2017 10   113.26
+ICE 2017 11   118.52
+ICE 2017 12   124.86
+ICE 2018  1   131.76
+ICE 2018  2   140.35
+ICE 2018  3   145.25
+ICE 2018  4   138.27
+ICE 2018  5   120.89
+ICE 2018  6    94.55
+ICE 2018  7    81.13
+ICE 2018  8    94.44
+ICE 2018  9   110.67
+ICE 2018 10   112.37
+ICE 2018 11   110.98
+ICE 2018 12   115.29
+ICE 2019  1   122.65
+ICE 2019  2   131.01
+ICE 2019  3   138.66
+ICE 2019  4   136.52
+ICE 2019  5   114.86
+ICE 2019  6    90.95
+ICE 2019  7    92.39
+ICE 2019  8   111.72
+ICE 2019  9   117.17
+ICE 2019 10   109.24
+ICE 2019 11   109.43
+ICE 2019 12   117.49
+ICE 2020  1   123.08
+ICE 2020  2   129.62
+ICE 2020  3   134.72
+ICE 2020  4   132.22
+ICE 2020  5   115.93
+ICE 2020  6    92.60
+ICE 2020  7    83.28
+ICE 2020  8    94.29
+ICE 2020  9   109.12
+ICE 2020 10   120.60
+ICE 2020 11   126.17
+ICE 2020 12   127.16
+ICE 2021  1   129.47
+ICE 2021  2   134.48
+ICE 2021  3   136.72
+ICE 2021  4   132.46
+ICE 2021  5   115.70
+ICE 2021  6    93.76
+ICE 2021  7    93.60
+ICE 2021  8   125.33
+ICE 2021  9   145.26
+ICE 2021 10   137.95
+ICE 2021 11   127.39
+ICE 2021 12   131.81

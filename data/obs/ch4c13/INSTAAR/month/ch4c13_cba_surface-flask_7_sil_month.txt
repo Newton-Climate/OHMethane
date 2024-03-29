@@ -1,0 +1,218 @@
+# number_of_header_lines: 54
+# comment:  
+# comment:  ************ USE OF GML DATA ****************
+# comment:  
+# comment: These data are made freely available to the public and the scientific
+# comment: community in the belief that their wide dissemination will lead to
+# comment: greater understanding and new scientific insights. To ensure that GML
+# comment: receives fair credit for their work please include relevant citation
+# comment: text in publications. We encourage users to contact the data providers,
+# comment: who can provide detailed information about the measurements and
+# comment: scientific insight.  In cases where the data are central to a
+# comment: publication, coauthorship for data providers may be appropriate.
+# comment: 
+# comment: 
+# comment: Please see accompanying README file, if available, for citation text.
+# comment:  
+# comment: Every effort is made to produce the most accurate and precise
+# comment: measurements possible.  However, we reserve the right to make
+# comment: corrections to the data based on recalibration of standard gases
+# comment: or for other reasons deemed scientifically justified.
+# comment: 
+# comment: We are not responsible for results and conclusions based on use
+# comment: of these data without regard to this warning.
+# comment: 
+# contact_parameter: CH4C13 SIL (Individual Flasks)
+# contact_name: Sylvia Englund Michel
+# contact_telephone: (303) 492-5495
+# contact_email: Sylvia.Englund@colorado.edu
+# comment: 
+# comment:  ************ COLLABORATORS ***************
+# comment: 
+# comment: NOAA thanks the following collaborators without
+# comment: whom these measurements would not be possible.
+# comment: 
+# collaborator_name: U.S. National Weather Service [NWS]
+# collaborator_url: www.nws.noaa.gov
+# comment: 
+# comment:  ************ RECIPROCITY AGREEMENT ***************
+# comment: 
+# comment:
+# comment:  ************ DATA DESCRIPTION ***************
+# comment:
+# description_site-code: cba
+# description_project-abbr: ccg_surface
+# description_strategy-abbr: flask
+# description_analysis-constraints: flag:..%
+# description_creation-time: 2023-09-21 15:03:41
+# comment:
+# comment:  ************ DATA DOCUMENTATION ***************
+# comment:
+# comment: Please refer to the species-specific README file in the
+# comment: appropriate directory folder at https://gml.noaa.gov/aftp/data/trace_gases/.
+# comment:
+# data_fields: site year month value
+CBA 2008 10  -47.716
+CBA 2008 11  -47.649
+CBA 2008 12  -47.537
+CBA 2009  1  -47.440
+CBA 2009  2  -47.408
+CBA 2009  3  -47.414
+CBA 2009  4  -47.399
+CBA 2009  5  -47.334
+CBA 2009  6  -47.290
+CBA 2009  7  -47.373
+CBA 2009  8  -47.568
+CBA 2009  9  -47.725
+CBA 2009 10  -47.753
+CBA 2009 11  -47.635
+CBA 2009 12  -47.502
+CBA 2010  1  -47.427
+CBA 2010  2  -47.431
+CBA 2010  3  -47.444
+CBA 2010  4  -47.400
+CBA 2010  5  -47.312
+CBA 2010  6  -47.272
+CBA 2010  7  -47.354
+CBA 2010  8  -47.538
+CBA 2010  9  -47.685
+CBA 2010 10  -47.720
+CBA 2010 11  -47.632
+CBA 2010 12  -47.518
+CBA 2011  1  -47.462
+CBA 2011  2  -47.460
+CBA 2011  3  -47.453
+CBA 2011  4  -47.391
+CBA 2011  5  -47.301
+CBA 2011  6  -47.275
+CBA 2011  7  -47.380
+CBA 2011  8  -47.580
+CBA 2011  9  -47.751
+CBA 2011 10  -47.803
+CBA 2011 11  -47.755
+CBA 2011 12  -47.662
+CBA 2012  1  -47.582
+CBA 2012  2  -47.533
+CBA 2012  3  -47.485
+CBA 2012  4  -47.426
+CBA 2012  5  -47.370
+CBA 2012  6  -47.359
+CBA 2012  7  -47.453
+CBA 2012  8  -47.638
+CBA 2012  9  -47.804
+CBA 2012 10  -47.855
+CBA 2012 11  -47.797
+CBA 2013  7  -47.344
+CBA 2013  8  -47.557
+CBA 2013  9  -47.743
+CBA 2013 10  -47.780
+CBA 2013 11  -47.682
+CBA 2013 12  -47.545
+CBA 2014  1  -47.458
+CBA 2014  2  -47.423
+CBA 2014  3  -47.403
+CBA 2014  4  -47.376
+CBA 2014  5  -47.360
+CBA 2014  6  -47.400
+CBA 2014  7  -47.507
+CBA 2014  8  -47.674
+CBA 2014  9  -47.798
+CBA 2014 10  -47.793
+CBA 2014 11  -47.681
+CBA 2014 12  -47.566
+CBA 2015  1  -47.502
+CBA 2015  2  -47.499
+CBA 2015  3  -47.495
+CBA 2015  4  -47.454
+CBA 2015  5  -47.394
+CBA 2015  6  -47.402
+CBA 2015  7  -47.530
+CBA 2015  8  -47.704
+CBA 2015  9  -47.799
+CBA 2015 10  -47.784
+CBA 2015 11  -47.695
+CBA 2015 12  -47.623
+CBA 2016  1  -47.586
+CBA 2016  2  -47.572
+CBA 2016  3  -47.553
+CBA 2016  4  -47.511
+CBA 2016  5  -47.466
+CBA 2016  6  -47.459
+CBA 2016  7  -47.531
+CBA 2016  8  -47.678
+CBA 2016  9  -47.821
+CBA 2016 10  -47.868
+CBA 2016 11  -47.809
+CBA 2016 12  -47.701
+CBA 2017  1  -47.638
+CBA 2017  2  -47.639
+CBA 2017  3  -47.643
+CBA 2017  4  -47.583
+CBA 2017  5  -47.488
+CBA 2017  6  -47.452
+CBA 2017  7  -47.571
+CBA 2017  8  -47.774
+CBA 2017  9  -47.948
+CBA 2017 10  -47.956
+CBA 2017 11  -47.843
+CBA 2017 12  -47.703
+CBA 2018  1  -47.626
+CBA 2018  2  -47.612
+CBA 2018  3  -47.605
+CBA 2018  4  -47.577
+CBA 2018  5  -47.534
+CBA 2018  6  -47.511
+CBA 2018  7  -47.567
+CBA 2018  8  -47.718
+CBA 2018  9  -47.888
+CBA 2018 10  -47.968
+CBA 2018 11  -47.931
+CBA 2018 12  -47.812
+CBA 2019  1  -47.703
+CBA 2019  2  -47.632
+CBA 2019  3  -47.589
+CBA 2019  4  -47.541
+CBA 2019  5  -47.482
+CBA 2019  6  -47.482
+CBA 2019  7  -47.608
+CBA 2019  8  -47.869
+CBA 2019  9  -48.100
+CBA 2019 10  -48.143
+CBA 2019 11  -48.007
+CBA 2019 12  -47.826
+CBA 2020  1  -47.739
+CBA 2020  2  -47.738
+CBA 2020  3  -47.734
+CBA 2020  4  -47.676
+CBA 2020  5  -47.588
+CBA 2020  6  -47.591
+CBA 2020  7  -47.766
+CBA 2020  8  -48.024
+CBA 2020  9  -48.181
+CBA 2020 10  -48.170
+CBA 2020 11  -48.022
+CBA 2020 12  -47.883
+CBA 2021  1  -47.807
+CBA 2021  2  -47.797
+CBA 2021  3  -47.794
+CBA 2021  4  -47.755
+CBA 2021  5  -47.700
+CBA 2021  6  -47.696
+CBA 2021  7  -47.797
+CBA 2021  8  -47.980
+CBA 2021  9  -48.130
+CBA 2021 10  -48.181
+CBA 2021 11  -48.099
+CBA 2021 12  -47.954
+CBA 2022  1  -47.852
+CBA 2022  2  -47.834
+CBA 2022  3  -47.845
+CBA 2022  4  -47.832
+CBA 2022  5  -47.797
+CBA 2022  6  -47.808
+CBA 2022  7  -47.913
+CBA 2022  8  -48.058
+CBA 2022  9  -48.145
+CBA 2022 10  -48.147
+CBA 2022 11  -48.108
+CBA 2022 12  -48.069

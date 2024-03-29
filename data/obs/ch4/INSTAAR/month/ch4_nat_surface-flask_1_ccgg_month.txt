@@ -1,0 +1,163 @@
+# number_of_header_lines: 55
+# comment:  
+# comment:  ************ USE OF GML DATA ****************
+# comment:  
+# comment: These data are made freely available to the public and the scientific
+# comment: community in the belief that their wide dissemination will lead to
+# comment: greater understanding and new scientific insights. To ensure that GML
+# comment: receives fair credit for their work please include relevant citation
+# comment: text in publications. We encourage users to contact the data providers,
+# comment: who can provide detailed information about the measurements and
+# comment: scientific insight.  In cases where the data are central to a
+# comment: publication, coauthorship for data providers may be appropriate.
+# comment: 
+# comment: 
+# comment: Please see accompanying README file, if available, for citation text.
+# comment:  
+# comment: Every effort is made to produce the most accurate and precise
+# comment: measurements possible.  However, we reserve the right to make
+# comment: corrections to the data based on recalibration of standard gases
+# comment: or for other reasons deemed scientifically justified.
+# comment: 
+# comment: We are not responsible for results and conclusions based on use
+# comment: of these data without regard to this warning.
+# comment: 
+# contact_parameter: CH4 CCGG (Individual Flasks)
+# contact_name: Xin Lan
+# contact_telephone: (999) 999-9999
+# contact_email: xin.lan@noaa.gov
+# comment: 
+# comment:  ************ COLLABORATORS ***************
+# comment: 
+# comment: NOAA thanks the following collaborators without
+# comment: whom these measurements would not be possible.
+# comment: 
+# collaborator_name: Instituto de Pesquisas Energéticas e Nucleares,
+# collaborator_name: Il Centro de Química e Meio Ambiente, Divisao
+# collaborator_name: de Quimica Ambiental [IPEN-CQMA]
+# comment: 
+# comment:  ************ RECIPROCITY AGREEMENT ***************
+# comment: 
+# comment:
+# comment:  ************ DATA DESCRIPTION ***************
+# comment:
+# description_site-code: nat
+# description_project-abbr: ccg_surface
+# description_strategy-abbr: flask
+# description_analysis-constraints: flag:..%
+# description_creation-time: 2023-08-28 15:10:11
+# comment:
+# comment:  ************ DATA DOCUMENTATION ***************
+# comment:
+# comment: Please refer to the species-specific README file in the
+# comment: appropriate directory folder at https://gml.noaa.gov/aftp/data/trace_gases/.
+# comment:
+# data_fields: site year month value
+NAT 2010  9  1773.09
+NAT 2010 10  1770.47
+NAT 2010 11  1771.02
+NAT 2010 12  1772.87
+NAT 2011  1  1769.46
+NAT 2011  2  1769.31
+NAT 2011  3  1774.72
+NAT 2011  4  1778.76
+NAT 2011  5  1783.11
+NAT 2011  6  1782.68
+NAT 2011  7  1783.96
+NAT 2011  8  1786.67
+NAT 2011  9  1780.69
+NAT 2011 10  1773.89
+NAT 2011 11  1771.37
+NAT 2011 12  1774.62
+NAT 2012  1  1774.32
+NAT 2012  2  1767.62
+NAT 2012  3  1772.55
+NAT 2012  4  1784.91
+NAT 2012  5  1785.59
+NAT 2012  6  1784.44
+NAT 2012  7  1784.22
+NAT 2012  8  1780.32
+NAT 2012  9  1780.51
+NAT 2012 10  1778.26
+NAT 2012 11  1782.49
+NAT 2012 12  1785.65
+NAT 2013  1  1776.25
+NAT 2013  2  1773.79
+NAT 2013  3  1779.00
+NAT 2013  4  1783.29
+NAT 2013  5  1784.81
+NAT 2013  6  1790.63
+NAT 2013  7  1798.11
+NAT 2013  8  1797.39
+NAT 2013  9  1788.07
+NAT 2013 10  1783.72
+NAT 2013 11  1791.41
+NAT 2013 12  1792.07
+NAT 2014  1  1786.75
+NAT 2014  2  1786.48
+NAT 2014  3  1782.37
+NAT 2014  4  1782.98
+NAT 2014  5  1790.99
+NAT 2014  6  1798.10
+NAT 2014  7  1796.72
+NAT 2014  8  1798.35
+NAT 2014  9  1799.30
+NAT 2014 10  1794.97
+NAT 2014 11  1801.50
+NAT 2014 12  1803.20
+NAT 2015  1  1788.57
+NAT 2015  2  1783.58
+NAT 2015  3  1791.19
+NAT 2015  4  1804.31
+NAT 2015  5  1810.74
+NAT 2015  6  1800.40
+NAT 2015  7  1798.03
+NAT 2015 12  1807.36
+NAT 2016  1  1808.11
+NAT 2016  2  1811.49
+NAT 2016  3  1806.26
+NAT 2016  4  1805.75
+NAT 2016  5  1812.21
+NAT 2016  6  1817.79
+NAT 2016  7  1817.70
+NAT 2016  8  1814.70
+NAT 2016  9  1813.18
+NAT 2016 10  1813.01
+NAT 2016 11  1818.32
+NAT 2016 12  1817.68
+NAT 2017  1  1810.57
+NAT 2017  2  1813.50
+NAT 2017  3  1819.04
+NAT 2017  4  1813.97
+NAT 2017  5  1813.90
+NAT 2017  6  1821.76
+NAT 2017  7  1824.97
+NAT 2017  8  1825.90
+NAT 2017  9  1820.67
+NAT 2017 10  1821.16
+NAT 2017 11  1832.93
+NAT 2017 12  1830.14
+NAT 2018  1  1814.83
+NAT 2018  2  1818.89
+NAT 2018  6  1833.79
+NAT 2018  7  1836.88
+NAT 2018  8  1835.20
+NAT 2018  9  1833.08
+NAT 2018 10  1831.44
+NAT 2018 11  1824.67
+NAT 2018 12  1822.08
+NAT 2019  1  1828.76
+NAT 2019  2  1840.88
+NAT 2019  3  1853.86
+NAT 2019  4  1853.38
+NAT 2019  5  1847.96
+NAT 2019  6  1841.94
+NAT 2019  7  1839.94
+NAT 2019  8  1848.13
+NAT 2019  9  1849.34
+NAT 2019 10  1837.75
+NAT 2019 11  1832.26
+NAT 2019 12  1833.62
+NAT 2020  1  1835.65
+NAT 2020  2  1839.42
+NAT 2020  3  1843.62

@@ -1,0 +1,309 @@
+# number_of_header_lines: 70
+# comment:  
+# comment:  ************ USE OF GML DATA ****************
+# comment:  
+# comment: These data are made freely available to the public and the
+# comment: scientific community in the belief that their wide dissemination
+# comment: will lead to greater understanding and new scientific insights.
+# comment: The availability of these data does not constitute publication
+# comment: of the data.  NOAA relies on the ethics and integrity of the user to
+# comment: ensure that GML receives fair credit for their work.  If the data 
+# comment: are obtained for potential use in a publication or presentation, 
+# comment: GML should be informed at the outset of the nature of this work.  
+# comment: If the GML data are essential to the work, or if an important 
+# comment: result or conclusion depends on the GML data, co-authorship
+# comment: may be appropriate.  This should be discussed at an early stage in
+# comment: the work.  Manuscripts using the GML data should be sent to GML
+# comment: for review before they are submitted for publication so we can
+# comment: ensure that the quality and limitations of the data are accurately
+# comment: represented.
+# comment: Please see accompanying README file, if available, for citation text.
+# comment:  
+# comment: Every effort is made to produce the most accurate and precise
+# comment: measurements possible.  However, we reserve the right to make
+# comment: corrections to the data based on recalibration of standard gases
+# comment: or for other reasons deemed scientifically justified.
+# comment: 
+# comment: We are not responsible for results and conclusions based on use
+# comment: of these data without regard to this warning.
+# comment: 
+# contact_parameter: CO CCGG (Individual Flasks)
+# contact_name: Gabrielle Petron
+# contact_telephone: (720) 295-0145
+# contact_email: Gabrielle.Petron@noaa.gov
+# comment: 
+# comment:  ************ COLLABORATORS ***************
+# comment: 
+# comment: NOAA thanks the following collaborators without
+# comment: whom these measurements would not be possible.
+# comment: 
+# collaborator_name: Finnish Meteorological Institute  [FMI]
+# collaborator_url: www.fmi.fi/en/
+# comment: 
+# comment:  ************ RECIPROCITY AGREEMENT ***************
+# comment: 
+# comment: Use of these data implies an agreement to reciprocate.
+# comment: Laboratories making similar measurements agree to make their
+# comment: own data available to the general public and to the scientific
+# comment: community in an equally complete and easily accessible form.
+# comment: Modelers are encouraged to make available to the community,
+# comment: upon request, their own tools used in the interpretation
+# comment: of the GML data, namely well documented model code, transport
+# comment: fields, modeled mole fractions, and additional information 
+# comment: necessary for other scientists to repeat the work and to run 
+# comment: modified versions. Model availability includes collaborative 
+# comment: support for new users of the models.
+# comment:
+# comment:  ************ DATA DESCRIPTION ***************
+# comment:
+# description_site-code: pal
+# description_project-abbr: ccg_surface
+# description_strategy-abbr: flask
+# description_analysis-constraints: flag:..%
+# description_creation-time: 2022-07-28 12:39:43
+# comment:
+# comment:  ************ DATA DOCUMENTATION ***************
+# comment:
+# comment: Please refer to the species-specific README file in the
+# comment: appropriate directory folder at https://gml.noaa.gov/aftp/data/trace_gases/.
+# comment:
+# data_fields: site year month value
+PAL 2001 12   145.51
+PAL 2002  1   149.60
+PAL 2002  2   158.92
+PAL 2002  3   166.15
+PAL 2002  4   159.36
+PAL 2002  5   136.71
+PAL 2002  6   110.99
+PAL 2002  7   107.59
+PAL 2002  8   123.59
+PAL 2002  9   131.79
+PAL 2002 10   137.50
+PAL 2002 11   155.35
+PAL 2002 12   164.21
+PAL 2003  1   165.12
+PAL 2003  2   176.04
+PAL 2003  3   184.09
+PAL 2003  4   179.84
+PAL 2003  5   158.29
+PAL 2003  6   127.30
+PAL 2003  7   113.60
+PAL 2003  8   121.06
+PAL 2003  9   133.22
+PAL 2003 10   149.23
+PAL 2003 11   167.79
+PAL 2003 12   175.70
+PAL 2004  1   182.68
+PAL 2004  2   192.56
+PAL 2004  3   191.42
+PAL 2004  4   174.87
+PAL 2004  5   145.67
+PAL 2004  6   114.17
+PAL 2004  7   100.04
+PAL 2004  8   110.79
+PAL 2004  9   116.13
+PAL 2004 10   117.49
+PAL 2004 11   132.43
+PAL 2004 12   147.38
+PAL 2005  1   152.48
+PAL 2005  2   158.17
+PAL 2005  3   165.50
+PAL 2005  4   164.92
+PAL 2005  5   145.19
+PAL 2005  6   114.93
+PAL 2005  7    97.48
+PAL 2005  8   103.66
+PAL 2005  9   106.02
+PAL 2005 10   111.32
+PAL 2005 11   134.89
+PAL 2005 12   154.60
+PAL 2006  1   155.19
+PAL 2006  2   160.91
+PAL 2006  3   172.76
+PAL 2006  4   169.59
+PAL 2006  5   149.47
+PAL 2006  6   116.76
+PAL 2006  7    97.61
+PAL 2006  8   100.60
+PAL 2006  9   103.41
+PAL 2006 10   108.23
+PAL 2006 11   126.39
+PAL 2006 12   143.45
+PAL 2007  1   151.44
+PAL 2007  2   158.87
+PAL 2007  3   161.19
+PAL 2007  4   155.50
+PAL 2007  5   141.04
+PAL 2007  6   112.08
+PAL 2007  7    92.50
+PAL 2007  8    93.39
+PAL 2007  9    96.73
+PAL 2007 10   105.27
+PAL 2007 11   127.95
+PAL 2007 12   145.89
+PAL 2008  1   153.99
+PAL 2008  2   166.83
+PAL 2008  3   174.38
+PAL 2008  4   165.52
+PAL 2008  5   141.17
+PAL 2008  6   110.30
+PAL 2008  7    94.24
+PAL 2008  8    95.70
+PAL 2008  9    95.55
+PAL 2008 10    99.34
+PAL 2008 11   119.88
+PAL 2008 12   135.05
+PAL 2009  1   147.52
+PAL 2009  2   163.58
+PAL 2009  3   164.06
+PAL 2009  4   150.36
+PAL 2009  5   130.54
+PAL 2009  6   104.88
+PAL 2009  7    90.42
+PAL 2009  8    95.82
+PAL 2009  9   100.78
+PAL 2009 10   107.52
+PAL 2009 11   123.87
+PAL 2009 12   136.93
+PAL 2010  1   148.83
+PAL 2010  2   161.41
+PAL 2010  3   165.48
+PAL 2010  4   158.13
+PAL 2010  5   136.44
+PAL 2010  6   108.38
+PAL 2010  7    94.91
+PAL 2010  8   106.43
+PAL 2010  9   115.23
+PAL 2010 10   116.59
+PAL 2010 11   125.32
+PAL 2010 12   141.75
+PAL 2011  1   157.21
+PAL 2011  2   163.78
+PAL 2011  3   159.47
+PAL 2011  4   148.52
+PAL 2011  5   131.47
+PAL 2011  6   106.32
+PAL 2011  7    90.00
+PAL 2011  8    98.71
+PAL 2011  9   104.69
+PAL 2011 10   103.38
+PAL 2011 11   115.76
+PAL 2011 12   138.26
+PAL 2012  1   151.63
+PAL 2012  2   152.60
+PAL 2012  3   148.31
+PAL 2012  4   147.10
+PAL 2012  5   137.00
+PAL 2012  6   105.69
+PAL 2012  7    93.71
+PAL 2012  8   119.30
+PAL 2012  9   131.70
+PAL 2012 10   127.10
+PAL 2012 11   140.12
+PAL 2012 12   156.28
+PAL 2013  1   157.21
+PAL 2013  2   157.33
+PAL 2013  3   157.81
+PAL 2013  4   150.75
+PAL 2013  5   132.19
+PAL 2013  6   106.91
+PAL 2013  7    97.20
+PAL 2013  8   105.06
+PAL 2013  9   108.00
+PAL 2013 10   103.82
+PAL 2013 11   109.51
+PAL 2013 12   125.91
+PAL 2014  1   147.57
+PAL 2014  2   161.99
+PAL 2014  3   156.17
+PAL 2014  4   143.57
+PAL 2014  5   127.77
+PAL 2014  6   103.26
+PAL 2014  7    95.56
+PAL 2014  8   113.04
+PAL 2014  9   120.85
+PAL 2014 10   115.44
+PAL 2014 11   122.09
+PAL 2014 12   133.52
+PAL 2015  1   141.13
+PAL 2015  2   144.41
+PAL 2015  3   145.58
+PAL 2015  4   144.47
+PAL 2015  5   129.16
+PAL 2015  6   102.47
+PAL 2015  7    98.00
+PAL 2015  8   115.27
+PAL 2015  9   118.74
+PAL 2015 10   112.24
+PAL 2015 11   121.13
+PAL 2015 12   135.61
+PAL 2016  1   147.68
+PAL 2016  2   161.50
+PAL 2016  3   165.59
+PAL 2016  4   149.71
+PAL 2016  5   124.25
+PAL 2016  6   102.42
+PAL 2016  7    91.35
+PAL 2016  8    97.68
+PAL 2016  9   104.94
+PAL 2016 10   111.22
+PAL 2016 11   120.44
+PAL 2016 12   124.10
+PAL 2017  1   127.33
+PAL 2017  2   139.07
+PAL 2017  3   145.66
+PAL 2017  4   136.88
+PAL 2017  5   119.69
+PAL 2017  6    94.14
+PAL 2017  7    84.25
+PAL 2017  8   101.09
+PAL 2017  9   121.77
+PAL 2017 10   125.68
+PAL 2017 11   123.28
+PAL 2017 12   129.62
+PAL 2018  1   148.86
+PAL 2018  2   161.31
+PAL 2018  3   154.12
+PAL 2018  4   139.36
+PAL 2018  5   123.54
+PAL 2018  6    99.46
+PAL 2018  7    91.42
+PAL 2018  8   105.55
+PAL 2018  9   113.14
+PAL 2018 10   113.65
+PAL 2018 11   122.63
+PAL 2018 12   133.38
+PAL 2019  1   138.56
+PAL 2019  2   141.36
+PAL 2019  3   140.76
+PAL 2019  4   136.63
+PAL 2019  5   121.00
+PAL 2019  6    94.77
+PAL 2019  7    89.74
+PAL 2019  8   111.05
+PAL 2019  9   121.64
+PAL 2019 10   119.04
+PAL 2019 11   124.80
+PAL 2019 12   127.64
+PAL 2020  1   125.85
+PAL 2020  2   132.35
+PAL 2020  3   136.85
+PAL 2020  4   133.88
+PAL 2020  5   120.11
+PAL 2020  6    97.01
+PAL 2020  7    90.56
+PAL 2020 10   121.43
+PAL 2020 11   128.33
+PAL 2020 12   141.50
+PAL 2021  1   146.54
+PAL 2021  2   142.08
+PAL 2021  3   138.65
+PAL 2021  4   136.87
+PAL 2021  5   123.83
+PAL 2021  6   100.14
+PAL 2021  7    98.05
+PAL 2021  8   131.66
+PAL 2021  9   150.36
+PAL 2021 10   141.69
+PAL 2021 11   136.44
+PAL 2021 12   141.56

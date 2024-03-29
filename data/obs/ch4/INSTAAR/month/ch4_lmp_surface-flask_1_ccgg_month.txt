@@ -1,0 +1,250 @@
+# number_of_header_lines: 55
+# comment:  
+# comment:  ************ USE OF GML DATA ****************
+# comment:  
+# comment: These data are made freely available to the public and the scientific
+# comment: community in the belief that their wide dissemination will lead to
+# comment: greater understanding and new scientific insights. To ensure that GML
+# comment: receives fair credit for their work please include relevant citation
+# comment: text in publications. We encourage users to contact the data providers,
+# comment: who can provide detailed information about the measurements and
+# comment: scientific insight.  In cases where the data are central to a
+# comment: publication, coauthorship for data providers may be appropriate.
+# comment: 
+# comment: 
+# comment: Please see accompanying README file, if available, for citation text.
+# comment:  
+# comment: Every effort is made to produce the most accurate and precise
+# comment: measurements possible.  However, we reserve the right to make
+# comment: corrections to the data based on recalibration of standard gases
+# comment: or for other reasons deemed scientifically justified.
+# comment: 
+# comment: We are not responsible for results and conclusions based on use
+# comment: of these data without regard to this warning.
+# comment: 
+# contact_parameter: CH4 CCGG (Individual Flasks)
+# contact_name: Xin Lan
+# contact_telephone: (999) 999-9999
+# contact_email: xin.lan@noaa.gov
+# comment: 
+# comment:  ************ COLLABORATORS ***************
+# comment: 
+# comment: NOAA thanks the following collaborators without
+# comment: whom these measurements would not be possible.
+# comment: 
+# collaborator_name: Ente per le Nuove tecnologie, l’Energia
+# collaborator_name: e l’Ambiente [ENEA]
+# collaborator_url: http://www.palermo.enea.it/Lampedusa/eng/default.htm
+# comment: 
+# comment:  ************ RECIPROCITY AGREEMENT ***************
+# comment: 
+# comment:
+# comment:  ************ DATA DESCRIPTION ***************
+# comment:
+# description_site-code: lmp
+# description_project-abbr: ccg_surface
+# description_strategy-abbr: flask
+# description_analysis-constraints: flag:..%
+# description_creation-time: 2023-08-28 15:10:05
+# comment:
+# comment:  ************ DATA DOCUMENTATION ***************
+# comment:
+# comment: Please refer to the species-specific README file in the
+# comment: appropriate directory folder at https://gml.noaa.gov/aftp/data/trace_gases/.
+# comment:
+# data_fields: site year month value
+LMP 2006 10  1833.86
+LMP 2006 11  1843.93
+LMP 2006 12  1856.58
+LMP 2007  1  1855.80
+LMP 2007  2  1856.41
+LMP 2007  3  1864.55
+LMP 2007  4  1862.72
+LMP 2007  5  1850.22
+LMP 2007  6  1837.17
+LMP 2007  7  1834.78
+LMP 2007  8  1842.88
+LMP 2007  9  1851.36
+LMP 2007 10  1853.83
+LMP 2007 11  1863.47
+LMP 2007 12  1875.21
+LMP 2008  1  1874.70
+LMP 2008  2  1866.42
+LMP 2008  3  1860.12
+LMP 2008  4  1867.63
+LMP 2008  5  1861.19
+LMP 2008  6  1838.69
+LMP 2008  7  1838.16
+LMP 2008  8  1841.15
+LMP 2008  9  1850.91
+LMP 2008 10  1857.66
+LMP 2008 11  1862.49
+LMP 2008 12  1868.87
+LMP 2009  1  1873.57
+LMP 2009  2  1883.57
+LMP 2009  3  1885.45
+LMP 2009  4  1881.99
+LMP 2009  5  1874.32
+LMP 2009  6  1863.97
+LMP 2009  7  1853.63
+LMP 2009  8  1851.41
+LMP 2009  9  1858.17
+LMP 2009 10  1868.42
+LMP 2009 11  1871.31
+LMP 2009 12  1870.24
+LMP 2010  1  1871.02
+LMP 2010  2  1872.59
+LMP 2010  3  1876.65
+LMP 2010  4  1885.39
+LMP 2010  5  1884.11
+LMP 2010  6  1873.36
+LMP 2010  7  1859.06
+LMP 2010  8  1850.46
+LMP 2010  9  1858.93
+LMP 2010 10  1869.92
+LMP 2010 11  1868.56
+LMP 2010 12  1879.71
+LMP 2011  1  1888.73
+LMP 2011  2  1883.25
+LMP 2011  3  1896.47
+LMP 2011  4  1899.87
+LMP 2011  5  1881.72
+LMP 2011  6  1863.12
+LMP 2011  7  1859.45
+LMP 2011  8  1861.17
+LMP 2011  9  1864.43
+LMP 2011 10  1874.54
+LMP 2011 11  1876.30
+LMP 2011 12  1872.12
+LMP 2012  1  1885.78
+LMP 2012  2  1898.97
+LMP 2012  3  1890.06
+LMP 2012  4  1884.91
+LMP 2012  5  1881.51
+LMP 2012  6  1868.03
+LMP 2012  7  1864.65
+LMP 2012  8  1869.34
+LMP 2012  9  1871.76
+LMP 2012 10  1871.43
+LMP 2012 11  1881.88
+LMP 2012 12  1894.30
+LMP 2013  1  1902.61
+LMP 2013  2  1911.76
+LMP 2013  3  1905.07
+LMP 2013  4  1895.86
+LMP 2013  5  1895.89
+LMP 2013  6  1888.84
+LMP 2013  7  1882.62
+LMP 2013  8  1876.13
+LMP 2013  9  1871.13
+LMP 2013 10  1871.38
+LMP 2013 11  1884.95
+LMP 2013 12  1892.55
+LMP 2014  1  1892.04
+LMP 2014  2  1905.22
+LMP 2014  3  1905.59
+LMP 2014  4  1899.22
+LMP 2014  5  1903.45
+LMP 2014  6  1907.23
+LMP 2014  7  1901.83
+LMP 2014  8  1887.31
+LMP 2014  9  1883.23
+LMP 2014 10  1895.34
+LMP 2014 11  1909.61
+LMP 2014 12  1913.39
+LMP 2015  1  1910.44
+LMP 2015  2  1918.81
+LMP 2015  3  1917.96
+LMP 2015  4  1907.91
+LMP 2015  5  1911.58
+LMP 2015  6  1907.62
+LMP 2015  7  1895.39
+LMP 2015  8  1898.61
+LMP 2015  9  1901.36
+LMP 2015 10  1901.67
+LMP 2015 11  1910.33
+LMP 2015 12  1915.33
+LMP 2016  1  1917.67
+LMP 2016  2  1918.94
+LMP 2016  3  1923.61
+LMP 2016  4  1925.83
+LMP 2016  5  1915.89
+LMP 2016  6  1901.57
+LMP 2016  7  1907.89
+LMP 2016  8  1917.70
+LMP 2016  9  1919.43
+LMP 2016 10  1924.95
+LMP 2016 11  1922.92
+LMP 2016 12  1923.60
+LMP 2017  1  1933.34
+LMP 2017  2  1930.69
+LMP 2017  3  1937.48
+LMP 2017  4  1938.98
+LMP 2017  5  1921.09
+LMP 2017  6  1906.29
+LMP 2017  7  1902.23
+LMP 2017  8  1908.14
+LMP 2017  9  1917.72
+LMP 2017 10  1924.95
+LMP 2017 11  1931.24
+LMP 2017 12  1932.85
+LMP 2018  1  1929.94
+LMP 2018  2  1933.26
+LMP 2018  3  1938.77
+LMP 2018  4  1948.45
+LMP 2018  5  1943.40
+LMP 2018  6  1920.86
+LMP 2018  7  1922.58
+LMP 2018  8  1930.24
+LMP 2018  9  1920.88
+LMP 2018 10  1916.64
+LMP 2018 11  1923.90
+LMP 2018 12  1942.90
+LMP 2019  1  1951.69
+LMP 2019  2  1942.90
+LMP 2019  3  1940.38
+LMP 2019  4  1945.10
+LMP 2019  5  1940.89
+LMP 2019  6  1926.13
+LMP 2019  7  1926.68
+LMP 2019  8  1936.54
+LMP 2019  9  1938.43
+LMP 2019 10  1941.64
+LMP 2019 11  1946.85
+LMP 2019 12  1949.73
+LMP 2020  1  1955.81
+LMP 2020  2  1960.53
+LMP 2020  3  1960.64
+LMP 2020  4  1958.98
+LMP 2020  5  1954.21
+LMP 2020  6  1945.55
+LMP 2020  7  1943.63
+LMP 2020  8  1943.94
+LMP 2020  9  1942.38
+LMP 2020 10  1956.31
+LMP 2020 11  1966.16
+LMP 2020 12  1963.95
+LMP 2021  1  1961.38
+LMP 2021  2  1970.65
+LMP 2021  3  1979.15
+LMP 2021  4  1972.91
+LMP 2021  5  1969.26
+LMP 2021  6  1962.02
+LMP 2021  7  1951.49
+LMP 2021  8  1960.69
+LMP 2021  9  1972.93
+LMP 2021 10  1978.21
+LMP 2021 11  1987.05
+LMP 2021 12  1997.24
+LMP 2022  1  1998.00
+LMP 2022  2  1997.65
+LMP 2022  3  2001.57
+LMP 2022  4  2003.91
+LMP 2022  5  1990.10
+LMP 2022  6  1969.09
+LMP 2022  7  1965.54
+LMP 2022  8  1970.82
+LMP 2022  9  1972.61
+LMP 2022 10  1975.46
+LMP 2022 11  1979.87
+LMP 2022 12  1985.13

@@ -1,0 +1,152 @@
+# number_of_header_lines: 69
+# comment:  
+# comment:  ************ USE OF GML DATA ****************
+# comment:  
+# comment: These data are made freely available to the public and the
+# comment: scientific community in the belief that their wide dissemination
+# comment: will lead to greater understanding and new scientific insights.
+# comment: The availability of these data does not constitute publication
+# comment: of the data.  NOAA relies on the ethics and integrity of the user to
+# comment: ensure that GML receives fair credit for their work.  If the data 
+# comment: are obtained for potential use in a publication or presentation, 
+# comment: GML should be informed at the outset of the nature of this work.  
+# comment: If the GML data are essential to the work, or if an important 
+# comment: result or conclusion depends on the GML data, co-authorship
+# comment: may be appropriate.  This should be discussed at an early stage in
+# comment: the work.  Manuscripts using the GML data should be sent to GML
+# comment: for review before they are submitted for publication so we can
+# comment: ensure that the quality and limitations of the data are accurately
+# comment: represented.
+# comment: Please see accompanying README file, if available, for citation text.
+# comment:  
+# comment: Every effort is made to produce the most accurate and precise
+# comment: measurements possible.  However, we reserve the right to make
+# comment: corrections to the data based on recalibration of standard gases
+# comment: or for other reasons deemed scientifically justified.
+# comment: 
+# comment: We are not responsible for results and conclusions based on use
+# comment: of these data without regard to this warning.
+# comment: 
+# contact_parameter: CO CCGG (Individual Flasks)
+# contact_name: Gabrielle Petron
+# contact_telephone: (720) 295-0145
+# contact_email: Gabrielle.Petron@noaa.gov
+# comment: 
+# comment:  ************ COLLABORATORS ***************
+# comment: 
+# comment: NOAA thanks the following collaborators without
+# comment: whom these measurements would not be possible.
+# comment: 
+# collaborator_name: WITN Television [WITN]
+# comment: 
+# comment:  ************ RECIPROCITY AGREEMENT ***************
+# comment: 
+# comment: Use of these data implies an agreement to reciprocate.
+# comment: Laboratories making similar measurements agree to make their
+# comment: own data available to the general public and to the scientific
+# comment: community in an equally complete and easily accessible form.
+# comment: Modelers are encouraged to make available to the community,
+# comment: upon request, their own tools used in the interpretation
+# comment: of the GML data, namely well documented model code, transport
+# comment: fields, modeled mole fractions, and additional information 
+# comment: necessary for other scientists to repeat the work and to run 
+# comment: modified versions. Model availability includes collaborative 
+# comment: support for new users of the models.
+# comment:
+# comment:  ************ DATA DESCRIPTION ***************
+# comment:
+# description_site-code: itn
+# description_project-abbr: ccg_surface
+# description_strategy-abbr: flask
+# description_analysis-constraints: flag:..%
+# description_creation-time: 2022-07-28 12:39:20
+# comment:
+# comment:  ************ DATA DOCUMENTATION ***************
+# comment:
+# comment: Please refer to the species-specific README file in the
+# comment: appropriate directory folder at https://gml.noaa.gov/aftp/data/trace_gases/.
+# comment:
+# data_fields: site year month value
+ITN 1992  7   162.38
+ITN 1992  8   165.39
+ITN 1992  9   153.78
+ITN 1992 10   137.29
+ITN 1992 11   143.63
+ITN 1992 12   149.36
+ITN 1993  1   149.76
+ITN 1993  2   168.76
+ITN 1993  3   194.00
+ITN 1993  4   202.81
+ITN 1993  5   201.76
+ITN 1993  6   199.84
+ITN 1993  7   185.14
+ITN 1993  8   171.27
+ITN 1993  9   161.13
+ITN 1993 10   135.97
+ITN 1993 11   138.04
+ITN 1993 12   182.35
+ITN 1994  1   200.59
+ITN 1994  2   192.10
+ITN 1994  3   198.42
+ITN 1994  4   204.25
+ITN 1994  5   190.05
+ITN 1994  6   153.06
+ITN 1994  7   127.79
+ITN 1994  8   150.27
+ITN 1994  9   186.52
+ITN 1994 10   188.91
+ITN 1994 11   197.08
+ITN 1994 12   237.22
+ITN 1995  1   246.60
+ITN 1995  2   212.87
+ITN 1995  3   189.86
+ITN 1995  4   190.74
+ITN 1995  5   181.08
+ITN 1995  6   159.68
+ITN 1995  7   152.34
+ITN 1995  8   152.45
+ITN 1995  9   134.88
+ITN 1995 10   129.56
+ITN 1995 11   174.24
+ITN 1995 12   220.63
+ITN 1996  1   219.02
+ITN 1996  2   201.92
+ITN 1996  3   197.64
+ITN 1996  4   194.35
+ITN 1996  5   179.06
+ITN 1996  6   158.64
+ITN 1996  7   155.33
+ITN 1996  8   162.06
+ITN 1996  9   151.60
+ITN 1996 10   148.72
+ITN 1996 11   171.21
+ITN 1996 12   178.71
+ITN 1997  1   173.57
+ITN 1997  2   186.86
+ITN 1997  3   198.39
+ITN 1997  4   187.99
+ITN 1997  5   163.92
+ITN 1997  6   145.28
+ITN 1997  7   131.26
+ITN 1997  8   123.28
+ITN 1997  9   141.98
+ITN 1997 10   185.44
+ITN 1997 11   202.23
+ITN 1997 12   186.16
+ITN 1998  1   177.38
+ITN 1998  2   187.59
+ITN 1998  3   192.63
+ITN 1998  4   201.04
+ITN 1998  5   219.67
+ITN 1998  6   211.60
+ITN 1998  7   174.83
+ITN 1998  8   161.36
+ITN 1998  9   178.28
+ITN 1998 10   206.03
+ITN 1998 11   222.46
+ITN 1998 12   214.48
+ITN 1999  1   206.95
+ITN 1999  2   214.77
+ITN 1999  3   216.62
+ITN 1999  4   197.09
+ITN 1999  5   176.32

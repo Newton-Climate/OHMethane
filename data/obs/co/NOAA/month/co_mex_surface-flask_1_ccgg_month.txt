@@ -1,0 +1,224 @@
+# number_of_header_lines: 71
+# comment:  
+# comment:  ************ USE OF GML DATA ****************
+# comment:  
+# comment: These data are made freely available to the public and the
+# comment: scientific community in the belief that their wide dissemination
+# comment: will lead to greater understanding and new scientific insights.
+# comment: The availability of these data does not constitute publication
+# comment: of the data.  NOAA relies on the ethics and integrity of the user to
+# comment: ensure that GML receives fair credit for their work.  If the data 
+# comment: are obtained for potential use in a publication or presentation, 
+# comment: GML should be informed at the outset of the nature of this work.  
+# comment: If the GML data are essential to the work, or if an important 
+# comment: result or conclusion depends on the GML data, co-authorship
+# comment: may be appropriate.  This should be discussed at an early stage in
+# comment: the work.  Manuscripts using the GML data should be sent to GML
+# comment: for review before they are submitted for publication so we can
+# comment: ensure that the quality and limitations of the data are accurately
+# comment: represented.
+# comment: Please see accompanying README file, if available, for citation text.
+# comment:  
+# comment: Every effort is made to produce the most accurate and precise
+# comment: measurements possible.  However, we reserve the right to make
+# comment: corrections to the data based on recalibration of standard gases
+# comment: or for other reasons deemed scientifically justified.
+# comment: 
+# comment: We are not responsible for results and conclusions based on use
+# comment: of these data without regard to this warning.
+# comment: 
+# contact_parameter: CO CCGG (Individual Flasks)
+# contact_name: Gabrielle Petron
+# contact_telephone: (720) 295-0145
+# contact_email: Gabrielle.Petron@noaa.gov
+# comment: 
+# comment:  ************ COLLABORATORS ***************
+# comment: 
+# comment: NOAA thanks the following collaborators without
+# comment: whom these measurements would not be possible.
+# comment: 
+# collaborator_name: Sistema Internacional de Monitoreo Ambiental
+# collaborator_name:  [SIMA]
+# collaborator_url: http://www.sima.com.mx/
+# comment: 
+# comment:  ************ RECIPROCITY AGREEMENT ***************
+# comment: 
+# comment: Use of these data implies an agreement to reciprocate.
+# comment: Laboratories making similar measurements agree to make their
+# comment: own data available to the general public and to the scientific
+# comment: community in an equally complete and easily accessible form.
+# comment: Modelers are encouraged to make available to the community,
+# comment: upon request, their own tools used in the interpretation
+# comment: of the GML data, namely well documented model code, transport
+# comment: fields, modeled mole fractions, and additional information 
+# comment: necessary for other scientists to repeat the work and to run 
+# comment: modified versions. Model availability includes collaborative 
+# comment: support for new users of the models.
+# comment:
+# comment:  ************ DATA DESCRIPTION ***************
+# comment:
+# description_site-code: mex
+# description_project-abbr: ccg_surface
+# description_strategy-abbr: flask
+# description_analysis-constraints: flag:..%
+# description_creation-time: 2022-07-28 12:39:32
+# comment:
+# comment:  ************ DATA DOCUMENTATION ***************
+# comment:
+# comment: Please refer to the species-specific README file in the
+# comment: appropriate directory folder at https://gml.noaa.gov/aftp/data/trace_gases/.
+# comment:
+# data_fields: site year month value
+MEX 2009  1   124.37
+MEX 2009  2   118.06
+MEX 2009  3   109.11
+MEX 2009  4   140.49
+MEX 2009  5   169.29
+MEX 2009  6   127.68
+MEX 2009  7    83.25
+MEX 2009  8    84.14
+MEX 2009  9    95.57
+MEX 2009 10   100.31
+MEX 2009 11    97.61
+MEX 2009 12    98.86
+MEX 2010  1   106.45
+MEX 2010  2   109.29
+MEX 2010  3   127.03
+MEX 2010  4   161.99
+MEX 2010  5   151.38
+MEX 2010  6   105.12
+MEX 2010  7    81.41
+MEX 2010  8    79.66
+MEX 2010  9    74.34
+MEX 2010 10    89.68
+MEX 2010 11   111.97
+MEX 2010 12   102.09
+MEX 2011  1    92.05
+MEX 2011  2   102.86
+MEX 2011  3   112.98
+MEX 2011  4   116.48
+MEX 2011  5   111.97
+MEX 2011  6    96.15
+MEX 2011  7    83.32
+MEX 2011  8    83.57
+MEX 2011  9    88.50
+MEX 2011 10    97.73
+MEX 2011 11    96.06
+MEX 2011 12    79.18
+MEX 2012  1    75.93
+MEX 2012  2    87.77
+MEX 2012  3   107.47
+MEX 2012  4   132.20
+MEX 2012  5   128.68
+MEX 2012  6    91.66
+MEX 2012  7    77.99
+MEX 2012  8    90.01
+MEX 2012  9    89.23
+MEX 2012 10    90.97
+MEX 2012 11   104.26
+MEX 2012 12   108.05
+MEX 2013  1    99.51
+MEX 2013  2    94.44
+MEX 2013  3   125.56
+MEX 2013  4   182.49
+MEX 2013  5   177.77
+MEX 2013  6   110.35
+MEX 2013  7    74.22
+MEX 2013  8    78.94
+MEX 2013  9    87.67
+MEX 2013 10    89.48
+MEX 2013 11    87.54
+MEX 2013 12    95.18
+MEX 2014  1   114.62
+MEX 2014  2   114.57
+MEX 2014  3   109.88
+MEX 2014  4   126.23
+MEX 2014  5   129.95
+MEX 2014  6    96.34
+MEX 2014  7    75.72
+MEX 2014  8    78.39
+MEX 2014  9    81.11
+MEX 2014 10    84.11
+MEX 2014 11    96.19
+MEX 2014 12   114.27
+MEX 2015  1   121.76
+MEX 2015  2   100.87
+MEX 2015  3    89.94
+MEX 2015  4   107.03
+MEX 2015  5   113.01
+MEX 2015  6    88.84
+MEX 2015  7    78.36
+MEX 2015  8    80.98
+MEX 2015  9    79.77
+MEX 2015 10    88.54
+MEX 2015 11    98.95
+MEX 2015 12   100.09
+MEX 2016  1   106.35
+MEX 2016  2   108.20
+MEX 2016  3   105.55
+MEX 2016  4   122.06
+MEX 2016  5   130.37
+MEX 2016  6   105.04
+MEX 2016  7    81.00
+MEX 2016  8    78.08
+MEX 2016  9    77.07
+MEX 2016 10    87.96
+MEX 2016 11   100.20
+MEX 2016 12    98.44
+MEX 2017  1    97.74
+MEX 2017  2    99.97
+MEX 2017  3   112.12
+MEX 2017  4   139.46
+MEX 2017  5   134.86
+MEX 2017  6    90.94
+MEX 2017  7    68.42
+MEX 2017  8    73.70
+MEX 2017  9    80.95
+MEX 2017 10    87.99
+MEX 2017 11    87.37
+MEX 2017 12    84.56
+MEX 2018  1    93.95
+MEX 2018  2   101.09
+MEX 2018  3   107.81
+MEX 2018  4   121.32
+MEX 2018  5   114.73
+MEX 2018  6    86.28
+MEX 2018  7    75.11
+MEX 2018  8    77.72
+MEX 2018  9    75.79
+MEX 2018 10    79.46
+MEX 2018 11    85.42
+MEX 2018 12    84.43
+MEX 2019  1    82.79
+MEX 2019  2    87.21
+MEX 2019  3   115.37
+MEX 2019  4   155.57
+MEX 2019  5   147.26
+MEX 2019  6    98.58
+MEX 2019  7    79.52
+MEX 2019  8    84.92
+MEX 2019  9    82.30
+MEX 2019 10    84.34
+MEX 2019 11    92.82
+MEX 2019 12    89.05
+MEX 2020  1    85.16
+MEX 2020  2   103.06
+MEX 2020  3   147.75
+MEX 2020  7    74.86
+MEX 2020  8    76.54
+MEX 2020  9    80.44
+MEX 2020 10    87.11
+MEX 2020 11    85.52
+MEX 2020 12    76.14
+MEX 2021  1    87.20
+MEX 2021  2   118.86
+MEX 2021  3   144.73
+MEX 2021  4   156.66
+MEX 2021  5   136.25
+MEX 2021  6   106.61
+MEX 2021  7    98.62
+MEX 2021  8    97.70
+MEX 2021  9    91.14
+MEX 2021 10    98.52
+MEX 2021 11   106.45
+MEX 2021 12   105.83

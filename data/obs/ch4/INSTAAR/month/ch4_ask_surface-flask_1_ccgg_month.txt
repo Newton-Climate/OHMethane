@@ -1,0 +1,355 @@
+# number_of_header_lines: 53
+# comment:  
+# comment:  ************ USE OF GML DATA ****************
+# comment:  
+# comment: These data are made freely available to the public and the scientific
+# comment: community in the belief that their wide dissemination will lead to
+# comment: greater understanding and new scientific insights. To ensure that GML
+# comment: receives fair credit for their work please include relevant citation
+# comment: text in publications. We encourage users to contact the data providers,
+# comment: who can provide detailed information about the measurements and
+# comment: scientific insight.  In cases where the data are central to a
+# comment: publication, coauthorship for data providers may be appropriate.
+# comment: 
+# comment: 
+# comment: Please see accompanying README file, if available, for citation text.
+# comment:  
+# comment: Every effort is made to produce the most accurate and precise
+# comment: measurements possible.  However, we reserve the right to make
+# comment: corrections to the data based on recalibration of standard gases
+# comment: or for other reasons deemed scientifically justified.
+# comment: 
+# comment: We are not responsible for results and conclusions based on use
+# comment: of these data without regard to this warning.
+# comment: 
+# contact_parameter: CH4 CCGG (Individual Flasks)
+# contact_name: Xin Lan
+# contact_telephone: (999) 999-9999
+# contact_email: xin.lan@noaa.gov
+# comment: 
+# comment:  ************ COLLABORATORS ***************
+# comment: 
+# comment: NOAA thanks the following collaborators without
+# comment: whom these measurements would not be possible.
+# comment: 
+# collaborator_name: Office National de la Meteorologie [ONM]
+# comment: 
+# comment:  ************ RECIPROCITY AGREEMENT ***************
+# comment: 
+# comment:
+# comment:  ************ DATA DESCRIPTION ***************
+# comment:
+# description_site-code: ask
+# description_project-abbr: ccg_surface
+# description_strategy-abbr: flask
+# description_analysis-constraints: flag:..%
+# description_creation-time: 2023-08-28 15:09:35
+# comment:
+# comment:  ************ DATA DOCUMENTATION ***************
+# comment:
+# comment: Please refer to the species-specific README file in the
+# comment: appropriate directory folder at https://gml.noaa.gov/aftp/data/trace_gases/.
+# comment:
+# data_fields: site year month value
+ASK 1995  9  1774.48
+ASK 1995 10  1784.31
+ASK 1995 11  1792.48
+ASK 1995 12  1785.12
+ASK 1996  1  1779.63
+ASK 1996  2  1776.89
+ASK 1996  3  1782.57
+ASK 1996  4  1788.90
+ASK 1996  5  1768.77
+ASK 1996  6  1759.56
+ASK 1996  7  1770.94
+ASK 1996  8  1774.52
+ASK 1996  9  1769.57
+ASK 1996 10  1777.66
+ASK 1996 11  1782.87
+ASK 1996 12  1774.22
+ASK 1997  1  1778.98
+ASK 1997  2  1786.56
+ASK 1997  3  1786.98
+ASK 1997  4  1782.92
+ASK 1997  5  1778.00
+ASK 1997  6  1771.82
+ASK 1997  7  1768.69
+ASK 1997  8  1772.08
+ASK 1997  9  1771.10
+ASK 1997 10  1773.85
+ASK 1997 11  1788.73
+ASK 1997 12  1797.75
+ASK 1998  1  1786.12
+ASK 1998  2  1792.78
+ASK 1998  3  1802.16
+ASK 1998  4  1782.98
+ASK 1998  5  1775.49
+ASK 1998  6  1781.18
+ASK 1998  7  1787.21
+ASK 1998  8  1791.47
+ASK 1998  9  1788.54
+ASK 1998 10  1797.08
+ASK 1998 11  1807.08
+ASK 1998 12  1804.96
+ASK 1999  1  1805.06
+ASK 1999  2  1805.25
+ASK 1999  3  1807.64
+ASK 1999  4  1800.95
+ASK 1999  5  1794.61
+ASK 1999  6  1798.34
+ASK 1999  7  1795.46
+ASK 1999  8  1792.45
+ASK 1999  9  1795.36
+ASK 1999 10  1803.37
+ASK 1999 11  1808.02
+ASK 1999 12  1804.16
+ASK 2000  1  1807.18
+ASK 2000  2  1816.00
+ASK 2000  3  1807.78
+ASK 2000  4  1794.36
+ASK 2000  5  1789.54
+ASK 2000  6  1791.38
+ASK 2000  7  1793.09
+ASK 2000  8  1798.61
+ASK 2000  9  1801.77
+ASK 2000 10  1796.66
+ASK 2000 11  1803.44
+ASK 2000 12  1812.25
+ASK 2001  1  1812.26
+ASK 2001  2  1807.05
+ASK 2001  3  1804.10
+ASK 2001  4  1802.84
+ASK 2001  5  1800.03
+ASK 2001  6  1798.89
+ASK 2001  7  1799.73
+ASK 2001  8  1795.35
+ASK 2001  9  1788.37
+ASK 2001 10  1793.82
+ASK 2001 11  1803.02
+ASK 2001 12  1807.65
+ASK 2002  1  1810.45
+ASK 2002  2  1805.54
+ASK 2002  3  1801.96
+ASK 2002  4  1803.97
+ASK 2002  5  1799.06
+ASK 2002  6  1792.55
+ASK 2002  7  1789.77
+ASK 2002  8  1789.24
+ASK 2002  9  1792.32
+ASK 2002 10  1804.81
+ASK 2002 11  1809.92
+ASK 2002 12  1805.27
+ASK 2003  1  1807.79
+ASK 2003  2  1809.63
+ASK 2003  3  1808.90
+ASK 2003  4  1803.19
+ASK 2003  5  1796.75
+ASK 2003  6  1794.79
+ASK 2003  7  1797.97
+ASK 2003  8  1802.92
+ASK 2003  9  1804.62
+ASK 2003 10  1803.07
+ASK 2003 11  1808.59
+ASK 2003 12  1819.60
+ASK 2004  1  1815.69
+ASK 2004  2  1811.90
+ASK 2004  3  1809.68
+ASK 2004  4  1800.42
+ASK 2004  5  1794.52
+ASK 2004  6  1795.00
+ASK 2004  7  1794.34
+ASK 2004  8  1794.59
+ASK 2004  9  1800.15
+ASK 2004 10  1798.00
+ASK 2004 11  1800.31
+ASK 2004 12  1816.66
+ASK 2005  1  1816.89
+ASK 2005  2  1805.51
+ASK 2005  3  1802.04
+ASK 2005  4  1799.66
+ASK 2005  5  1796.52
+ASK 2005  6  1795.46
+ASK 2005  7  1793.73
+ASK 2005  8  1795.46
+ASK 2005  9  1800.53
+ASK 2005 10  1802.99
+ASK 2005 11  1806.45
+ASK 2005 12  1812.70
+ASK 2006  1  1817.68
+ASK 2006  2  1813.39
+ASK 2006  3  1805.17
+ASK 2006  4  1801.25
+ASK 2006  5  1800.34
+ASK 2006  6  1799.18
+ASK 2006  7  1799.37
+ASK 2006  8  1796.49
+ASK 2006  9  1797.02
+ASK 2006 10  1803.17
+ASK 2006 11  1810.06
+ASK 2006 12  1811.46
+ASK 2007  1  1805.81
+ASK 2007  2  1812.15
+ASK 2007  3  1815.75
+ASK 2007  4  1805.53
+ASK 2007  5  1800.54
+ASK 2007  6  1797.60
+ASK 2007  7  1799.36
+ASK 2007  8  1805.62
+ASK 2007  9  1805.25
+ASK 2007 10  1804.94
+ASK 2007 11  1812.91
+ASK 2007 12  1821.76
+ASK 2008  1  1827.42
+ASK 2008  2  1823.88
+ASK 2008  3  1818.60
+ASK 2008  4  1811.51
+ASK 2008  5  1801.30
+ASK 2008  6  1799.25
+ASK 2008  7  1806.33
+ASK 2008  8  1812.84
+ASK 2008  9  1812.69
+ASK 2008 10  1817.66
+ASK 2008 11  1825.13
+ASK 2008 12  1829.90
+ASK 2009  1  1828.27
+ASK 2009  2  1824.76
+ASK 2009  3  1829.17
+ASK 2009  4  1834.75
+ASK 2009  5  1827.74
+ASK 2009  6  1814.92
+ASK 2009  7  1815.25
+ASK 2009  8  1820.15
+ASK 2009  9  1819.10
+ASK 2009 10  1822.45
+ASK 2009 11  1828.03
+ASK 2009 12  1825.16
+ASK 2010  1  1818.79
+ASK 2010  2  1816.08
+ASK 2010  3  1817.44
+ASK 2010  4  1818.20
+ASK 2010  5  1818.72
+ASK 2010  6  1818.31
+ASK 2010  7  1821.58
+ASK 2010  8  1825.28
+ASK 2010  9  1822.65
+ASK 2010 10  1821.70
+ASK 2010 11  1825.73
+ASK 2010 12  1834.11
+ASK 2011  1  1833.04
+ASK 2011  2  1830.46
+ASK 2011  3  1837.63
+ASK 2011  4  1837.69
+ASK 2011  5  1829.57
+ASK 2011  6  1823.42
+ASK 2011  7  1823.04
+ASK 2011  8  1825.73
+ASK 2011  9  1829.90
+ASK 2011 10  1831.04
+ASK 2011 11  1834.84
+ASK 2011 12  1842.20
+ASK 2012  1  1848.22
+ASK 2012  2  1856.01
+ASK 2012  3  1851.62
+ASK 2012  4  1839.63
+ASK 2012  5  1830.80
+ASK 2012  6  1823.55
+ASK 2012  7  1825.49
+ASK 2012  8  1835.76
+ASK 2012  9  1838.92
+ASK 2012 10  1836.64
+ASK 2012 11  1844.08
+ASK 2012 12  1852.35
+ASK 2013  4  1843.19
+ASK 2013  5  1835.65
+ASK 2013  6  1837.22
+ASK 2013  7  1845.31
+ASK 2013  8  1846.46
+ASK 2013  9  1844.23
+ASK 2013 10  1843.70
+ASK 2013 11  1856.52
+ASK 2013 12  1863.45
+ASK 2014  1  1850.80
+ASK 2014  2  1855.93
+ASK 2014  3  1867.26
+ASK 2014  4  1855.03
+ASK 2014  5  1844.77
+ASK 2014  6  1846.47
+ASK 2014  7  1846.88
+ASK 2014  8  1849.13
+ASK 2014  9  1852.65
+ASK 2014 10  1858.25
+ASK 2014 11  1864.74
+ASK 2014 12  1872.99
+ASK 2015  1  1870.41
+ASK 2015  2  1873.34
+ASK 2015  3  1884.76
+ASK 2015  4  1869.99
+ASK 2015  5  1857.98
+ASK 2015  6  1859.81
+ASK 2015  7  1856.99
+ASK 2015  8  1856.09
+ASK 2015  9  1856.35
+ASK 2015 10  1862.63
+ASK 2015 11  1873.53
+ASK 2015 12  1878.89
+ASK 2016  1  1878.50
+ASK 2016  2  1875.83
+ASK 2016  3  1881.47
+ASK 2016  4  1871.37
+ASK 2016  5  1857.94
+ASK 2016  6  1863.60
+ASK 2016  7  1866.20
+ASK 2016  8  1872.44
+ASK 2016  9  1876.96
+ASK 2016 10  1877.16
+ASK 2016 11  1884.57
+ASK 2016 12  1891.91
+ASK 2017  1  1890.77
+ASK 2017  2  1889.65
+ASK 2017  3  1892.52
+ASK 2017  4  1884.73
+ASK 2017  5  1869.28
+ASK 2017  6  1868.05
+ASK 2017  7  1872.37
+ASK 2017  8  1876.22
+ASK 2017  9  1881.48
+ASK 2017 10  1888.29
+ASK 2017 11  1892.85
+ASK 2017 12  1899.18
+ASK 2018  1  1899.39
+ASK 2018  2  1896.07
+ASK 2018  3  1900.62
+ASK 2018  4  1899.01
+ASK 2018  5  1886.73
+ASK 2018  6  1880.70
+ASK 2018  7  1882.84
+ASK 2018  8  1889.68
+ASK 2018  9  1897.61
+ASK 2018 10  1894.70
+ASK 2018 11  1896.38
+ASK 2018 12  1905.41
+ASK 2019  1  1905.23
+ASK 2019  2  1905.47
+ASK 2019  3  1908.57
+ASK 2019  4  1903.61
+ASK 2019  5  1890.18
+ASK 2019  6  1885.53
+ASK 2019  7  1891.22
+ASK 2019  8  1894.65
+ASK 2019  9  1896.48
+ASK 2019 10  1902.54
+ASK 2020  4  1913.08
+ASK 2020  5  1906.55
+ASK 2020  9  1912.85
+ASK 2020 10  1913.72
+ASK 2020 11  1922.36
+ASK 2020 12  1927.51
+ASK 2021  1  1925.71
+ASK 2021  2  1930.04
+ASK 2021  3  1932.53
+ASK 2021  4  1920.56
+ASK 2021  5  1916.45
+ASK 2021  6  1921.66
+ASK 2021  7  1920.30
+ASK 2021  8  1924.47
+ASK 2021  9  1929.86
