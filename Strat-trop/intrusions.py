@@ -1,7 +1,7 @@
 """
 -- Newton Nguyen
 
-Script for calculating tracor-tracor correlations
+Script for calculating tracer-tracer correlations
 Classifies intrusion and non-intrusion events from HIPPO Data
 Classification is based on ozone gradient
 
@@ -15,18 +15,18 @@ import matplotlib.pyplot as plt
 import seaborn as sns
 
 
-def read_hippo(filename, round_coordinates=True):
+def read_hippo(filename, round_coordinates=True, round_to=1):
     """
     Function to read the HIPPO aircraft atmospheric chemistry observations.
     Observations are point samples every 10 secs.
 
-    Note: obs timestamps are rounded down to the first of month.
-    This makes it easier to differentiate different flights.
-    there is also an option to round lon and lat to nearest degree.
+    Note: obs timestamps are rounded down to the first of month
+    option to round lon and lat to nearest degree or specified value.
 
     Parameters:
     * filename (str): path of HIPPO file
-    * round_coordinates (bool): if True, then round to nearest lon and lat degree
+    * round_coordinates (bool): if True, then round to nearest lon and lat degree or specified value
+    * round_to (float): the value to which lon and lat should be rounded (default is 1 degree)
 
     Returns:
     hippo_df (pd.DataFrame): the processed HIPPO files with the 
@@ -44,11 +44,12 @@ def read_hippo(filename, round_coordinates=True):
     # Rename columns to more generic names
     hippo_df.rename(columns={'GGLON': 'lon', 'GGLAT': 'lat', 'PSXC': 'p', 'CH4_QCLS': 'CH4', 'N2O_QCLS': 'N2O', 'O3_ppb': 'O3', 'H2O_UWV': 'H2O', 'CO.X': 'CO'}, inplace=True)
 
-    # Round lon and lat to nearest degree if round_coordinates is True
+    # --- #
+    # Round lon and lat to specified value if round_coordinates is True
+    # --- #
     if round_coordinates:
-        hippo_df['lon'] = np.round(hippo_df['lon'])
-        hippo_df['lat'] = np.round(hippo_df['lat'])
-
+        hippo_df['lon'] = np.round(hippo_df['lon'] / round_to) * round_to
+        hippo_df['lat'] = np.round(hippo_df['lat'] / round_to) * round_to
     # Round pressure to the nearest 100 hPa
     hippo_df['p'] = np.round(hippo_df['p'] / 100) * 100
 
@@ -137,6 +138,33 @@ def filter_colocate_data(data):
     return intrusion_data, non_intrusion_data
 
 
+def filter_dataframe(df, criteria):
+    """
+    Filter the DataFrame based on the criteria specified in a dictionary.
+
+    Parameters:
+    * df (pd.DataFrame): The DataFrame to filter
+    * criteria (dict): Dictionary specifying the filtering criteria
+    key is the specific variable of interest
+    value (either single or tupple) is the filter criteria
+
+    Returns:
+    pd.DataFrame: The filtered DataFrame
+    """
+    for key, value in criteria.items():
+        if isinstance(value, tuple) and len(value) == 2:
+            # Range filter
+            df = df[(df[key] >= value[0]) & (df[key] <= value[1])]
+        elif isinstance(value, (int, float)):
+            # Single value filter
+            df = df[df[key] == value]
+        else:
+            raise ValueError("Invalid filter value: must be a tuple (for range) or a single value")
+
+    return df
+
+
+
 def plot_correlations(intrusion_data, non_intrusion_data, tracers):
     """
     Plot correlations between chemical tracers for intrusion and non-intrusion events.
@@ -189,6 +217,7 @@ def plot_correlation_comparison(intrusion_data, non_intrusion_data, tracer_1, tr
     correlation_intrusion = calculate_correlation(intrusion_data, tracer_1, tracer_2)
     correlation_non_intrusion = calculate_correlation(non_intrusion_data, tracer_1, tracer_2)
 
+    print(f'Correlations for {tracer_1} and {tracer_2}: \n')
     print(f"Correlation during intrusion events: {correlation_intrusion}")
     print(f"Correlation not during intrusion events: {correlation_non_intrusion}")
 
@@ -206,19 +235,37 @@ def plot_correlation_comparison(intrusion_data, non_intrusion_data, tracer_1, tr
 filename = "../data/obs/aircraft/hippo_merged/HIPPO_all_missions_merge_10s_20121129.tbl"
 threshold = -10 # ppb O3 / HPa
 tracers = ['CH4', 'N2O', 'O3', 'H2O', 'CO']  # List of chemical tracers
-
+# --- #
 # Read and preprocess data
-hippo_df = read_hippo(filename)
+# --- #
+hippo_df = read_hippo(filename, round_coordinates=True, round_to=0.5)
 # Calculate vertical gradients
 hippo_df = calculate_vertical_gradient(hippo_df)
-# Detect intrusion events
+# Detect intrusion events based on ozone vertical gradient
 hippo_df = detect_intrusions(hippo_df, threshold)
-# Filter and colocate data
+
+# --- #
+# Define criteria for filtering the dataframe
+# --- #
+# Define filtering criteria in dict
+filter_criteria = {
+    'p': (300, 600),
+    # 'gradient_O3': (-300, None),  # Using None for open-ended range
+    # 'H2O': (None, 100),
+     'lat': (-60, 60)
+}
+
+# keep original data as copy
+unfiltered_df = hippo_df.copy() 
+# Filter intrusion data
+hippo_df = filter_dataframe(hippo_df, filter_criteria)
+# colocate data 
+# and sort into intrusion and non-intrusion dataframes
 intrusion_data, non_intrusion_data = filter_colocate_data(hippo_df)
 
-#
+# --- #
 # Data display and plot figures
-#
+# --- #
 tracer_1 = 'CH4'
 tracer_2 = 'O3'
 # plot correlations in scatter plot
